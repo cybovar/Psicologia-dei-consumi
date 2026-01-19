@@ -1,0 +1,3608 @@
+{
+  "banca_domande": [
+    {
+      "id": 1,
+      "c": "Fondamenti",
+      "q": "Che cos'è la psicologia del consumatore?",
+      "options": [
+        "Lo studio dei meccanismi economici del mercato",
+        "Lo studio dei processi psicologici e sociali che influenzano il consumo",
+        "L'analisi dei dati di vendita",
+        "La gestione del comportamento dei venditori"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "c": "Fondamenti",
+      "q": "Secondo Guéguen, il comportamento del consumatore è:",
+      "options": [
+        "Sempre razionale",
+        "Determinato solo dal reddito",
+        "Influenzato dal contesto sociale e situazionale",
+        "Basato esclusivamente sull'informazione disponibile"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "c": "Fondamenti",
+      "q": "Quale approccio caratterizza la psicologia del consumatore?",
+      "options": [
+        "Normativo",
+        "Clinico",
+        "Sperimentale",
+        "Giuridico"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "c": "Processo decisionale",
+      "q": "Qual è la prima fase del processo decisionale di acquisto?",
+      "options": [
+        "Ricerca di informazioni",
+        "Riconoscimento del bisogno",
+        "Valutazione delle alternative",
+        "Decisione finale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "c": "Processo decisionale",
+      "q": "Perché il consumatore non analizza tutte le alternative disponibili?",
+      "options": [
+        "Per mancanza di prodotti",
+        "Per limiti cognitivi e di tempo",
+        "Per disinteresse verso il prodotto",
+        "Per pressioni legali"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "c": "Processo decisionale",
+      "q": "Che funzione ha la valutazione post-acquisto?",
+      "options": [
+        "Stabilire il prezzo",
+        "Ridurre la dissonanza cognitiva",
+        "Aumentare la pubblicità",
+        "Modificare il prodotto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "c": "Euristiche",
+      "q": "Che cos'è un'euristica?",
+      "options": [
+        "Un errore sistematico",
+        "Una strategia di marketing",
+        "Una scorciatoia cognitiva",
+        "Un modello statistico"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "c": "Euristiche",
+      "q": "A cosa servono le euristiche nel consumo?",
+      "options": [
+        "A eliminare le emozioni",
+        "A velocizzare le decisioni",
+        "A migliorare la qualità dei prodotti",
+        "A ridurre il numero di scelte"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "c": "Influenza sociale",
+      "q": "Che cos'è la prova sociale?",
+      "options": [
+        "Un confronto tra prezzi",
+        "Una strategia di sconto",
+        "La tendenza a imitare il comportamento degli altri",
+        "Un test di qualità"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "c": "Influenza sociale",
+      "q": "Perché le recensioni online influenzano il consumo?",
+      "options": [
+        "Perché sono sempre affidabili",
+        "Perché rappresentano una norma sociale",
+        "Perché riducono il prezzo",
+        "Perché aumentano la pubblicità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "c": "Influenza sociale",
+      "q": "Cosa sono i gruppi di riferimento?",
+      "options": [
+        "Gruppi di venditori",
+        "Gruppi che influenzano atteggiamenti e comportamenti",
+        "Gruppi casuali di consumatori",
+        "Gruppi pubblicitari"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "c": "Tecniche di persuasione",
+      "q": "In cosa consiste la tecnica del piede nella porta?",
+      "options": [
+        "Fare una richiesta molto elevata",
+        "Ottenere prima una piccola richiesta",
+        "Ridurre il prezzo finale",
+        "Aumentare la pressione temporale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "c": "Tecniche di persuasione",
+      "q": "Qual è il principio psicologico alla base del piede nella porta?",
+      "options": [
+        "Reciprocità",
+        "Coerenza",
+        "Autorità",
+        "Scarsità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "c": "Tecniche di persuasione",
+      "q": "Cos'è la tecnica della porta in faccia?",
+      "options": [
+        "Una richiesta iniziale moderata",
+        "Una richiesta eccessiva seguita da una più moderata",
+        "Una tecnica di sconto",
+        "Un messaggio subliminale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "c": "Tecniche di persuasione",
+      "q": "La tecnica del low-ball consiste nel:",
+      "options": [
+        "Ridurre il prezzo dopo il rifiuto",
+        "Cambiare le condizioni dopo l'accettazione",
+        "Offrire un regalo",
+        "Creare scarsità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "c": "Emozioni",
+      "q": "Che ruolo hanno le emozioni nel consumo?",
+      "options": [
+        "Sono irrilevanti",
+        "Interferiscono negativamente",
+        "Influenzano decisioni e valutazioni",
+        "Agiscono solo dopo l'acquisto"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "c": "Emozioni",
+      "q": "Un umore positivo tende a:",
+      "options": [
+        "Ridurre gli acquisti",
+        "Aumentare gli acquisti impulsivi",
+        "Aumentare l'analisi razionale",
+        "Ridurre l'influenza sociale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "c": "Percezione",
+      "q": "Che cos'è il priming?",
+      "options": [
+        "Un tipo di pubblicità",
+        "L'attivazione inconscia di concetti",
+        "Un errore percettivo",
+        "Una tecnica di sconto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "c": "Percezione",
+      "q": "Perché il packaging è importante?",
+      "options": [
+        "Riduce i costi",
+        "Influenza la percezione di qualità",
+        "Garantisce la legalità",
+        "Sostituisce la pubblicità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "c": "Attenzione",
+      "q": "Perché l'attenzione del consumatore è selettiva?",
+      "options": [
+        "Per disinteresse",
+        "Per limiti cognitivi",
+        "Per mancanza di informazioni",
+        "Per influenza dei venditori"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "c": "Pubblicità",
+      "q": "Qual è lo scopo principale della pubblicità?",
+      "options": [
+        "Informare soltanto",
+        "Modificare atteggiamenti e comportamenti",
+        "Ridurre i prezzi",
+        "Eliminare la concorrenza"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "c": "Pubblicità",
+      "q": "Cos'è l'effetto di mera esposizione?",
+      "options": [
+        "Un effetto di saturazione",
+        "Un aumento della preferenza tramite ripetizione",
+        "Un errore percettivo",
+        "Un fenomeno di rifiuto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "c": "Atteggiamenti",
+      "q": "Che cos'è un atteggiamento?",
+      "options": [
+        "Un comportamento osservabile",
+        "Una valutazione stabile verso un oggetto",
+        "Una decisione razionale",
+        "Una risposta emotiva momentanea"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "c": "Atteggiamenti",
+      "q": "Come possono cambiare gli atteggiamenti?",
+      "options": [
+        "Solo con il tempo",
+        "Attraverso persuasione ed esperienza",
+        "Solo tramite pubblicità",
+        "Non possono cambiare"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "c": "Dissonanza cognitiva",
+      "q": "Cos'è la dissonanza cognitiva?",
+      "options": [
+        "Una strategia pubblicitaria",
+        "Un disagio dopo una scelta",
+        "Un errore di valutazione",
+        "Una norma sociale"
+      ],
+      "correct": 1
+    },
+
+    {
+      "id": 26,
+      "c": "Dissonanza cognitiva",
+      "q": "Quando è più probabile la dissonanza cognitiva?",
+      "options": [
+        "Negli acquisti banali",
+        "Negli acquisti costosi e importanti",
+        "Negli acquisti ripetuti",
+        "Negli acquisti obbligatori"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "c": "Ambiente di vendita",
+      "q": "Perché l'ambiente del negozio è rilevante?",
+      "options": [
+        "Influenza solo i venditori",
+        "Influenza emozioni e comportamento",
+        "Serve solo a orientarsi",
+        "Non ha effetti misurabili"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "c": "Ambiente di vendita",
+      "q": "Che effetto ha la musica lenta?",
+      "options": [
+        "Riduce le vendite",
+        "Aumenta il tempo di permanenza",
+        "Aumenta il rumore",
+        "Riduce l'attenzione"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "c": "Prezzo",
+      "q": "Il prezzo comunica anche:",
+      "options": [
+        "Solo il costo",
+        "Qualità e status",
+        "Disponibilità",
+        "Garanzia"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "c": "Prezzo",
+      "q": "Cos'è il prezzo di riferimento?",
+      "options": [
+        "Il prezzo ufficiale",
+        "Il prezzo medio di mercato",
+        "Il prezzo mentale del consumatore",
+        "Il prezzo imposto dalla legge"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "c": "Acquisto impulsivo",
+      "q": "Che cos'è un acquisto impulsivo?",
+      "options": [
+        "Un acquisto pianificato",
+        "Un acquisto razionale",
+        "Un acquisto non pianificato",
+        "Un acquisto obbligato"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 32,
+      "c": "Acquisto impulsivo",
+      "q": "Cosa favorisce l'acquisto impulsivo?",
+      "options": [
+        "Alto controllo cognitivo",
+        "Emozioni positive",
+        "Scarsa disponibilità",
+        "Analisi dettagliata"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "c": "Coinvolgimento",
+      "q": "Che cos'è il coinvolgimento del consumatore?",
+      "options": [
+        "La fedeltà al marchio",
+        "Il grado di importanza dell'acquisto",
+        "Il reddito disponibile",
+        "La frequenza di acquisto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "c": "Coinvolgimento",
+      "q": "Con alto coinvolgimento il processo decisionale è:",
+      "options": [
+        "Più rapido",
+        "Più emotivo",
+        "Più analitico",
+        "Casuale"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 35,
+      "c": "Marca",
+      "q": "Perché i marchi sono importanti?",
+      "options": [
+        "Aumentano il prezzo",
+        "Riducono il rischio percepito",
+        "Eliminano la concorrenza",
+        "Sostituiscono la qualità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 36,
+      "c": "Marca",
+      "q": "Cos'è la fedeltà alla marca?",
+      "options": [
+        "Una scelta obbligata",
+        "La tendenza a riacquistare lo stesso brand",
+        "Una strategia pubblicitaria",
+        "Un comportamento irrazionale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "c": "Memoria",
+      "q": "Che ruolo ha la memoria nel consumo?",
+      "options": [
+        "È irrilevante",
+        "Influenza scelte future",
+        "Serve solo per la pubblicità",
+        "Agisce solo a breve termine"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 38,
+      "c": "Memoria",
+      "q": "Perché le esperienze emotive sono ricordate meglio?",
+      "options": [
+        "Perché sono ripetute",
+        "Perché attivano un'elaborazione profonda",
+        "Perché sono razionali",
+        "Perché sono casuali"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 39,
+      "c": "Norme sociali",
+      "q": "Che cos'è una norma sociale?",
+      "options": [
+        "Una legge",
+        "Una regola implicita di comportamento",
+        "Una strategia di marketing",
+        "Un atteggiamento personale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "c": "Norme sociali",
+      "q": "Le norme sociali influenzano il consumo sostenibile?",
+      "options": [
+        "No",
+        "Solo in teoria",
+        "Sì",
+        "Solo negli acquisti costosi"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 41,
+      "c": "Etica",
+      "q": "Perché la persuasione solleva problemi etici?",
+      "options": [
+        "Perché è illegale",
+        "Perché può influenzare inconsapevolmente",
+        "Perché è inefficace",
+        "Perché riduce le vendite"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "c": "Etica",
+      "q": "Quando una tecnica diventa manipolativa?",
+      "options": [
+        "Quando è pubblicitaria",
+        "Quando riduce la libertà di scelta",
+        "Quando aumenta le vendite",
+        "Quando è legale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 43,
+      "c": "Consumatore",
+      "q": "Il consumatore è sempre consapevole delle influenze?",
+      "options": [
+        "Sì",
+        "No",
+        "Solo negli acquisti costosi",
+        "Solo negli acquisti online"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "c": "Consumatore",
+      "q": "Perché studiare il consumatore è importante?",
+      "options": [
+        "Per aumentare i prezzi",
+        "Per comprendere e prevedere il comportamento",
+        "Per eliminare la concorrenza",
+        "Per semplificare il mercato"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 45,
+      "c": "Sintesi",
+      "q": "Quale visione del consumo emerge dal libro di Guéguen?",
+      "options": [
+        "Totalmente razionale",
+        "Puramente economica",
+        "Psicologica e sociale",
+        "Casuale"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 46,
+      "c": "Sintesi",
+      "q": "Il comportamento di consumo è influenzato principalmente da:",
+      "options": [
+        "Prezzo",
+        "Pubblicità",
+        "Fattori psicologici e sociali",
+        "Reddito"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 47,
+      "c": "Sintesi",
+      "q": "Qual è il contributo principale della psicologia del consumatore?",
+      "options": [
+        "Ottimizzare i profitti",
+        "Spiegare il comportamento reale",
+        "Eliminare gli errori cognitivi",
+        "Standardizzare le scelte"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 48,
+      "c": "Sintesi",
+      "q": "Il consumo è un comportamento:",
+      "options": [
+        "Individuale",
+        "Economico",
+        "Sociale e situazionale",
+        "Casuale"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 49,
+      "c": "Sintesi",
+      "q": "Il libro di Guéguen si basa principalmente su:",
+      "options": [
+        "Opinioni",
+        "Esperimenti empirici",
+        "Teorie economiche",
+        "Casi aziendali"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 50,
+      "c": "Sintesi",
+      "q": "Per l'esame è importante comprendere:",
+      "options": [
+        "Solo le definizioni",
+        "Solo gli esempi",
+        "I meccanismi psicologici",
+        "Solo i modelli economici"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 51,
+      "c": "Euristiche",
+      "q": "Che cos'è l'euristica della rappresentatività?",
+      "options": [
+        "Una valutazione basata sulla frequenza reale",
+        "Un giudizio basato sulla somiglianza a un prototipo",
+        "Una decisione basata sul prezzo",
+        "Un confronto tra alternative"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 52,
+      "c": "Euristiche",
+      "q": "Qual è il rischio dell'uso delle euristiche?",
+      "options": [
+        "Riduzione delle opzioni",
+        "Aumento del tempo decisionale",
+        "Produzione di bias cognitivi",
+        "Eliminazione delle emozioni"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 53,
+      "c": "Euristiche",
+      "q": "Che cos'è l'euristica della disponibilità?",
+      "options": [
+        "Valutare in base alle informazioni più facilmente ricordabili",
+        "Valutare in base al prezzo più basso",
+        "Valutare in base alla qualità reale",
+        "Valutare in base alla maggioranza"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "c": "Bias cognitivi",
+      "q": "Che cos'è un bias cognitivo?",
+      "options": [
+        "Un errore casuale",
+        "Una strategia di marketing",
+        "Una distorsione sistematica del giudizio",
+        "Un atteggiamento stabile"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 55,
+      "c": "Bias cognitivi",
+      "q": "Il bias di conferma porta il consumatore a:",
+      "options": [
+        "Cercare informazioni contrarie",
+        "Ignorare tutte le informazioni",
+        "Cercare informazioni coerenti con le proprie scelte",
+        "Cambiare facilmente idea"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 56,
+      "c": "Influenza sociale",
+      "q": "Che cos'è il conformismo?",
+      "options": [
+        "Un comportamento casuale",
+        "L'adeguamento alle norme del gruppo",
+        "Una tecnica di vendita",
+        "Una strategia pubblicitaria"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "c": "Influenza sociale",
+      "q": "Quando il conformismo è più probabile?",
+      "options": [
+        "In presenza di incertezza",
+        "Quando si è esperti",
+        "Quando il gruppo è piccolo",
+        "In situazioni private"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "c": "Influenza sociale",
+      "q": "Che ruolo ha l'autorità nella persuasione?",
+      "options": [
+        "Riduce l'efficacia del messaggio",
+        "Non ha alcun effetto",
+        "Aumenta la credibilità",
+        "Genera rifiuto automatico"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 59,
+      "c": "Tecniche di persuasione",
+      "q": "Il principio di reciprocità afferma che:",
+      "options": [
+        "Le persone restituiscono ciò che ricevono",
+        "Le persone seguono la maggioranza",
+        "Le persone evitano i debiti",
+        "Le persone preferiscono la scarsità"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "c": "Tecniche di persuasione",
+      "q": "Un omaggio iniziale aumenta l'accettazione di una richiesta per il principio di:",
+      "options": [
+        "Coerenza",
+        "Autorità",
+        "Reciprocità",
+        "Scarsità"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 61,
+      "c": "Tecniche di persuasione",
+      "q": "Il principio di scarsità rende un prodotto:",
+      "options": [
+        "Meno costoso",
+        "Più desiderabile",
+        "Più razionale",
+        "Più utile"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 62,
+      "c": "Tecniche di persuasione",
+      "q": "La scarsità funziona perché:",
+      "options": [
+        "Riduce le alternative",
+        "Aumenta il valore percepito",
+        "Aumenta il reddito",
+        "Riduce la pubblicità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 63,
+      "c": "Comunicazione",
+      "q": "Che cos'è un messaggio persuasivo?",
+      "options": [
+        "Un messaggio informativo",
+        "Un messaggio che mira a cambiare atteggiamenti",
+        "Un messaggio neutro",
+        "Un messaggio legale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 64,
+      "c": "Comunicazione",
+      "q": "Secondo il modello ELM, il percorso centrale si attiva quando:",
+      "options": [
+        "Il coinvolgimento è basso",
+        "Il coinvolgimento è alto",
+        "Il messaggio è breve",
+        "La fonte è attraente"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 65,
+      "c": "Comunicazione",
+      "q": "Il percorso periferico del modello ELM si basa su:",
+      "options": [
+        "Argomentazioni logiche",
+        "Indicatori superficiali",
+        "Analisi dettagliata",
+        "Esperienza diretta"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 66,
+      "c": "Pubblicità",
+      "q": "Perché i testimonial famosi sono efficaci?",
+      "options": [
+        "Per il prezzo",
+        "Per l'autorità e l'attrattiva",
+        "Per la durata del messaggio",
+        "Per la qualità del prodotto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 67,
+      "c": "Pubblicità",
+      "q": "Che ruolo ha l'attrattiva della fonte?",
+      "options": [
+        "Riduce la persuasione",
+        "Aumenta l'identificazione",
+        "È irrilevante",
+        "Confonde il messaggio"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 68,
+      "c": "Percezione",
+      "q": "Che cos'è la percezione selettiva?",
+      "options": [
+        "La percezione casuale",
+        "La tendenza a notare solo alcune informazioni",
+        "La percezione oggettiva",
+        "La percezione emotiva"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 69,
+      "c": "Percezione",
+      "q": "I colori influenzano il consumo perché:",
+      "options": [
+        "Ridimensionano il prezzo",
+        "Attivano risposte emotive",
+        "Eliminano la concorrenza",
+        "Aumentano la razionalità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 70,
+      "c": "Percezione",
+      "q": "Un colore caldo tende a:",
+      "options": [
+        "Rilassare",
+        "Stimolare",
+        "Raffreddare",
+        "Neutralizzare le emozioni"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 71,
+      "c": "Ambiente di vendita",
+      "q": "Che cos'è il marketing sensoriale?",
+      "options": [
+        "Marketing basato sul prezzo",
+        "Marketing basato sugli stimoli sensoriali",
+        "Marketing digitale",
+        "Marketing razionale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 72,
+      "c": "Ambiente di vendita",
+      "q": "Quale senso è spesso usato nei punti vendita?",
+      "options": [
+        "Vista",
+        "Olfatto",
+        "Udito",
+        "Tutti i precedenti"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 73,
+      "c": "Ambiente di vendita",
+      "q": "Perché i profumi influenzano il comportamento?",
+      "options": [
+        "Agiscono inconsciamente",
+        "Riducono il tempo di permanenza",
+        "Aumentano il prezzo",
+        "Confondono il consumatore"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "c": "Prezzo",
+      "q": "Un prezzo elevato può indicare:",
+      "options": [
+        "Scarsa qualità",
+        "Alta qualità",
+        "Errore di marketing",
+        "Scarsità di offerta"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 75,
+      "c": "Prezzo",
+      "q": "Che effetto ha un prezzo terminante in ,99?",
+      "options": [
+        "Nessun effetto",
+        "Percezione di convenienza",
+        "Percezione di lusso",
+        "Rifiuto del prodotto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 76,
+      "c": "Prezzo",
+      "q": "Lo sconto percentuale è efficace perché:",
+      "options": [
+        "Riduce il valore percepito",
+        "Crea una percezione di guadagno",
+        "Aumenta la qualità",
+        "Riduce il coinvolgimento"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 77,
+      "c": "Atteggiamenti",
+      "q": "Gli atteggiamenti sono:",
+      "options": [
+        "Totalmente stabili",
+        "Sempre coerenti col comportamento",
+        "Relativamente stabili ma modificabili",
+        "Casuali"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 78,
+      "c": "Atteggiamenti",
+      "q": "Il cambiamento di atteggiamento dipende da:",
+      "options": [
+        "Coinvolgimento",
+        "Credibilità della fonte",
+        "Argomentazioni",
+        "Tutti i precedenti"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 79,
+      "c": "Dissonanza cognitiva",
+      "q": "La riduzione della dissonanza porta il consumatore a:",
+      "options": [
+        "Cambiare prodotto",
+        "Rafforzare la scelta",
+        "Ignorare l'acquisto",
+        "Restituire il prodotto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 80,
+      "c": "Dissonanza cognitiva",
+      "q": "La dissonanza è maggiore quando:",
+      "options": [
+        "Le alternative erano simili",
+        "Il prezzo è basso",
+        "L'acquisto è abituale",
+        "Il prodotto è gratuito"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 81,
+      "c": "Acquisto impulsivo",
+      "q": "L'acquisto impulsivo è favorito da:",
+      "options": [
+        "Alto coinvolgimento",
+        "Forte controllo cognitivo",
+        "Stimoli ambientali",
+        "Analisi razionale"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 82,
+      "c": "Acquisto impulsivo",
+      "q": "Le promozioni a tempo limitato aumentano:",
+      "options": [
+        "Il controllo",
+        "L'impulsività",
+        "La razionalità",
+        "La fedeltà"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 83,
+      "c": "Coinvolgimento",
+      "q": "Con basso coinvolgimento il consumatore usa:",
+      "options": [
+        "Analisi approfondita",
+        "Percorso centrale",
+        "Scorciatoie cognitive",
+        "Confronti complessi"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 84,
+      "c": "Coinvolgimento",
+      "q": "Il coinvolgimento dipende da:",
+      "options": [
+        "Prezzo",
+        "Importanza personale",
+        "Rischio percepito",
+        "Tutti i precedenti"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 85,
+      "c": "Marca",
+      "q": "La marca serve principalmente a:",
+      "options": [
+        "Aumentare la complessità",
+        "Ridurre il rischio",
+        "Eliminare la concorrenza",
+        "Aumentare i costi"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 86,
+      "c": "Marca",
+      "q": "La fedeltà alla marca è influenzata da:",
+      "options": [
+        "Soddisfazione",
+        "Esperienza",
+        "Atteggiamenti",
+        "Tutti i precedenti"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 87,
+      "c": "Memoria",
+      "q": "La memoria a lungo termine è importante perché:",
+      "options": [
+        "Influenza la ripetizione d'acquisto",
+        "Serve solo per la pubblicità",
+        "Riduce l'impulsività",
+        "È sempre conscia"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 88,
+      "c": "Memoria",
+      "q": "Uno stimolo emotivo favorisce:",
+      "options": [
+        "Oblio",
+        "Codifica profonda",
+        "Rifiuto",
+        "Confusione"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 89,
+      "c": "Norme sociali",
+      "q": "Le norme descrittive indicano:",
+      "options": [
+        "Cosa è giusto fare",
+        "Cosa fanno gli altri",
+        "Cosa è legale",
+        "Cosa è morale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 90,
+      "c": "Norme sociali",
+      "q": "Le norme ingiuntive indicano:",
+      "options": [
+        "Cosa fanno gli altri",
+        "Cosa è approvato o disapprovato",
+        "Cosa conviene fare",
+        "Cosa è economico"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 91,
+      "c": "Etica",
+      "q": "Un marketing etico mira a:",
+      "options": [
+        "Manipolare il consumatore",
+        "Massimizzare i profitti",
+        "Rispettare la libertà di scelta",
+        "Eliminare la concorrenza"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 92,
+      "c": "Etica",
+      "q": "La trasparenza nel marketing:",
+      "options": [
+        "Riduce la fiducia",
+        "È irrilevante",
+        "Aumenta la fiducia",
+        "Confuse il consumatore"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 93,
+      "c": "Consumatore",
+      "q": "Il consumatore reale è:",
+      "options": [
+        "Perfettamente razionale",
+        "Totalmente emotivo",
+        "Limitatamente razionale",
+        "Imprevedibile"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 94,
+      "c": "Consumatore",
+      "q": "La razionalità limitata implica:",
+      "options": [
+        "Decisioni ottimali",
+        "Decisioni basate su informazioni incomplete",
+        "Decisioni casuali",
+        "Assenza di emozioni"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 95,
+      "c": "Ricerca",
+      "q": "La psicologia del consumatore utilizza spesso:",
+      "options": [
+        "Metodi clinici",
+        "Esperimenti",
+        "Sondaggi casuali",
+        "Osservazioni informali"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 96,
+      "c": "Ricerca",
+      "q": "Gli esperimenti permettono di:",
+      "options": [
+        "Descrivere fenomeni",
+        "Stabilire relazioni causali",
+        "Fare previsioni economiche",
+        "Eliminare bias"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 97,
+      "c": "Sintesi",
+      "q": "Il comportamento di consumo è meglio spiegato da:",
+      "options": [
+        "Modelli economici",
+        "Fattori psicologici e sociali",
+        "Reddito",
+        "Prezzo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 98,
+      "c": "Sintesi",
+      "q": "Il contesto influenza il consumo perché:",
+      "options": [
+        "Cambia il prodotto",
+        "Modifica percezioni e decisioni",
+        "Riduce il prezzo",
+        "Elimina le alternative"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 99,
+      "c": "Sintesi",
+      "q": "Il libro di Guéguen mostra che il consumatore è:",
+      "options": [
+        "Un decisore perfetto",
+        "Un attore sociale",
+        "Un soggetto passivo",
+        "Un economista"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 100,
+      "c": "Sintesi",
+      "q": "Per l'esame è fondamentale comprendere:",
+      "options": [
+        "Solo i concetti teorici",
+        "Solo gli esperimenti",
+        "Concetti ed esempi applicativi",
+        "Solo le definizioni"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 101,
+      "c": "Persuasione",
+      "q": "Il principio di coerenza afferma che le persone tendono a:",
+      "options": [
+        "Cambiare facilmente idea",
+        "Agire in modo coerente con le decisioni precedenti",
+        "Seguire l'autorità",
+        "Evitare le scelte"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 102,
+      "c": "Persuasione",
+      "q": "Perché la tecnica del piede nella porta è efficace?",
+      "options": [
+        "Perché riduce il prezzo",
+        "Perché sfrutta il principio di coerenza",
+        "Perché crea scarsità",
+        "Perché usa l'autorità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 103,
+      "c": "Persuasione",
+      "q": "La tecnica dell'esca funziona perché:",
+      "options": [
+        "Riduce il coinvolgimento",
+        "Modifica il confronto tra alternative",
+        "Aumenta il controllo cognitivo",
+        "Riduce l'offerta"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 104,
+      "c": "Persuasione",
+      "q": "Nella tecnica dell'esca, l'offerta iniziale è:",
+      "options": [
+        "Molto conveniente",
+        "Poco conveniente",
+        "Sempre accettata",
+        "Sempre rifiutata"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 105,
+      "c": "Influenze situazionali",
+      "q": "Cosa si intende per influenza situazionale?",
+      "options": [
+        "L'influenza della personalità",
+        "L'influenza del contesto immediato",
+        "L'influenza del reddito",
+        "L'influenza della cultura"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 106,
+      "c": "Influenze situazionali",
+      "q": "Il comportamento del consumatore può cambiare in base a:",
+      "options": [
+        "Caratteristiche stabili",
+        "Situazioni specifiche",
+        "Reddito fisso",
+        "Educazione"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 107,
+      "c": "Contesto",
+      "q": "Il contesto fisico influisce sul consumo attraverso:",
+      "options": [
+        "Stimoli sensoriali",
+        "Prezzi",
+        "Garanzie",
+        "Norme legali"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 108,
+      "c": "Contesto",
+      "q": "Un ambiente affollato tende a:",
+      "options": [
+        "Aumentare il comfort",
+        "Ridurre il controllo cognitivo",
+        "Aumentare la riflessione",
+        "Ridurre l'influenza sociale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 109,
+      "c": "Contesto",
+      "q": "Il fattore tempo nel consumo:",
+      "options": [
+        "È irrilevante",
+        "Influenza la pressione decisionale",
+        "Riduce le emozioni",
+        "Aumenta la razionalità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 110,
+      "c": "Tempo",
+      "q": "La pressione temporale porta il consumatore a:",
+      "options": [
+        "Decisioni più analitiche",
+        "Uso di euristiche",
+        "Riduzione degli acquisti",
+        "Maggiore attenzione"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 111,
+      "c": "Comportamento prosociale",
+      "q": "Il comportamento prosociale nel consumo riguarda:",
+      "options": [
+        "Scelte egoistiche",
+        "Scelte a beneficio degli altri",
+        "Scelte casuali",
+        "Scelte obbligatorie"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 112,
+      "c": "Comportamento prosociale",
+      "q": "Le donazioni sono influenzate da:",
+      "options": [
+        "Norme sociali",
+        "Umore",
+        "Contesto",
+        "Tutti i precedenti"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 113,
+      "c": "Comportamento prosociale",
+      "q": "La tecnica del piede nella porta è efficace anche per:",
+      "options": [
+        "Acquisti impulsivi",
+        "Comportamenti altruistici",
+        "Ridurre i prezzi",
+        "Scelte razionali"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 114,
+      "c": "Norme sociali",
+      "q": "Le norme sociali funzionano perché:",
+      "options": [
+        "Sono leggi",
+        "Indicano cosa è appropriato",
+        "Eliminano le alternative",
+        "Ridimensionano il prezzo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 115,
+      "c": "Norme sociali",
+      "q": "Il consumo ecologico è favorito da:",
+      "options": [
+        "Prezzi bassi",
+        "Norme sociali condivise",
+        "Pubblicità aggressiva",
+        "Scarsa informazione"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 116,
+      "c": "Consumo sostenibile",
+      "q": "Il consumo sostenibile mira a:",
+      "options": [
+        "Massimizzare il profitto",
+        "Ridurre l'impatto ambientale",
+        "Aumentare i consumi",
+        "Ridurre la scelta"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 117,
+      "c": "Consumo sostenibile",
+      "q": "Perché il consumo sostenibile è difficile da adottare?",
+      "options": [
+        "Per mancanza di alternative",
+        "Per conflitto tra valori e comportamento",
+        "Per prezzi sempre più alti",
+        "Per scarsa pubblicità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 118,
+      "c": "Atteggiamenti",
+      "q": "Il legame atteggiamento-comportamento è:",
+      "options": [
+        "Perfetto",
+        "Inesistente",
+        "Dipendente dal contesto",
+        "Sempre negativo"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 119,
+      "c": "Atteggiamenti",
+      "q": "Un atteggiamento predice meglio il comportamento quando:",
+      "options": [
+        "È specifico",
+        "È generale",
+        "È ambiguo",
+        "È neutro"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 120,
+      "c": "Cognizione",
+      "q": "La razionalità limitata implica che il consumatore:",
+      "options": [
+        "Massimizza sempre l'utilità",
+        "Usa informazioni incomplete",
+        "Agisce casualmente",
+        "Evita le decisioni"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 121,
+      "c": "Cognizione",
+      "q": "La soddisfazione è legata a:",
+      "options": [
+        "Prezzo assoluto",
+        "Aspettative e risultati",
+        "Numero di alternative",
+        "Tempo di acquisto"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 122,
+      "c": "Soddisfazione",
+      "q": "La soddisfazione del consumatore favorisce:",
+      "options": [
+        "L'abbandono del brand",
+        "La fedeltà",
+        "La dissonanza",
+        "Il cambiamento di marca"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 123,
+      "c": "Esperienza",
+      "q": "L'esperienza di consumo include:",
+      "options": [
+        "Solo l'acquisto",
+        "Solo l'uso",
+        "Aspetti emotivi e sensoriali",
+        "Solo il prezzo"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 124,
+      "c": "Esperienza",
+      "q": "Un'esperienza positiva aumenta:",
+      "options": [
+        "La dissonanza",
+        "La probabilità di riacquisto",
+        "Il controllo cognitivo",
+        "La sensibilità al prezzo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 125,
+      "c": "Ambiente di vendita",
+      "q": "La disposizione dei prodotti influenza:",
+      "options": [
+        "Solo l'estetica",
+        "Il percorso e le scelte",
+        "Il prezzo",
+        "La qualità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 126,
+      "c": "Ambiente di vendita",
+      "q": "I prodotti all'altezza degli occhi sono:",
+      "options": [
+        "Meno venduti",
+        "Più visibili e scelti",
+        "Più economici",
+        "Di minor qualità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 127,
+      "c": "Prezzo",
+      "q": "Il framing del prezzo riguarda:",
+      "options": [
+        "Il costo reale",
+        "Il modo in cui il prezzo è presentato",
+        "La legge",
+        "La produzione"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 128,
+      "c": "Prezzo",
+      "q": "Presentare uno sconto come guadagno anziché perdita:",
+      "options": [
+        "Riduce l'efficacia",
+        "Aumenta l'attrattiva",
+        "Non ha effetti",
+        "Riduce il coinvolgimento"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 129,
+      "c": "Bias cognitivi",
+      "q": "L'effetto ancoraggio porta il consumatore a:",
+      "options": [
+        "Ignorare le informazioni iniziali",
+        "Farsi influenzare da un valore iniziale",
+        "Confrontare tutte le alternative",
+        "Usare solo emozioni"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 130,
+      "c": "Bias cognitivi",
+      "q": "Un prezzo iniziale alto può fungere da:",
+      "options": [
+        "Errore",
+        "Ancora",
+        "Sconto",
+        "Norma"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 131,
+      "c": "Coinvolgimento",
+      "q": "Con basso coinvolgimento è più probabile:",
+      "options": [
+        "Analisi profonda",
+        "Influenza periferica",
+        "Confronto dettagliato",
+        "Decisione lenta"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 132,
+      "c": "Comunicazione",
+      "q": "Nel percorso periferico contano di più:",
+      "options": [
+        "Argomentazioni",
+        "Indizi superficiali",
+        "Dati oggettivi",
+        "Esperienza personale"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 133,
+      "c": "Comunicazione",
+      "q": "La credibilità della fonte dipende da:",
+      "options": [
+        "Competenza e affidabilità",
+        "Prezzo",
+        "Durata del messaggio",
+        "Numero di immagini"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 134,
+      "c": "Comunicazione",
+      "q": "Un messaggio troppo complesso può:",
+      "options": [
+        "Aumentare la persuasione",
+        "Ridurre la comprensione",
+        "Aumentare il coinvolgimento",
+        "Eliminare i bias"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 135,
+      "c": "Pubblicità",
+      "q": "La ripetizione eccessiva di un messaggio può:",
+      "options": [
+        "Aumentare sempre l'efficacia",
+        "Generare saturazione",
+        "Eliminare la memoria",
+        "Ridurre la familiarità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 136,
+      "c": "Pubblicità",
+      "q": "La pubblicità subliminale:",
+      "options": [
+        "È sempre efficace",
+        "Ha effetti limitati e contestuali",
+        "È illegale ovunque",
+        "Elimina il controllo cognitivo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 137,
+      "c": "Comportamento",
+      "q": "Il comportamento abituale è:",
+      "options": [
+        "Sempre razionale",
+        "Automatico",
+        "Sempre consapevole",
+        "Sempre nuovo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 138,
+      "c": "Comportamento",
+      "q": "Le abitudini riducono:",
+      "options": [
+        "Le scelte",
+        "Lo sforzo cognitivo",
+        "La soddisfazione",
+        "La fedeltà"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 139,
+      "c": "Esperimenti",
+      "q": "Gli esperimenti in psicologia del consumo servono a:",
+      "options": [
+        "Descrivere opinioni",
+        "Stabilire causalità",
+        "Aumentare le vendite",
+        "Ridurre i costi"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 140,
+      "c": "Esperimenti",
+      "q": "La validità interna riguarda:",
+      "options": [
+        "La generalizzabilità",
+        "Il controllo delle variabili",
+        "La dimensione del campione",
+        "Il costo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 141,
+      "c": "Esperimenti",
+      "q": "La validità esterna riguarda:",
+      "options": [
+        "Il controllo",
+        "La generalizzabilità dei risultati",
+        "La replicabilità",
+        "La randomizzazione"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 142,
+      "c": "Consumo",
+      "q": "Il consumo è anche un mezzo per:",
+      "options": [
+        "Soddisfare bisogni simbolici",
+        "Ridurre la concorrenza",
+        "Aumentare il reddito",
+        "Evitare decisioni"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 143,
+      "c": "Consumo",
+      "q": "I prodotti simbolici servono a:",
+      "options": [
+        "Soddisfare bisogni funzionali",
+        "Comunicare identità",
+        "Ridurre il prezzo",
+        "Aumentare la durata"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 144,
+      "c": "Identità",
+      "q": "Il consumo contribuisce alla costruzione di:",
+      "options": [
+        "Prezzo",
+        "Identità personale",
+        "Leggi di mercato",
+        "Costi"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 145,
+      "c": "Identità",
+      "q": "La scelta di una marca può esprimere:",
+      "options": [
+        "Solo qualità",
+        "Valori e stile di vita",
+        "Prezzo",
+        "Disponibilità"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 146,
+      "c": "Sintesi",
+      "q": "Il comportamento di consumo è meglio spiegato da:",
+      "options": [
+        "Una singola variabile",
+        "L'interazione di più fattori",
+        "Il reddito",
+        "Il prezzo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 147,
+      "c": "Sintesi",
+      "q": "La psicologia del consumatore studia:",
+      "options": [
+        "Solo l'acquisto",
+        "Solo il prodotto",
+        "Processi cognitivi, emotivi e sociali",
+        "Solo il marketing"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 148,
+      "c": "Sintesi",
+      "q": "Il contributo di Guéguen è mostrare che:",
+      "options": [
+        "Il consumatore è sempre razionale",
+        "Il contesto è irrilevante",
+        "Le influenze sottili contano",
+        "Il prezzo domina tutto"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 149,
+      "c": "Sintesi",
+      "q": "Per preparare l'esame è utile:",
+      "options": [
+        "Memorizzare definizioni",
+        "Capire i meccanismi",
+        "Studiare solo esempi",
+        "Ignorare gli esperimenti"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 150,
+      "c": "Sintesi",
+      "q": "Il messaggio chiave del libro è che il consumo è:",
+      "options": [
+        "Puramente economico",
+        "Totalmente irrazionale",
+        "Psicologico e sociale",
+        "Casuale"
+      ],
+      "correct": 2
+    },
+    {
+  "id": 151,
+  "c": "Decisione",
+  "q": "La decisione di acquisto è il risultato di:",
+  "options": [
+    "Un solo fattore",
+    "Un processo automatico",
+    "Un'interazione di fattori cognitivi ed emotivi",
+    "Un calcolo matematico"
+  ],
+  "correct": 2
+},
+{
+  "id": 152,
+  "c": "Decisione",
+  "q": "Dopo l'acquisto il consumatore tende a:",
+  "options": [
+    "Dimenticare la scelta",
+    "Valutare la soddisfazione",
+    "Ignorare le alternative",
+    "Cambiare subito prodotto"
+  ],
+  "correct": 1
+},
+{
+  "id": 153,
+  "c": "Post-acquisto",
+  "q": "Il passaparola positivo deriva spesso da:",
+  "options": [
+    "Prezzi bassi",
+    "Alta soddisfazione",
+    "Pubblicità intensa",
+    "Pressione sociale"
+  ],
+  "correct": 1
+},
+{
+  "id": 154,
+  "c": "Post-acquisto",
+  "q": "Il passaparola negativo è favorito da:",
+  "options": [
+    "Aspettative superate",
+    "Esperienza neutra",
+    "Disconferma negativa delle aspettative",
+    "Alto coinvolgimento"
+  ],
+  "correct": 2
+},
+{
+  "id": 155,
+  "c": "Soddisfazione",
+  "q": "La soddisfazione dipende dal confronto tra:",
+  "options": [
+    "Prezzo e qualità",
+    "Aspettative e prestazioni percepite",
+    "Marca e pubblicità",
+    "Tempo e costo"
+  ],
+  "correct": 1
+},
+{
+  "id": 156,
+  "c": "Soddisfazione",
+  "q": "Una bassa soddisfazione porta più facilmente a:",
+  "options": [
+    "Fedeltà",
+    "Riacquisto",
+    "Cambiamento di marca",
+    "Rafforzamento dell'atteggiamento"
+  ],
+  "correct": 2
+},
+{
+  "id": 157,
+  "c": "Fedeltà",
+  "q": "La fedeltà comportamentale si basa su:",
+  "options": [
+    "Atteggiamenti positivi",
+    "Ripetizione dell'acquisto",
+    "Coinvolgimento emotivo",
+    "Identità personale"
+  ],
+  "correct": 1
+},
+{
+  "id": 158,
+  "c": "Fedeltà",
+  "q": "La fedeltà attitudinale riguarda:",
+  "options": [
+    "La frequenza d'acquisto",
+    "Il legame emotivo con la marca",
+    "Il prezzo",
+    "La disponibilità"
+  ],
+  "correct": 1
+},
+{
+  "id": 159,
+  "c": "Rischio",
+  "q": "Il rischio percepito nel consumo è:",
+  "options": [
+    "Sempre oggettivo",
+    "La possibilità di una perdita percepita",
+    "Un errore di marketing",
+    "Irrilevante"
+  ],
+  "correct": 1
+},
+{
+  "id": 160,
+  "c": "Rischio",
+  "q": "L'alto rischio percepito porta a:",
+  "options": [
+    "Decisioni impulsive",
+    "Maggiore ricerca di informazioni",
+    "Minore coinvolgimento",
+    "Scelte casuali"
+  ],
+  "correct": 1
+},
+{
+  "id": 161,
+  "c": "Informazione",
+  "q": "La ricerca di informazioni aumenta quando:",
+  "options": [
+    "Il prodotto è abituale",
+    "Il rischio percepito è alto",
+    "Il tempo è limitato",
+    "Il coinvolgimento è basso"
+  ],
+  "correct": 1
+},
+{
+  "id": 162,
+  "c": "Informazione",
+  "q": "Le fonti personali sono considerate:",
+  "options": [
+    "Meno credibili",
+    "Più persuasive",
+    "Irrilevanti",
+    "Obsolete"
+  ],
+  "correct": 1
+},
+{
+  "id": 163,
+  "c": "Informazione",
+  "q": "Internet ha modificato il consumo perché:",
+  "options": [
+    "Ha ridotto le alternative",
+    "Ha aumentato l'accesso alle informazioni",
+    "Ha eliminato i bias",
+    "Ha ridotto l'influenza sociale"
+  ],
+  "correct": 1
+},
+{
+  "id": 164,
+  "c": "Digitale",
+  "q": "Le recensioni online influenzano perché:",
+  "options": [
+    "Sono sempre oggettive",
+    "Agiscono come prova sociale",
+    "Ridimensionano il prezzo",
+    "Eliminano il rischio"
+  ],
+  "correct": 1
+},
+{
+  "id": 165,
+  "c": "Digitale",
+  "q": "L'e-commerce aumenta l'impulsività quando:",
+  "options": [
+    "Riduce le frizioni d'acquisto",
+    "Aumenta il tempo decisionale",
+    "Elimina le emozioni",
+    "Aumenta i costi"
+  ],
+  "correct": 0
+},
+{
+  "id": 166,
+  "c": "Digitale",
+  "q": "Le notifiche push sfruttano soprattutto:",
+  "options": [
+    "Analisi razionale",
+    "Urgenza e attenzione",
+    "Coinvolgimento alto",
+    "Riduzione delle alternative"
+  ],
+  "correct": 1
+},
+{
+  "id": 167,
+  "c": "Abitudini",
+  "q": "Le abitudini di consumo si formano tramite:",
+  "options": [
+    "Ripetizione",
+    "Analisi",
+    "Confronto",
+    "Pressione legale"
+  ],
+  "correct": 0
+},
+{
+  "id": 168,
+  "c": "Abitudini",
+  "q": "Rompere un'abitudine richiede:",
+  "options": [
+    "Assenza di stimoli",
+    "Cambiamento del contesto",
+    "Riduzione del prezzo",
+    "Pubblicità intensa"
+  ],
+  "correct": 1
+},
+{
+  "id": 169,
+  "c": "Cultura",
+  "q": "La cultura influenza il consumo perché:",
+  "options": [
+    "Definisce valori e norme",
+    "Stabilisce i prezzi",
+    "Elimina le emozioni",
+    "Riduce le scelte"
+  ],
+  "correct": 0
+},
+{
+  "id": 170,
+  "c": "Cultura",
+  "q": "Le differenze culturali incidono su:",
+  "options": [
+    "Preferenze e significati",
+    "Solo sul reddito",
+    "Solo sulla pubblicità",
+    "Solo sulla qualità"
+  ],
+  "correct": 0
+},
+{
+  "id": 171,
+  "c": "Gruppi",
+  "q": "I gruppi di appartenenza influenzano:",
+  "options": [
+    "Solo il prezzo",
+    "Atteggiamenti e scelte",
+    "Solo la pubblicità",
+    "Solo la disponibilità"
+  ],
+  "correct": 1
+},
+{
+  "id": 172,
+  "c": "Gruppi",
+  "q": "Il desiderio di approvazione porta a:",
+  "options": [
+    "Comportamenti anticonformisti",
+    "Conformismo",
+    "Decisioni razionali",
+    "Isolamento"
+  ],
+  "correct": 1
+},
+{
+  "id": 173,
+  "c": "Status",
+  "q": "Il consumo di status serve a:",
+  "options": [
+    "Ridurre i costi",
+    "Segnalare posizione sociale",
+    "Eliminare la concorrenza",
+    "Aumentare l'utilità funzionale"
+  ],
+  "correct": 1
+},
+{
+  "id": 174,
+  "c": "Status",
+  "q": "I beni di lusso sono spesso acquistati per:",
+  "options": [
+    "Funzionalità",
+    "Valore simbolico",
+    "Prezzo basso",
+    "Necessità"
+  ],
+  "correct": 1
+},
+{
+  "id": 175,
+  "c": "Emozioni",
+  "q": "Le emozioni anticipatorie influenzano:",
+  "options": [
+    "Solo il post-acquisto",
+    "Le aspettative",
+    "Solo la memoria",
+    "Solo la pubblicità"
+  ],
+  "correct": 1
+},
+{
+  "id": 176,
+  "c": "Emozioni",
+  "q": "Un'emozione negativa può portare a:",
+  "options": [
+    "Evitamento",
+    "Aumento del coinvolgimento",
+    "Fedeltà",
+    "Riduzione del rischio"
+  ],
+  "correct": 0
+},
+{
+  "id": 177,
+  "c": "Regolazione",
+  "q": "Il consumo come regolazione emotiva implica:",
+  "options": [
+    "Scelte casuali",
+    "Uso del consumo per gestire emozioni",
+    "Riduzione della spesa",
+    "Controllo razionale"
+  ],
+  "correct": 1
+},
+{
+  "id": 178,
+  "c": "Regolazione",
+  "q": "Lo shopping terapeutico è:",
+  "options": [
+    "Sempre efficace",
+    "Una forma di regolazione emotiva",
+    "Un comportamento razionale",
+    "Una strategia di marketing"
+  ],
+  "correct": 1
+},
+{
+  "id": 179,
+  "c": "Etica",
+  "q": "La manipolazione si distingue dalla persuasione perché:",
+  "options": [
+    "È più efficace",
+    "Riduce l'autonomia del consumatore",
+    "È legale",
+    "È trasparente"
+  ],
+  "correct": 1
+},
+{
+  "id": 180,
+  "c": "Etica",
+  "q": "Un'influenza etica dovrebbe essere:",
+  "options": [
+    "Occulta",
+    "Trasparente",
+    "Forzata",
+    "Ingannevole"
+  ],
+  "correct": 1
+},
+{
+  "id": 181,
+  "c": "Educazione",
+  "q": "L'educazione al consumo mira a:",
+  "options": [
+    "Aumentare i consumi",
+    "Rendere il consumatore consapevole",
+    "Ridurre la pubblicità",
+    "Eliminare le emozioni"
+  ],
+  "correct": 1
+},
+{
+  "id": 182,
+  "c": "Educazione",
+  "q": "Un consumatore consapevole:",
+  "options": [
+    "È immune alle influenze",
+    "Riconosce le influenze",
+    "Agisce sempre razionalmente",
+    "Evita il consumo"
+  ],
+  "correct": 1
+},
+{
+  "id": 183,
+  "c": "Consapevolezza",
+  "q": "La consapevolezza riduce:",
+  "options": [
+    "Il numero di scelte",
+    "L'impatto delle influenze automatiche",
+    "Il coinvolgimento",
+    "La soddisfazione"
+  ],
+  "correct": 1
+},
+{
+  "id": 184,
+  "c": "Consapevolezza",
+  "q": "La riflessione aumenta quando:",
+  "options": [
+    "Il tempo è limitato",
+    "Il coinvolgimento è alto",
+    "Il contesto è caotico",
+    "L'emozione è intensa"
+  ],
+  "correct": 1
+},
+{
+  "id": 185,
+  "c": "Ricerca",
+  "q": "La replicabilità è importante perché:",
+  "options": [
+    "Riduce i costi",
+    "Conferma la validità dei risultati",
+    "Aumenta le vendite",
+    "Elimina i bias"
+  ],
+  "correct": 1
+},
+{
+  "id": 186,
+  "c": "Ricerca",
+  "q": "Un campione non rappresentativo limita:",
+  "options": [
+    "La validità interna",
+    "La validità esterna",
+    "Il controllo",
+    "La randomizzazione"
+  ],
+  "correct": 1
+},
+{
+  "id": 187,
+  "c": "Applicazioni",
+  "q": "La psicologia del consumatore è applicabile a:",
+  "options": [
+    "Solo marketing",
+    "Solo pubblicità",
+    "Marketing, politiche pubbliche e sociale",
+    "Solo economia"
+  ],
+  "correct": 2
+},
+{
+  "id": 188,
+  "c": "Applicazioni",
+  "q": "Le nudges sono:",
+  "options": [
+    "Costrizioni",
+    "Spinte gentili al comportamento",
+    "Manipolazioni illegali",
+    "Scelte obbligate"
+  ],
+  "correct": 1
+},
+{
+  "id": 189,
+  "c": "Nudge",
+  "q": "Un nudge efficace:",
+  "options": [
+    "Elimina la libertà",
+    "Mantiene la libertà di scelta",
+    "Impone una decisione",
+    "È sempre invisibile"
+  ],
+  "correct": 1
+},
+{
+  "id": 190,
+  "c": "Nudge",
+  "q": "L'architettura delle scelte riguarda:",
+  "options": [
+    "Il prezzo",
+    "Il modo in cui le opzioni sono presentate",
+    "La qualità",
+    "La pubblicità"
+  ],
+  "correct": 1
+},
+{
+  "id": 191,
+  "c": "Sintesi",
+  "q": "Il comportamento del consumatore è:",
+  "options": [
+    "Prevedibile matematicamente",
+    "Influenzato dal contesto",
+    "Casuale",
+    "Indipendente"
+  ],
+  "correct": 1
+},
+{
+  "id": 192,
+  "c": "Sintesi",
+  "q": "La forza delle influenze sottili sta nel fatto che:",
+  "options": [
+    "Sono sempre consce",
+    "Agiscono spesso senza consapevolezza",
+    "Sono illegali",
+    "Sono inefficaci"
+  ],
+  "correct": 1
+},
+{
+  "id": 193,
+  "c": "Sintesi",
+  "q": "Il consumatore ideale dei modelli economici è:",
+  "options": [
+    "Realistico",
+    "Irrealistico",
+    "Emotivo",
+    "Sociale"
+  ],
+  "correct": 1
+},
+{
+  "id": 194,
+  "c": "Sintesi",
+  "q": "La psicologia del consumo mostra che:",
+  "options": [
+    "Le scelte sono perfette",
+    "Le scelte sono situate",
+    "Le emozioni non contano",
+    "Il prezzo domina"
+  ],
+  "correct": 1
+},
+{
+  "id": 195,
+  "c": "Sintesi",
+  "q": "Per superare l'esame è importante:",
+  "options": [
+    "Memorizzare",
+    "Comprendere e applicare",
+    "Studiare solo esempi",
+    "Ignorare il contesto"
+  ],
+  "correct": 1
+},
+{
+  "id": 196,
+  "c": "Sintesi",
+  "q": "Il messaggio complessivo del libro è che il consumo è:",
+  "options": [
+    "Economico",
+    "Razionalmente ottimale",
+    "Psicologico, sociale e situazionale",
+    "Casuale"
+  ],
+  "correct": 2
+},
+{
+  "id": 197,
+  "c": "Sintesi",
+  "q": "Il contributo scientifico di Guéguen è:",
+  "options": [
+    "Descrittivo",
+    "Basato su evidenze sperimentali",
+    "Opinabile",
+    "Normativo"
+  ],
+  "correct": 1
+},
+{
+  "id": 198,
+  "c": "Sintesi",
+  "q": "La psicologia del consumatore serve a:",
+  "options": [
+    "Manipolare",
+    "Comprendere",
+    "Vendere a tutti i costi",
+    "Ridurre le scelte"
+  ],
+  "correct": 1
+},
+{
+  "id": 199,
+  "c": "Sintesi",
+  "q": "Comprendere il consumo aiuta a:",
+  "options": [
+    "Subire le influenze",
+    "Agire in modo più consapevole",
+    "Evitare il consumo",
+    "Eliminare il marketing"
+  ],
+  "correct": 1
+},
+{
+  "id": 200,
+  "c": "Sintesi",
+  "q": "Il consumatore è un decisore:",
+  "options": [
+    "Perfetto",
+    "Isolato",
+    "Limitato e influenzabile",
+    "Irrazionale totale"
+  ],
+  "correct": 2
+},
+{
+  "id": 201,
+  "c": "Motivazione",
+  "q": "La motivazione al consumo nasce principalmente da:",
+  "options": [
+    "Stimoli casuali",
+    "Bisogni e desideri",
+    "Reddito disponibile",
+    "Pubblicità obbligatoria"
+  ],
+  "correct": 1
+},
+{
+  "id": 202,
+  "c": "Motivazione",
+  "q": "Secondo la teoria dei bisogni, il consumo può servire a:",
+  "options": [
+    "Soddisfare bisogni simbolici",
+    "Eliminare alternative",
+    "Ridurre il tempo",
+    "Aumentare i costi"
+  ],
+  "correct": 0
+},
+{
+  "id": 203,
+  "c": "Bisogni",
+  "q": "I bisogni secondari sono:",
+  "options": [
+    "Innati",
+    "Legati alla sopravvivenza",
+    "Appresi socialmente",
+    "Biologici"
+  ],
+  "correct": 2
+},
+{
+  "id": 204,
+  "c": "Bisogni",
+  "q": "Un bisogno latente è:",
+  "options": [
+    "Già espresso",
+    "Non consapevole",
+    "Totalmente soddisfatto",
+    "Imposto dal mercato"
+  ],
+  "correct": 1
+},
+{
+  "id": 205,
+  "c": "Apprendimento",
+  "q": "L'apprendimento nel consumo avviene tramite:",
+  "options": [
+    "Esperienza diretta",
+    "Osservazione",
+    "Condizionamento",
+    "Tutti i precedenti"
+  ],
+  "correct": 3
+},
+{
+  "id": 206,
+  "c": "Apprendimento",
+  "q": "Il condizionamento classico nel marketing associa:",
+  "options": [
+    "Prezzo e qualità",
+    "Marca e stimolo emotivo",
+    "Prodotto e costo",
+    "Tempo e scelta"
+  ],
+  "correct": 1
+},
+{
+  "id": 207,
+  "c": "Apprendimento",
+  "q": "Il condizionamento operante si basa su:",
+  "options": [
+    "Associazioni automatiche",
+    "Rinforzi e punizioni",
+    "Osservazione sociale",
+    "Norme culturali"
+  ],
+  "correct": 1
+},
+{
+  "id": 208,
+  "c": "Apprendimento",
+  "q": "Le ricompense aumentano:",
+  "options": [
+    "L'estinzione del comportamento",
+    "La probabilità di ripetizione",
+    "La dissonanza",
+    "Il rischio percepito"
+  ],
+  "correct": 1
+},
+{
+  "id": 209,
+  "c": "Personalità",
+  "q": "La personalità del consumatore:",
+  "options": [
+    "Determina sempre il comportamento",
+    "Non ha alcun ruolo",
+    "Influenza alcune preferenze",
+    "Elimina l'effetto del contesto"
+  ],
+  "correct": 2
+},
+{
+  "id": 210,
+  "c": "Personalità",
+  "q": "I tratti di personalità sono:",
+  "options": [
+    "Instabili",
+    "Momentanei",
+    "Relativamente stabili",
+    "Casuali"
+  ],
+  "correct": 2
+},
+{
+  "id": 211,
+  "c": "Autocontrollo",
+  "q": "L'autocontrollo nel consumo riguarda:",
+  "options": [
+    "L'eliminazione delle emozioni",
+    "La capacità di resistere alle tentazioni",
+    "La riduzione del reddito",
+    "L'uso di euristiche"
+  ],
+  "correct": 1
+},
+{
+  "id": 212,
+  "c": "Autocontrollo",
+  "q": "La fatica decisionale tende a:",
+  "options": [
+    "Aumentare l'autocontrollo",
+    "Ridurre la capacità di scelta",
+    "Migliorare l'analisi",
+    "Eliminare i bias"
+  ],
+  "correct": 1
+},
+{
+  "id": 213,
+  "c": "Autocontrollo",
+  "q": "La scarsità di risorse cognitive porta a:",
+  "options": [
+    "Decisioni più riflessive",
+    "Uso di scorciatoie",
+    "Riduzione delle emozioni",
+    "Aumento del coinvolgimento"
+  ],
+  "correct": 1
+},
+{
+  "id": 214,
+  "c": "Attenzione",
+  "q": "L'attenzione divisa comporta:",
+  "options": [
+    "Migliore memoria",
+    "Elaborazione superficiale",
+    "Maggiore controllo",
+    "Decisioni più lente"
+  ],
+  "correct": 1
+},
+{
+  "id": 215,
+  "c": "Attenzione",
+  "q": "Gli stimoli salienti sono:",
+  "options": [
+    "Ignorati",
+    "Più facilmente notati",
+    "Sempre rifiutati",
+    "Irrilevanti"
+  ],
+  "correct": 1
+},
+{
+  "id": 216,
+  "c": "Informazione",
+  "q": "Il sovraccarico informativo porta a:",
+  "options": [
+    "Decisioni ottimali",
+    "Confusione e rinuncia",
+    "Maggiore soddisfazione",
+    "Aumento del controllo"
+  ],
+  "correct": 1
+},
+{
+  "id": 217,
+  "c": "Informazione",
+  "q": "Troppe alternative possono:",
+  "options": [
+    "Aumentare la libertà",
+    "Ridurre la soddisfazione",
+    "Aumentare la qualità",
+    "Eliminare il rischio"
+  ],
+  "correct": 1
+},
+{
+  "id": 218,
+  "c": "Scelta",
+  "q": "Il paradosso della scelta afferma che:",
+  "options": [
+    "Più scelta è sempre meglio",
+    "Meno scelta riduce la libertà",
+    "Troppe opzioni possono bloccare",
+    "La scelta è irrilevante"
+  ],
+  "correct": 2
+},
+{
+  "id": 219,
+  "c": "Scelta",
+  "q": "Una scelta semplificata tende a:",
+  "options": [
+    "Ridurre la probabilità di acquisto",
+    "Facilitare la decisione",
+    "Aumentare il rischio",
+    "Ridurre la fiducia"
+  ],
+  "correct": 1
+},
+{
+  "id": 220,
+  "c": "Prezzo",
+  "q": "Il prezzo psicologico sfrutta:",
+  "options": [
+    "Costi reali",
+    "Processi percettivi",
+    "Norme legali",
+    "Dati oggettivi"
+  ],
+  "correct": 1
+},
+{
+  "id": 221,
+  "c": "Prezzo",
+  "q": "Un aumento graduale del prezzo è percepito come:",
+  "options": [
+    "Più doloroso",
+    "Meno evidente",
+    "Sempre negativo",
+    "Irrilevante"
+  ],
+  "correct": 1
+},
+{
+  "id": 222,
+  "c": "Dolore del pagamento",
+  "q": "Il pagamento in contanti tende a:",
+  "options": [
+    "Ridurre la percezione di spesa",
+    "Aumentare il dolore del pagamento",
+    "Favorire l'impulsività",
+    "Eliminare il controllo"
+  ],
+  "correct": 1
+},
+{
+  "id": 223,
+  "c": "Dolore del pagamento",
+  "q": "I pagamenti digitali possono:",
+  "options": [
+    "Aumentare la consapevolezza",
+    "Ridurre il dolore del pagamento",
+    "Eliminare il rischio",
+    "Ridurre l'impulsività"
+  ],
+  "correct": 1
+},
+{
+  "id": 224,
+  "c": "Tecnologia",
+  "q": "Gli algoritmi di raccomandazione influenzano:",
+  "options": [
+    "Solo il prezzo",
+    "Le scelte e l'esposizione",
+    "Solo la disponibilità",
+    "Solo la pubblicità"
+  ],
+  "correct": 1
+},
+{
+  "id": 225,
+  "c": "Tecnologia",
+  "q": "La personalizzazione aumenta:",
+  "options": [
+    "La rilevanza percepita",
+    "La confusione",
+    "Il rischio",
+    "La distanza emotiva"
+  ],
+  "correct": 0
+},
+{
+  "id": 226,
+  "c": "Tecnologia",
+  "q": "Il filtro algoritmico può portare a:",
+  "options": [
+    "Maggiore varietà",
+    "Bolle informative",
+    "Scelte casuali",
+    "Riduzione dell'influenza"
+  ],
+  "correct": 1
+},
+{
+  "id": 227,
+  "c": "Social media",
+  "q": "I social media influenzano il consumo tramite:",
+  "options": [
+    "Interazione sociale",
+    "Confronto sociale",
+    "Prova sociale",
+    "Tutti i precedenti"
+  ],
+  "correct": 3
+},
+{
+  "id": 228,
+  "c": "Social media",
+  "q": "Gli influencer sono efficaci perché:",
+  "options": [
+    "Imposti",
+    "Percepiti come simili e credibili",
+    "Sempre esperti",
+    "Ridimensionano il prezzo"
+  ],
+  "correct": 1
+},
+{
+  "id": 229,
+  "c": "Confronto sociale",
+  "q": "Il confronto sociale porta il consumatore a:",
+  "options": [
+    "Ignorare gli altri",
+    "Valutarsi rispetto agli altri",
+    "Agire casualmente",
+    "Ridurre le scelte"
+  ],
+  "correct": 1
+},
+{
+  "id": 230,
+  "c": "Confronto sociale",
+  "q": "Il confronto verso l'alto può generare:",
+  "options": [
+    "Soddisfazione",
+    "Aspirazione",
+    "Indifferenza",
+    "Riduzione del desiderio"
+  ],
+  "correct": 1
+},
+{
+  "id": 231,
+  "c": "Benessere",
+  "q": "Il consumo contribuisce al benessere quando:",
+  "options": [
+    "È compulsivo",
+    "È coerente con i valori personali",
+    "È impulsivo",
+    "È imposto"
+  ],
+  "correct": 1
+},
+{
+  "id": 232,
+  "c": "Benessere",
+  "q": "Il materialismo eccessivo è associato a:",
+  "options": [
+    "Maggiore felicità",
+    "Minore benessere",
+    "Stabilità emotiva",
+    "Autocontrollo"
+  ],
+  "correct": 1
+},
+{
+  "id": 233,
+  "c": "Consumo problematico",
+  "q": "Il consumo compulsivo è caratterizzato da:",
+  "options": [
+    "Controllo",
+    "Perdita di controllo",
+    "Scelte pianificate",
+    "Bassa emotività"
+  ],
+  "correct": 1
+},
+{
+  "id": 234,
+  "c": "Consumo problematico",
+  "q": "Il consumo problematico è spesso legato a:",
+  "options": [
+    "Benessere elevato",
+    "Regolazione emotiva disfunzionale",
+    "Razionalità",
+    "Basso stress"
+  ],
+  "correct": 1
+},
+{
+  "id": 235,
+  "c": "Prevenzione",
+  "q": "La prevenzione del consumo problematico richiede:",
+  "options": [
+    "Divieti",
+    "Consapevolezza e supporto",
+    "Pubblicità",
+    "Aumento dei prezzi"
+  ],
+  "correct": 1
+},
+{
+  "id": 236,
+  "c": "Prevenzione",
+  "q": "L'informazione corretta aiuta a:",
+  "options": [
+    "Manipolare",
+    "Prendere decisioni migliori",
+    "Aumentare l'impulsività",
+    "Ridurre le scelte"
+  ],
+  "correct": 1
+},
+{
+  "id": 237,
+  "c": "Politiche pubbliche",
+  "q": "Le politiche di consumo possono usare la psicologia per:",
+  "options": [
+    "Imporre comportamenti",
+    "Orientare scelte salutari",
+    "Ridurre la libertà",
+    "Eliminare il mercato"
+  ],
+  "correct": 1
+},
+{
+  "id": 238,
+  "c": "Politiche pubbliche",
+  "q": "Le campagne di prevenzione funzionano meglio se:",
+  "options": [
+    "Colpevolizzano",
+    "Considerano i fattori psicologici",
+    "Sono generiche",
+    "Ignorano il contesto"
+  ],
+  "correct": 1
+},
+{
+  "id": 239,
+  "c": "Metodo",
+  "q": "La triangolazione dei metodi serve a:",
+  "options": [
+    "Ridurre i dati",
+    "Aumentare l'affidabilità",
+    "Eliminare esperimenti",
+    "Ridurre i costi"
+  ],
+  "correct": 1
+},
+{
+  "id": 240,
+  "c": "Metodo",
+  "q": "L'uso combinato di metodi qualitativi e quantitativi:",
+  "options": [
+    "È inutile",
+    "Arricchisce la comprensione",
+    "Riduce la validità",
+    "Complica senza vantaggi"
+  ],
+  "correct": 1
+},
+{
+  "id": 241,
+  "c": "Sintesi",
+  "q": "Il consumo è influenzato da:",
+  "options": [
+    "Un solo fattore",
+    "Interazioni complesse",
+    "Solo il prezzo",
+    "Solo la pubblicità"
+  ],
+  "correct": 1
+},
+{
+  "id": 242,
+  "c": "Sintesi",
+  "q": "La psicologia del consumatore integra:",
+  "options": [
+    "Economia e diritto",
+    "Psicologia e contesto sociale",
+    "Solo marketing",
+    "Solo neuroscienze"
+  ],
+  "correct": 1
+},
+{
+  "id": 243,
+  "c": "Sintesi",
+  "q": "Le scelte di consumo sono spesso:",
+  "options": [
+    "Ottimali",
+    "Situazionali",
+    "Perfettamente pianificate",
+    "Indipendenti"
+  ],
+  "correct": 1
+},
+{
+  "id": 244,
+  "c": "Sintesi",
+  "q": "Comprendere il consumatore permette di:",
+  "options": [
+    "Manipolare",
+    "Progettare interventi migliori",
+    "Eliminare la libertà",
+    "Ridurre la varietà"
+  ],
+  "correct": 1
+},
+{
+  "id": 245,
+  "c": "Sintesi",
+  "q": "Il consumatore moderno è:",
+  "options": [
+    "Isolato",
+    "Connesso e influenzato",
+    "Perfettamente razionale",
+    "Indifferente"
+  ],
+  "correct": 1
+},
+{
+  "id": 246,
+  "c": "Sintesi",
+  "q": "La prospettiva di Guéguen sottolinea:",
+  "options": [
+    "Il controllo totale",
+    "Le influenze sottili del contesto",
+    "L'assenza di emozioni",
+    "Il primato del prezzo"
+  ],
+  "correct": 1
+},
+{
+  "id": 247,
+  "c": "Sintesi",
+  "q": "Per studiare efficacemente è utile:",
+  "options": [
+    "Memorizzare",
+    "Collegare concetti ed esempi",
+    "Ignorare il contesto",
+    "Studiare solo definizioni"
+  ],
+  "correct": 1
+},
+{
+  "id": 248,
+  "c": "Sintesi",
+  "q": "La psicologia del consumo aiuta a:",
+  "options": [
+    "Subire le influenze",
+    "Comprendere e scegliere meglio",
+    "Eliminare il consumo",
+    "Ignorare il marketing"
+  ],
+  "correct": 1
+},
+{
+  "id": 249,
+  "c": "Sintesi",
+  "q": "Il consumo consapevole implica:",
+  "options": [
+    "Assenza di emozioni",
+    "Riflessione sulle scelte",
+    "Rinuncia al consumo",
+    "Scelte casuali"
+  ],
+  "correct": 1
+},
+{
+  "id": 250,
+  "c": "Sintesi",
+  "q": "Il comportamento del consumatore è:",
+  "options": [
+    "Deterministico",
+    "Complesso e multifattoriale",
+    "Casuale",
+    "Perfettamente razionale"
+  ],
+  "correct": 1
+},
+{
+  "id": 251,
+  "c": "Coinvolgimento",
+  "q": "Il coinvolgimento del consumatore è maggiore quando:",
+  "options": [
+    "Il prodotto è banale",
+    "Il rischio percepito è basso",
+    "La scelta è importante",
+    "Il tempo è scarso"
+  ],
+  "correct": 2
+},
+{
+  "id": 252,
+  "c": "Coinvolgimento",
+  "q": "Un alto coinvolgimento porta a:",
+  "options": [
+    "Elaborazione superficiale",
+    "Decisioni automatiche",
+    "Maggiore elaborazione cognitiva",
+    "Uso esclusivo di euristiche"
+  ],
+  "correct": 2
+},
+{
+  "id": 253,
+  "c": "Coinvolgimento",
+  "q": "I prodotti ad alto coinvolgimento sono spesso:",
+  "options": [
+    "Acquistati impulsivamente",
+    "Costosi e simbolici",
+    "Di uso quotidiano",
+    "Indifferenziati"
+  ],
+  "correct": 1
+},
+{
+  "id": 254,
+  "c": "Elaborazione",
+  "q": "Il modello ELM distingue tra:",
+  "options": [
+    "Scelte rapide e lente",
+    "Via centrale e via periferica",
+    "Decisioni razionali ed emotive",
+    "Prezzo e qualità"
+  ],
+  "correct": 1
+},
+{
+  "id": 255,
+  "c": "Elaborazione",
+  "q": "La via centrale della persuasione richiede:",
+  "options": [
+    "Basso coinvolgimento",
+    "Attenzione e motivazione",
+    "Stimoli semplici",
+    "Pressione sociale"
+  ],
+  "correct": 1
+},
+{
+  "id": 256,
+  "c": "Elaborazione",
+  "q": "La via periferica si basa soprattutto su:",
+  "options": [
+    "Argomentazioni forti",
+    "Indizi superficiali",
+    "Analisi approfondita",
+    "Riflessione consapevole"
+  ],
+  "correct": 1
+},
+{
+  "id": 257,
+  "c": "Persuasione",
+  "q": "La credibilità della fonte aumenta:",
+  "options": [
+    "La resistenza",
+    "L'efficacia persuasiva",
+    "Il rischio percepito",
+    "La dissonanza"
+  ],
+  "correct": 1
+},
+{
+  "id": 258,
+  "c": "Persuasione",
+  "q": "Una fonte percepita come esperta è:",
+  "options": [
+    "Meno influente",
+    "Più convincente",
+    "Irrilevante",
+    "Sempre sospetta"
+  ],
+  "correct": 1
+},
+{
+  "id": 259,
+  "c": "Persuasione",
+  "q": "Il consenso sociale funziona perché:",
+  "options": [
+    "Riduce i costi",
+    "Indica ciò che fanno gli altri",
+    "Elimina il rischio",
+    "Aumenta il prezzo"
+  ],
+  "correct": 1
+},
+{
+  "id": 260,
+  "c": "Persuasione",
+  "q": "Il principio di scarsità aumenta il valore percepito perché:",
+  "options": [
+    "Riduce la qualità",
+    "Limita la libertà",
+    "Rende l'oggetto più desiderabile",
+    "Aumenta il controllo"
+  ],
+  "correct": 2
+},
+{
+  "id": 261,
+  "c": "Tempo",
+  "q": "La pressione temporale porta più facilmente a:",
+  "options": [
+    "Decisioni analitiche",
+    "Uso di euristiche",
+    "Maggiore soddisfazione",
+    "Minor rischio"
+  ],
+  "correct": 1
+},
+{
+  "id": 262,
+  "c": "Tempo",
+  "q": "La scarsità di tempo tende a:",
+  "options": [
+    "Aumentare l'elaborazione",
+    "Ridurre il confronto tra alternative",
+    "Migliorare la memoria",
+    "Ridurre l'impulsività"
+  ],
+  "correct": 1
+},
+{
+  "id": 263,
+  "c": "Ambiente",
+  "q": "L'ambiente di vendita influenza il consumo attraverso:",
+  "options": [
+    "Stimoli sensoriali",
+    "Norme legali",
+    "Prezzi fissi",
+    "Contratti"
+  ],
+  "correct": 0
+},
+{
+  "id": 264,
+  "c": "Ambiente",
+  "q": "La musica di sottofondo può influenzare:",
+  "options": [
+    "Il tempo di permanenza",
+    "Il reddito",
+    "La qualità reale",
+    "La disponibilità"
+  ],
+  "correct": 0
+},
+{
+  "id": 265,
+  "c": "Ambiente",
+  "q": "Un profumo ambientale congruente:",
+  "options": [
+    "Disturba",
+    "Migliora l'esperienza",
+    "Riduce le vendite",
+    "Aumenta il rischio"
+  ],
+  "correct": 1
+},
+{
+  "id": 266,
+  "c": "Design",
+  "q": "Il design del prodotto comunica:",
+  "options": [
+    "Solo estetica",
+    "Valori e qualità percepita",
+    "Solo il prezzo",
+    "Solo la funzione"
+  ],
+  "correct": 1
+},
+{
+  "id": 267,
+  "c": "Design",
+  "q": "Un packaging efficace deve essere:",
+  "options": [
+    "Complesso",
+    "Coerente con il brand",
+    "Invisibile",
+    "Neutro"
+  ],
+  "correct": 1
+},
+{
+  "id": 268,
+  "c": "Marca",
+  "q": "La marca serve principalmente a:",
+  "options": [
+    "Confondere",
+    "Ridurre l'incertezza",
+    "Aumentare i costi",
+    "Eliminare la concorrenza"
+  ],
+  "correct": 1
+},
+{
+  "id": 269,
+  "c": "Marca",
+  "q": "Una marca forte genera:",
+  "options": [
+    "Indifferenza",
+    "Fiducia e fedeltà",
+    "Solo notorietà",
+    "Prezzi più bassi"
+  ],
+  "correct": 1
+},
+{
+  "id": 270,
+  "c": "Identità",
+  "q": "Il consumo identitario permette di:",
+  "options": [
+    "Ridurre i costi",
+    "Esprimere chi si è",
+    "Evitare il confronto",
+    "Eliminare le emozioni"
+  ],
+  "correct": 1
+},
+{
+  "id": 271,
+  "c": "Identità",
+  "q": "I prodotti simbolici sono usati per:",
+  "options": [
+    "Funzioni pratiche",
+    "Comunicare identità sociale",
+    "Risparmiare",
+    "Ridurre il rischio"
+  ],
+  "correct": 1
+},
+{
+  "id": 272,
+  "c": "Esperienza",
+  "q": "Il marketing esperienziale punta su:",
+  "options": [
+    "Prezzo",
+    "Emozioni e vissuto",
+    "Riduzione delle scelte",
+    "Analisi razionale"
+  ],
+  "correct": 1
+},
+{
+  "id": 273,
+  "c": "Esperienza",
+  "q": "Un'esperienza positiva aumenta:",
+  "options": [
+    "La dissonanza",
+    "La probabilità di riacquisto",
+    "Il rischio",
+    "L'indifferenza"
+  ],
+  "correct": 1
+},
+{
+  "id": 274,
+  "c": "Memoria",
+  "q": "Le emozioni intense rendono un'esperienza:",
+  "options": [
+    "Meno memorabile",
+    "Più memorabile",
+    "Neutra",
+    "Confusa"
+  ],
+  "correct": 1
+},
+{
+  "id": 275,
+  "c": "Memoria",
+  "q": "La memoria del consumatore è:",
+  "options": [
+    "Perfetta",
+    "Ricostruttiva",
+    "Oggettiva",
+    "Immutabile"
+  ],
+  "correct": 1
+},
+{
+  "id": 276,
+  "c": "Soddisfazione",
+  "q": "La soddisfazione cumulativa deriva da:",
+  "options": [
+    "Un solo acquisto",
+    "Esperienze ripetute",
+    "Pubblicità",
+    "Prezzi bassi"
+  ],
+  "correct": 1
+},
+{
+  "id": 277,
+  "c": "Soddisfazione",
+  "q": "Una soddisfazione stabile favorisce:",
+  "options": [
+    "Cambiamento",
+    "Fedeltà a lungo termine",
+    "Dissonanza",
+    "Riduzione del coinvolgimento"
+  ],
+  "correct": 1
+},
+{
+  "id": 278,
+  "c": "Relazione",
+  "q": "Il relationship marketing mira a:",
+  "options": [
+    "Vendite singole",
+    "Relazioni durature",
+    "Riduzione dei contatti",
+    "Scelte casuali"
+  ],
+  "correct": 1
+},
+{
+  "id": 279,
+  "c": "Relazione",
+  "q": "La fiducia nella relazione con la marca:",
+  "options": [
+    "Riduce il valore",
+    "Riduce l'incertezza",
+    "Aumenta il rischio",
+    "Elimina la scelta"
+  ],
+  "correct": 1
+},
+{
+  "id": 280,
+  "c": "Etica",
+  "q": "Un marketing responsabile dovrebbe:",
+  "options": [
+    "Sfruttare i bias",
+    "Tutela del consumatore",
+    "Ignorare il benessere",
+    "Massimizzare la pressione"
+  ],
+  "correct": 1
+},
+{
+  "id": 281,
+  "c": "Etica",
+  "q": "La trasparenza aumenta:",
+  "options": [
+    "Diffidenza",
+    "Fiducia",
+    "Confusione",
+    "Rischio"
+  ],
+  "correct": 1
+},
+{
+  "id": 282,
+  "c": "Responsabilità",
+  "q": "Le aziende influenzano il consumo quindi hanno:",
+  "options": [
+    "Nessuna responsabilità",
+    "Responsabilità sociale",
+    "Solo obblighi legali",
+    "Libertà totale"
+  ],
+  "correct": 1
+},
+{
+  "id": 283,
+  "c": "Responsabilità",
+  "q": "La sostenibilità nel consumo riguarda:",
+  "options": [
+    "Solo il prezzo",
+    "Impatto sociale e ambientale",
+    "Solo il marketing",
+    "Solo la produzione"
+  ],
+  "correct": 1
+},
+{
+  "id": 284,
+  "c": "Sostenibilità",
+  "q": "Il consumo sostenibile implica:",
+  "options": [
+    "Rinuncia totale",
+    "Scelte consapevoli",
+    "Impulsività",
+    "Indifferenza"
+  ],
+  "correct": 1
+},
+{
+  "id": 285,
+  "c": "Sostenibilità",
+  "q": "Le etichette ambientali servono a:",
+  "options": [
+    "Confondere",
+    "Informare il consumatore",
+    "Aumentare i costi",
+    "Ridurre la qualità"
+  ],
+  "correct": 1
+},
+{
+  "id": 286,
+  "c": "Educazione",
+  "q": "L'educazione al consumo favorisce:",
+  "options": [
+    "Passività",
+    "Scelte responsabili",
+    "Impulsività",
+    "Conformismo"
+  ],
+  "correct": 1
+},
+{
+  "id": 287,
+  "c": "Educazione",
+  "q": "Un consumatore informato è:",
+  "options": [
+    "Immune",
+    "Più critico",
+    "Indifferente",
+    "Manipolabile"
+  ],
+  "correct": 1
+},
+{
+  "id": 288,
+  "c": "Metodo",
+  "q": "Gli esperimenti in psicologia del consumo permettono di:",
+  "options": [
+    "Stabilire causalità",
+    "Descrivere opinioni",
+    "Ridurre i bias",
+    "Eliminare il contesto"
+  ],
+  "correct": 0
+},
+{
+  "id": 289,
+  "c": "Metodo",
+  "q": "Il controllo delle variabili serve a:",
+  "options": [
+    "Confondere",
+    "Isolare gli effetti",
+    "Ridurre i dati",
+    "Aumentare il rumore"
+  ],
+  "correct": 1
+},
+{
+  "id": 290,
+  "c": "Metodo",
+  "q": "La validità ecologica riguarda:",
+  "options": [
+    "Il laboratorio",
+    "Il realismo delle situazioni",
+    "Il campione",
+    "La statistica"
+  ],
+  "correct": 1
+},
+{
+  "id": 291,
+  "c": "Applicazioni",
+  "q": "Le conoscenze psicologiche sono usate anche in:",
+  "options": [
+    "Politiche pubbliche",
+    "Sanità",
+    "Educazione",
+    "Tutti i precedenti"
+  ],
+  "correct": 3
+},
+{
+  "id": 292,
+  "c": "Applicazioni",
+  "q": "La psicologia del consumo può migliorare:",
+  "options": [
+    "Solo le vendite",
+    "Il benessere collettivo",
+    "Solo il profitto",
+    "Solo la pubblicità"
+  ],
+  "correct": 1
+},
+{
+  "id": 293,
+  "c": "Sintesi",
+  "q": "Il comportamento di consumo è:",
+  "options": [
+    "Semplice",
+    "Dipendente dal contesto",
+    "Totalmente prevedibile",
+    "Isolato"
+  ],
+  "correct": 1
+},
+{
+  "id": 294,
+  "c": "Sintesi",
+  "q": "Le influenze sottili sono efficaci perché:",
+  "options": [
+    "Sono evidenti",
+    "Agiscono automaticamente",
+    "Sono obbligatorie",
+    "Sono razionali"
+  ],
+  "correct": 1
+},
+{
+  "id": 295,
+  "c": "Sintesi",
+  "q": "Il consumatore reale è:",
+  "options": [
+    "Perfettamente razionale",
+    "Limitato cognitivamente",
+    "Indipendente",
+    "Ottimale"
+  ],
+  "correct": 1
+},
+{
+  "id": 296,
+  "c": "Sintesi",
+  "q": "La psicologia del consumatore evidenzia:",
+  "options": [
+    "L'assenza di emozioni",
+    "Il ruolo del contesto",
+    "Il primato del prezzo",
+    "La neutralità delle scelte"
+  ],
+  "correct": 1
+},
+{
+  "id": 297,
+  "c": "Sintesi",
+  "q": "Per affrontare l'esame è utile:",
+  "options": [
+    "Memorizzare definizioni",
+    "Capire i meccanismi",
+    "Studiare solo esempi",
+    "Ignorare la teoria"
+  ],
+  "correct": 1
+},
+{
+  "id": 298,
+  "c": "Sintesi",
+  "q": "L'approccio di Guéguen è:",
+  "options": [
+    "Puramente teorico",
+    "Sperimentale e applicativo",
+    "Normativo",
+    "Filosofico"
+  ],
+  "correct": 1
+},
+{
+  "id": 299,
+  "c": "Sintesi",
+  "q": "Comprendere il consumo significa:",
+  "options": [
+    "Eliminare la libertà",
+    "Rendere visibili le influenze",
+    "Imporre scelte",
+    "Ridurre le alternative"
+  ],
+  "correct": 1
+},
+{
+  "id": 300,
+  "c": "Sintesi",
+  "q": "Il messaggio chiave della psicologia del consumo è che:",
+  "options": [
+    "Le scelte sono neutre",
+    "Le scelte sono influenzabili",
+    "Il prezzo domina tutto",
+    "Il consumatore è perfetto"
+  ],
+  "correct": 1
+}
+  ]
+}
+
+
+
