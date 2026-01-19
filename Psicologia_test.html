@@ -214,6 +214,12 @@
       gap: 10px;
       margin-top: 12px;
     }
+    #filtersCard {
+      display: none;
+    }
+    #homeBtn {
+      display: none;
+    }
     .nav-buttons {
       display: flex;
       gap: 10px;
@@ -337,9 +343,10 @@
           <button class="btn-secondary" id="skipBtn">Salta</button>
           <button class="btn-secondary" id="nextBtn">Successiva →</button>
         </div>
+        <button class="btn-secondary" id="homeBtn" style="margin-top: 12px; width: 100%;">🏠 Torna alla home</button>
       </div>
 
-      <div class="card">
+      <div class="card" id="filtersCard">
         <div class="title">Filtri</div>
         <div class="controls-row">
           <select id="modeSelect">
@@ -361,7 +368,6 @@
         <div class="button-group">
           <button class="btn-secondary" id="selectAllMaterie">Seleziona tutte</button>
           <button class="btn-secondary" id="deselectAllMaterie">Deseleziona tutte</button>
-          <button class="btn-secondary" id="resetBtn">Azzera statistiche</button>
         </div>
         <div id="materieContainer" style="margin-top: 10px; border: 1px solid #e5e7eb; border-radius: 6px; padding: 8px; max-height: 300px; overflow-y: auto;"></div>
       </div>
@@ -399,6 +405,10 @@
             <input type="checkbox" id="setupConfirmToggle" />
             Richiedi conferma per ogni risposta
           </label>
+        </div>
+
+        <div class="button-group" style="margin-bottom: 12px;">
+          <button class="btn-secondary" id="resetBtn" style="flex: 1;">Azzera statistiche</button>
         </div>
 
         <button id="startBtn">Inizia Quiz 🚀</button>
@@ -995,6 +1005,8 @@
       confirmRequired = setupConfirmToggle.checked;
       setupCard.style.display = "none";
       questionContainer.classList.add("active");
+      document.getElementById("filtersCard").style.display = "none";
+      document.getElementById("homeBtn").style.display = "block";
       initMateriaSelect();
       buildVisibleQuestions();
       renderQuestion();
@@ -1013,6 +1025,14 @@
       const checkboxes = materieContainer.querySelectorAll('input[type="checkbox"]');
       checkboxes.forEach(cb => cb.checked = false);
       updateSelectedMaterie();
+    });
+
+    document.getElementById("homeBtn").addEventListener("click", () => {
+      setupCard.style.display = "block";
+      questionContainer.classList.remove("active");
+      document.getElementById("homeBtn").style.display = "none";
+      currentIndex = 0;
+      renderQuestion();
     });
 
     numQuestionsInput.addEventListener("change", () => {
