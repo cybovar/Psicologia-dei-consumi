@@ -1899,7 +1899,7 @@
 },
 {
   "id": 159,
-  "c": "Rischio",
+  "c": "Libro",
   "q": "Il rischio percepito nel consumo è:",
   "options": [
     "Sempre oggettivo",
@@ -1911,7 +1911,7 @@
 },
 {
   "id": 160,
-  "c": "Rischio",
+  "c": "Libro",
   "q": "L'alto rischio percepito porta a:",
   "options": [
     "Decisioni impulsive",
@@ -2067,7 +2067,7 @@
 },
 {
   "id": 173,
-  "c": "Status",
+  "c": "Libro",
   "q": "Il consumo di status serve a:",
   "options": [
     "Ridurre i costi",
@@ -2079,7 +2079,7 @@
 },
 {
   "id": 174,
-  "c": "Status",
+  "c": "Libro",
   "q": "I beni di lusso sono spesso acquistati per:",
   "options": [
     "Funzionalità",
@@ -3603,7 +3603,7 @@
 },
   {
     "id": 302,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Qual è la differenza principale tra la soglia assoluta e la soglia differenziale?",
     "options": [
       "La prima riguarda la capacità di ignorare stimoli ripetitivi, la seconda la memoria a lungo termine",
@@ -3615,7 +3615,7 @@
   },
   {
     "id": 303,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo la Teoria della Reattività (Reactance), come reagiscono i consumatori a una pressione persuasiva eccessiva?",
     "options": [
       "Accettano passivamente il messaggio per evitare conflitti con il venditore o con il brand",
@@ -3627,7 +3627,7 @@
   },
   {
     "id": 304,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel contesto della percezione, cosa si intende per 'adattamento sensoriale'?",
     "options": [
       "La capacità di focalizzare l'attenzione su un singolo stimolo ignorando tutto il rumore di fondo",
@@ -3639,7 +3639,7 @@
   },
   {
     "id": 305,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La legge della chiusura della Gestalt suggerisce che il consumatore tende a:",
     "options": [
       "Raggruppare stimoli che si trovano fisicamente vicini nello spazio del punto vendita",
@@ -3651,7 +3651,7 @@
   },
   {
     "id": 306,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa descrive l'effetto 'Mere Exposure' studiato da Zajonc?",
     "options": [
       "Il rifiuto di un prodotto quando viene pubblicizzato in modo troppo aggressivo e ripetitivo",
@@ -3663,7 +3663,7 @@
   },
   {
     "id": 307,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nella ricerca qualitativa, a cosa serve principalmente l'intervista in profondità?",
     "options": [
       "A raccogliere dati statistici su un campione rappresentativo della popolazione nazionale",
@@ -3675,7 +3675,7 @@
   },
   {
     "id": 308,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo il modello Fishbein, l'atteggiamento verso un brand è determinato da:",
     "options": [
       "L'impulso del momento guidato esclusivamente dalle emozioni provate nel punto vendita",
@@ -3687,7 +3687,7 @@
   },
   {
     "id": 309,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto ancoraggio si verifica quando il giudizio del consumatore è influenzato da:",
     "options": [
       "L'ultima informazione ricevuta prima di prendere la decisione finale d'acquisto",
@@ -3699,7 +3699,7 @@
   },
   {
     "id": 310,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa si intende per 'apprendimento vicario' o modellamento?",
     "options": [
       "Un processo basato esclusivamente sulla ripetizione meccanica di uno slogan pubblicitario",
@@ -3711,7 +3711,7 @@
   },
   {
     "id": 311,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'euristica della disponibilità porta le persone a sovrastimare i rischi che:",
     "options": [
       "Sono legati a prodotti tecnologici complessi e difficili da utilizzare correttamente",
@@ -3723,7 +3723,7 @@
   },
   {
     "id": 312,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel modello ELM, il percorso centrale di persuasione viene attivato quando:",
     "options": [
       "Il ricevente è distratto e non ha interesse verso l'argomento trattato nel messaggio",
@@ -3735,7 +3735,7 @@
   },
   {
     "id": 313,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il concetto di 'Social Proof' (Riprova Sociale) suggerisce che le persone:",
     "options": [
       "Cercano di distinguersi dagli altri acquistando prodotti unici e personalizzati",
@@ -3747,7 +3747,7 @@
   },
   {
     "id": 314,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto 'Dunning-Kruger' nel comportamento del consumatore indica che:",
     "options": [
       "Gli esperti di un settore sono spesso troppo sicuri delle proprie scelte d'acquisto",
@@ -3759,7 +3759,7 @@
   },
   {
     "id": 315,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La dissonanza cognitiva post-acquisto è più frequente quando:",
     "options": [
       "La scelta riguardava un prodotto di scarso valore e di uso quotidiano e ripetitivo",
@@ -3771,7 +3771,7 @@
   },
   {
     "id": 316,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cos'è il 'Need for Cognition' in psicologia dei consumi?",
     "options": [
       "Il bisogno fisiologico di nutrirsi dopo aver svolto un'attività mentale intensa",
@@ -3783,7 +3783,7 @@
   },
   {
     "id": 317,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto 'Framing' dimostra che le persone sono 'avverse alle perdite' quando:",
     "options": [
       "Devono scegliere tra due opzioni presentate in termini di potenziali guadagni",
@@ -3795,7 +3795,7 @@
   },
   {
     "id": 318,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel neuromarketing, l'uso dell'EEG (Elettroencefalogramma) serve a rilevare:",
     "options": [
       "I movimenti oculari esatti durante la scansione di una pagina web o di un logo",
@@ -3807,7 +3807,7 @@
   },
   {
     "id": 319,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il 'Bias di Conferma' spinge il consumatore a cercare informazioni che:",
     "options": [
       "Smentiscano le sue convinzioni precedenti per permettergli di imparare cose nuove",
@@ -3819,7 +3819,7 @@
   },
   {
     "id": 320,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Qual è lo scopo delle tecniche proiettive (es. completamento di frasi) nelle ricerche?",
     "options": [
       "Misurare con precisione millimetrica i tempi di reazione motoria degli intervistati",
@@ -3831,7 +3831,7 @@
   },
   {
     "id": 321,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto 'Decoy' (Esca) si basa sull'inserimento di una terza opzione che:",
     "options": [
       "È chiaramente superiore alle altre due per rapporto qualità-prezzo e utilità",
@@ -3843,7 +3843,7 @@
   },
   {
     "id": 322,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa afferma la Teoria dell'Autopercezione di Bem?",
     "options": [
       "Le persone conoscono i propri stati interni attraverso un'introspezione profonda",
@@ -3855,7 +3855,7 @@
   },
   {
     "id": 323,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il 'Nudging' si distingue dalla manipolazione perché:",
     "options": [
       "Utilizza messaggi subliminali che il consumatore non può percepire consciamente",
@@ -3867,7 +3867,7 @@
   },
   {
     "id": 324,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nell'esperimento di Milgram, l'obbedienza era legata principalmente a:",
     "options": [
       "La presenza di un premio in denaro per chi portava a termine il compito",
@@ -3879,7 +3879,7 @@
   },
   {
     "id": 325,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto 'Endowment' (Dotazione) suggerisce che le persone valutano di più un bene:",
     "options": [
       "Quando appartiene a una persona famosa o a un leader d'opinione stimato",
@@ -3891,7 +3891,7 @@
   },
   {
     "id": 326,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa si intende per 'Etnocentrismo del consumatore'?",
     "options": [
       "La passione per il viaggio e per l'acquisto di prodotti tipici di culture lontane",
@@ -3903,7 +3903,7 @@
   },
   {
     "id": 327,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il modello AIDA descrive le fasi che portano all'acquisto come:",
     "options": [
       "Attenzione, Interesse, Desiderio, Azione",
@@ -3915,7 +3915,7 @@
   },
   {
     "id": 328,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "In termini di memoria, lo 'chunking' è una strategia che consiste nel:",
     "options": [
       "Ripetere ad alta voce un'informazione finché non viene memorizzata stabilmente",
@@ -3927,7 +3927,7 @@
   },
   {
     "id": 329,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa indica il termine 'Customer Satisfaction'?",
     "options": [
       "Il numero totale di clienti che entrano in un negozio in un singolo giorno",
@@ -3939,7 +3939,7 @@
   },
   {
     "id": 330,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto 'Sunk Cost' (Costi Sommersi) spinge le persone a:",
     "options": [
       "Abbandonare un progetto non appena si rendono conto che non è più redditizio",
@@ -3951,7 +3951,7 @@
   },
   {
     "id": 331,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Quale funzione degli atteggiamenti, secondo Katz, aiuta a minimizzare le punizioni e massimizzare le ricompense?",
     "options": [
       "Funzione ego-difensiva",
@@ -3963,7 +3963,7 @@
   },
   {
     "id": 332,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nella teoria della dissonanza cognitiva, se non è possibile cambiare il comportamento, l'individuo tende a:",
     "options": [
       "Ignorare la fonte del disagio",
@@ -3975,7 +3975,7 @@
   },
   {
     "id": 333,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La tecnica del 'Low-ball' si basa sul fatto che il cliente, dopo una prima accettazione:",
     "options": [
       "Prova un senso di gratitudine",
@@ -3987,7 +3987,7 @@
   },
   {
     "id": 334,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo la teoria di Bem, le persone deducono i propri atteggiamenti osservando:",
     "options": [
       "I propri valori interiori",
@@ -3999,7 +3999,7 @@
   },
   {
     "id": 335,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel modello ELM, quale di questi elementi è un tipico segnale periferico?",
     "options": [
       "La validità delle prove",
@@ -4011,7 +4011,7 @@
   },
   {
     "id": 336,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo la Balance Theory di Heider, una triade è in equilibrio se il prodotto dei segni è:",
     "options": [
       "Sempre uguale a zero",
@@ -4023,7 +4023,7 @@
   },
   {
     "id": 337,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto Framing suggerisce che i consumatori reagiscono diversamente a messaggi presentati come:",
     "options": [
       "Informazioni o opinioni",
@@ -4035,7 +4035,7 @@
   },
   {
     "id": 338,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La tecnica del 'Piede nella porta' sfrutta principalmente il principio della:",
     "options": [
       "Reciprocità sociale",
@@ -4047,7 +4047,7 @@
   },
   {
     "id": 339,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa misura tecnicamente la conduttanza cutanea (GSR) in un test di neuromarketing?",
     "options": [
       "La valenza edonica",
@@ -4059,7 +4059,7 @@
   },
   {
     "id": 340,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La JND (Just Noticeable Difference) è la quantità minima di cambiamento necessaria per:",
     "options": [
       "Acquistare il prodotto",
@@ -4071,7 +4071,7 @@
   },
   {
     "id": 341,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Negli esperimenti sui 'gruppi minimi', Tajfel dimostrò che il favoritismo per l'ingroup nasce da:",
     "options": [
       "Interessi economici",
@@ -4083,7 +4083,7 @@
   },
   {
     "id": 342,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il Bias di Conferma porta il consumatore a dare maggiore peso alle informazioni che:",
     "options": [
       "Sono nuove e originali",
@@ -4095,7 +4095,7 @@
   },
   {
     "id": 343,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'esperimento del 'Gorilla Invisibile' è un classico esempio di:",
     "options": [
       "Percezione subliminale",
@@ -4107,7 +4107,7 @@
   },
   {
     "id": 344,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La reattanza psicologica si manifesta quando l'individuo sente che la propria libertà è:",
     "options": [
       "Supportata",
@@ -4119,7 +4119,7 @@
   },
   {
     "id": 345,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'eccessiva varietà di scelta (Choice Overload) ha come effetto principale quello di:",
     "options": [
       "Aumentare gli acquisti",
@@ -4131,7 +4131,7 @@
   },
   {
     "id": 346,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Le norme descrittive si basano sulla percezione di ciò che gli altri:",
     "options": [
       "Dovrebbero fare",
@@ -4143,7 +4143,7 @@
   },
   {
     "id": 347,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto alone (Halo Effect) consiste nel generalizzare una valutazione partendo da:",
     "options": [
       "Un'analisi logica",
@@ -4155,7 +4155,7 @@
   },
   {
     "id": 348,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Affinché un 'fear appeal' funzioni, il consumatore deve sentire di avere:",
     "options": [
       "Molto coraggio",
@@ -4167,7 +4167,7 @@
   },
   {
     "id": 349,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'euristica della rappresentatività porta a giudicare la probabilità in base alla:",
     "options": [
       "Statistica reale",
@@ -4179,7 +4179,7 @@
   },
   {
     "id": 350,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Sunk Cost Fallacy spinge a continuare un investimento a causa delle risorse già:",
     "options": [
       "Promesse",
@@ -4191,7 +4191,7 @@
   },
   {
     "id": 351,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il condizionamento classico in pubblicità associa un brand a uno stimolo:",
     "options": [
       "Razionale",
@@ -4203,7 +4203,7 @@
   },
   {
     "id": 352,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La contabilità mentale (Mental Accounting) suggerisce che il denaro non è:",
     "options": [
       "Utile",
@@ -4215,7 +4215,7 @@
   },
   {
     "id": 353,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nell'esperimento di Stanford, il comportamento dei soggetti era guidato da:",
     "options": [
       "Tratti genetici",
@@ -4227,7 +4227,7 @@
   },
   {
     "id": 354,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto esca (Decoy Effect) mira a rendere più attraente un'opzione inserendone una:",
     "options": [
       "Migliore",
@@ -4239,7 +4239,7 @@
   },
   {
     "id": 355,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "I prezzi che finiscono con ',99' sfruttano un errore di codifica legato alla:",
     "options": [
       "Ultima cifra",
@@ -4251,7 +4251,7 @@
   },
   {
     "id": 356,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Le tecniche proiettive vengono utilizzate per far emergere contenuti:",
     "options": [
       "Statistici",
@@ -4263,7 +4263,7 @@
   },
   {
     "id": 357,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il priming consiste nell'attivazione di concetti che influenzano:",
     "options": [
       "Il prezzo futuro",
@@ -4275,7 +4275,7 @@
   },
   {
     "id": 358,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'Inoculation Theory di McGuire suggerisce di proteggere le opinioni tramite:",
     "options": [
       "Censura totale",
@@ -4287,7 +4287,7 @@
   },
   {
     "id": 359,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La validità ecologica indica quanto una ricerca sia applicabile al:",
     "options": [
       "Budget aziendale",
@@ -4299,7 +4299,7 @@
   },
   {
     "id": 360,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il Nudging agisce sull'architettura delle scelte senza ricorrere a:",
     "options": [
       "Consigli",
@@ -4311,7 +4311,7 @@
   },
   {
     "id": 361,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il fenomeno della Banner Blindness è una forma di:",
     "options": [
       "Miopia visiva",
@@ -4323,7 +4323,7 @@
   },
   {
     "id": 362,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel modellamento di Bandura, l'apprendimento avviene tramite:",
     "options": [
       "Ripetizione mnemonica",
@@ -4335,7 +4335,7 @@
   },
   {
     "id": 363,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il principio della Chiusura spiega perché completiamo mentalmente delle:",
     "options": [
       "Frasi lunghe",
@@ -4347,7 +4347,7 @@
   },
   {
     "id": 364,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto placebo nel marketing dimostra che le aspettative alterano:",
     "options": [
       "Il costo reale",
@@ -4359,7 +4359,7 @@
   },
   {
     "id": 365,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La scala Likert misura l'intensità di un atteggiamento tramite il grado di:",
     "options": [
       "Frequenza",
@@ -4371,7 +4371,7 @@
   },
   {
     "id": 366,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il consumo vistoso analizzato da Veblen serve a comunicare:",
     "options": [
       "Risparmio",
@@ -4383,7 +4383,7 @@
   },
   {
     "id": 367,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nell'euristica dell'ancoraggio, il valore finale è influenzato dal:",
     "options": [
       "Valore medio",
@@ -4395,7 +4395,7 @@
   },
   {
     "id": 368,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La ricerca etnografica sui consumi si basa principalmente sull':",
     "options": [
       "Esperimento",
@@ -4407,7 +4407,7 @@
   },
   {
     "id": 369,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'acquisto di prodotti che migliorano l'immagine di sé riguarda il:",
     "options": [
       "Sé sociale",
@@ -4419,7 +4419,7 @@
   },
   {
     "id": 370,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'acquisto d'impulso pianificato avviene quando il consumatore:",
     "options": [
       "Cerca occasioni",
@@ -4431,7 +4431,7 @@
   },
   {
     "id": 371,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Lo Sleeper Effect consiste nel recupero di credibilità di un messaggio quando:",
     "options": [
       "La fonte è nota",
@@ -4443,7 +4443,7 @@
   },
   {
     "id": 372,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Perché gli eventi vividi influenzano i giudizi di rischio? Per l'euristica della:",
     "options": [
       "Simulazione",
@@ -4455,7 +4455,7 @@
   },
   {
     "id": 373,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel modello AIDA, la fase finale è definita come:",
     "options": [
       "Apprendimento",
@@ -4467,7 +4467,7 @@
   },
   {
     "id": 374,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il principio di reciprocità scatta anche quando il favore è:",
     "options": [
       "Molto costoso",
@@ -4479,7 +4479,7 @@
   },
   {
     "id": 375,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il bias di negatività indica che le informazioni negative pesano:",
     "options": [
       "Poco",
@@ -4491,7 +4491,7 @@
   },
   {
     "id": 376,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La miopia di marketing consiste nel trascurare:",
     "options": [
       "La logistica",
@@ -4503,7 +4503,7 @@
   },
   {
     "id": 377,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto Spotlight riguarda la percezione della propria:",
     "options": [
       "Bellezza",
@@ -4515,7 +4515,7 @@
   },
   {
     "id": 378,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il paradosso di Easterlin analizza il legame tra reddito e:",
     "options": [
       "Consumo",
@@ -4527,7 +4527,7 @@
   },
   {
     "id": 379,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Gli archetipi nel branding evocano significati:",
     "options": [
       "Tecnici",
@@ -4539,7 +4539,7 @@
   },
   {
     "id": 380,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Gamification utilizza elementi ludici per aumentare il:",
     "options": [
       "Divertimento",
@@ -4551,7 +4551,7 @@
   },
   {
     "id": 381,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Una mappa percettiva serve a visualizzare il:",
     "options": [
       "Budget",
@@ -4563,7 +4563,7 @@
   },
   {
     "id": 382,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto Zeigarnik suggerisce che ricordiamo meglio i compiti:",
     "options": [
       "Facili",
@@ -4575,7 +4575,7 @@
   },
   {
     "id": 383,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel condizionamento operante, il rinforzo negativo consiste nella:",
     "options": [
       "Punizione",
@@ -4587,7 +4587,7 @@
   },
   {
     "id": 384,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Quale di questi tratti NON fa parte dei Big Five?",
     "options": [
       "Nevroticismo",
@@ -4599,7 +4599,7 @@
   },
   {
     "id": 385,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Congruenza del Sé ipotizza che scegliamo brand simili alla nostra:",
     "options": [
       "Famiglia",
@@ -4611,7 +4611,7 @@
   },
   {
     "id": 386,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La memoria semantica conserva informazioni di tipo:",
     "options": [
       "Autobiografico",
@@ -4623,7 +4623,7 @@
   },
   {
     "id": 387,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto Vampiro indica che un elemento creativo eccessivo:",
     "options": [
       "Aiuta il brand",
@@ -4635,7 +4635,7 @@
   },
   {
     "id": 388,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo Maslow, il bisogno di autorealizzazione si trova al livello:",
     "options": [
       "Base",
@@ -4647,7 +4647,7 @@
   },
   {
     "id": 389,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Embodied Cognition suggerisce che il pensiero è influenzato dal:",
     "options": [
       "Prezzo",
@@ -4659,7 +4659,7 @@
   },
   {
     "id": 390,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo Rogers, i 'Laggards' (ritardatari) adottano l'innovazione per:",
     "options": [
       "Passione",
@@ -4671,7 +4671,7 @@
   },
   {
     "id": 391,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La soglia assoluta è la stimolazione minima per avere una:",
     "options": [
       "Reazione",
@@ -4683,7 +4683,7 @@
   },
   {
     "id": 392,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto Snob porta a desiderare beni che sono:",
     "options": [
       "Economici",
@@ -4695,7 +4695,7 @@
   },
   {
     "id": 393,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Planning Fallacy porta a sottostimare i:",
     "options": [
       "Costi",
@@ -4707,7 +4707,7 @@
   },
   {
     "id": 394,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La tecnica del Laddering serve a collegare attributi e:",
     "options": [
       "Prezzi",
@@ -4719,7 +4719,7 @@
   },
   {
     "id": 395,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Change Blindness indica la difficoltà a notare:",
     "options": [
       "Prezzi",
@@ -4731,7 +4731,7 @@
   },
   {
     "id": 396,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nella Prospect Theory, le persone sono più sensibili alle:",
     "options": [
       "Vincite",
@@ -4743,7 +4743,7 @@
   },
   {
     "id": 397,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La fMRI nel neuromarketing rileva l'attività cerebrale tramite il:",
     "options": [
       "Calore",
@@ -4755,7 +4755,7 @@
   },
   {
     "id": 398,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'euristica dell'affetto si basa sulla risposta emotiva:",
     "options": [
       "Lenta",
@@ -4767,7 +4767,7 @@
   },
   {
     "id": 399,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nella scala di Jennifer Aaker, l'Excitement (Eccitazione) indica un brand:",
     "options": [
       "Onesto",
@@ -4779,7 +4779,7 @@
   },
   {
     "id": 400,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'ignoranza pluralistica avviene quando i membri di un gruppo si:",
     "options": [
       "Oppongono",
@@ -4791,7 +4791,7 @@
   },
   {
     "id": 401,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Quale di queste è un'emozione primaria?",
     "options": [
       "Orgoglio",
@@ -4803,7 +4803,7 @@
   },
   {
     "id": 402,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La tecnica 'That's not all' aggiunge un bonus per creare:",
     "options": [
       "Paura",
@@ -4815,7 +4815,7 @@
   },
   {
     "id": 403,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'Affordance riguarda la capacità di un oggetto di suggerire il proprio:",
     "options": [
       "Prezzo",
@@ -4827,7 +4827,7 @@
   },
   {
     "id": 404,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "I marker somatici agiscono come un sistema di:",
     "options": [
       "Calcolo",
@@ -4839,7 +4839,7 @@
   },
   {
     "id": 405,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto Diderot descrive la ricerca di un'armonia tra i propri:",
     "options": [
       "Amici",
@@ -4851,7 +4851,7 @@
   },
   {
     "id": 406,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il NPS (Net Promoter Score) misura la probabilità di:",
     "options": [
       "Acquisto",
@@ -4863,7 +4863,7 @@
   },
   {
     "id": 407,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La memoria episodica riguarda eventi vissuti in prima:",
     "options": [
       "Fila",
@@ -4875,7 +4875,7 @@
   },
   {
     "id": 408,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nella Gestalt, la legge della Vicinanza raggruppa elementi:",
     "options": [
       "Simili",
@@ -4887,7 +4887,7 @@
   },
   {
     "id": 409,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il Bias di conferma porta a scartare le prove:",
     "options": [
       "Semplici",
@@ -4899,7 +4899,7 @@
   },
   {
     "id": 410,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "I Dark Patterns sono interfacce progettate per essere:",
     "options": [
       "Chiare",
@@ -4911,7 +4911,7 @@
   },
   {
     "id": 411,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo la teoria dell'identità sociale, il comportamento di consumo può essere influenzato dal desiderio di:",
     "options": [
       "Distinguersi drasticamente da ogni forma di gruppo organizzato",
@@ -4923,7 +4923,7 @@
   },
   {
     "id": 412,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto spettatore (Bystander Effect) suggerisce che in una situazione di emergenza la probabilità di aiuto cala se:",
     "options": [
       "Il numero di testimoni presenti sulla scena è molto elevato",
@@ -4935,7 +4935,7 @@
   },
   {
     "id": 413,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel marketing sensoriale, la 'firma olfattiva' viene utilizzata principalmente per:",
     "options": [
       "Coprire eventuali odori sgradevoli derivanti dai materiali di produzione",
@@ -4947,7 +4947,7 @@
   },
   {
     "id": 414,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il processo di 'discriminazione' nel condizionamento classico si verifica quando il soggetto:",
     "options": [
       "Reagisce in modo identico a tutti gli stimoli che somigliano a quello originale",
@@ -4959,7 +4959,7 @@
   },
   {
     "id": 415,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Quale funzione svolgono i neuroni specchio nel contesto della pubblicità televisiva?",
     "options": [
       "Permettono di distinguere i colori primari all'interno delle immagini",
@@ -4971,7 +4971,7 @@
   },
   {
     "id": 416,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La segmentazione psicografica differisce da quella demografica perché si focalizza su:",
     "options": [
       "Variabili strutturali come l'età, il genere e il reddito annuo",
@@ -4983,7 +4983,7 @@
   },
   {
     "id": 417,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa sostiene il concetto di autoefficacia (Self-Efficacy) proposto da Bandura?",
     "options": [
       "L'individuo agisce solo se riceve un premio monetario immediato",
@@ -4995,7 +4995,7 @@
   },
   {
     "id": 418,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il paradosso della privacy (Privacy Paradox) evidenzia una contraddizione tra:",
     "options": [
       "Le leggi dello Stato e le regolamentazioni interne delle aziende",
@@ -5007,7 +5007,7 @@
   },
   {
     "id": 419,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il differenziale semantico è uno strumento di ricerca utile per misurare:",
     "options": [
       "La velocità con cui un consumatore legge le etichette dei prodotti",
@@ -5019,7 +5019,7 @@
   },
   {
     "id": 420,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il fenomeno dell'inerzia sociale (Social Loafing) si osserva tipicamente quando:",
     "options": [
       "Un individuo lavora da solo e cerca di massimizzare il proprio profitto",
@@ -5031,7 +5031,7 @@
   },
   {
     "id": 421,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Un intervento di 'Nudge' (spinta gentile) è progettato per influenzare il comportamento:",
     "options": [
       "Attraverso l'uso di sanzioni economiche molto severe",
@@ -5043,7 +5043,7 @@
   },
   {
     "id": 422,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Customer Journey Map è uno strumento grafico che permette di analizzare:",
     "options": [
       "L'organigramma gerarchico interno di un'azienda di servizi",
@@ -5055,7 +5055,7 @@
   },
   {
     "id": 423,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'euristica della simulazione porta le persone a valutare un evento in base alla:",
     "options": [
       "Facilità con cui riescono a immaginare scenari alternativi",
@@ -5067,7 +5067,7 @@
   },
   {
     "id": 424,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'ipotesi della relatività linguistica suggerisce che il linguaggio utilizzato:",
     "options": [
       "Non ha alcuna influenza sui processi di pensiero e di categorizzazione",
@@ -5079,7 +5079,7 @@
   },
   {
     "id": 425,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nel modello Stimolo-Organismo-Risposta (SOR), la componente 'Organismo' riguarda:",
     "options": [
       "Le caratteristiche fisiche dell'ambiente dove avviene l'acquisto",
@@ -5091,7 +5091,7 @@
   },
   {
     "id": 426,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La pratica del Greenwashing consiste nel presentare un'azienda come ecosostenibile:",
     "options": [
       "Attraverso certificazioni ufficiali rilasciate da enti internazionali",
@@ -5103,7 +5103,7 @@
   },
   {
     "id": 427,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo il modello di Schwartz, i valori di 'Conservazione' si oppongono direttamente a:",
     "options": [
       "I valori di autotrascendenza come l'universalismo e la benevolenza",
@@ -5115,7 +5115,7 @@
   },
   {
     "id": 428,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto 'Licensing' descrive il fenomeno per cui un individuo, dopo un'azione corretta:",
     "options": [
       "Tende a ripetere l'azione positiva per ottenere un secondo premio",
@@ -5127,7 +5127,7 @@
   },
   {
     "id": 429,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa caratterizza principalmente i cosiddetti 'beni posizionali'?",
     "options": [
       "Il loro valore dipende dal fatto di segnalare uno status sociale elevato",
@@ -5139,7 +5139,7 @@
   },
   {
     "id": 430,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'uso dell'Eye-Tracking nelle ricerche di mercato permette di identificare:",
     "options": [
       "Le preferenze d'acquisto dichiarate dai consumatori nei questionari",
@@ -5151,7 +5151,7 @@
   },
   {
     "id": 431,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Nella teoria della discrepanza del Sé, la distanza tra Sé reale e Sé ideale genera:",
     "options": [
       "Un aumento dell'autostima e della soddisfazione personale",
@@ -5163,7 +5163,7 @@
   },
   {
     "id": 432,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'etnocentrismo del consumatore si manifesta attraverso la tendenza a:",
     "options": [
       "Preferire prodotti stranieri considerati tecnologicamente superiori",
@@ -5175,7 +5175,7 @@
   },
   {
     "id": 433,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il paradosso del recupero del servizio (Service Recovery Paradox) indica che:",
     "options": [
       "Un errore nel servizio porta sempre alla perdita definitiva del cliente",
@@ -5187,7 +5187,7 @@
   },
   {
     "id": 434,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Cosa si intende per 'atmosfera del punto vendita' nel marketing esperienziale?",
     "options": [
       "Il clima meteorologico esterno che influenza l'affluenza dei clienti",
@@ -5199,7 +5199,7 @@
   },
   {
     "id": 435,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "L'effetto McGurk è un fenomeno percettivo che dimostra l'interazione tra:",
     "options": [
       "Il senso del gusto e le informazioni visive del packaging",
@@ -5211,7 +5211,7 @@
   },
   {
     "id": 436,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La dimensione 'evitamento dell'incertezza' di Hofstede indica il grado in cui:",
     "options": [
       "Le persone amano il rischio e le situazioni totalmente imprevedibili",
@@ -5223,7 +5223,7 @@
   },
   {
     "id": 437,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "La Brand Equity può essere sinteticamente definita come:",
     "options": [
       "Il valore finanziario delle azioni dell'azienda quotata in borsa",
@@ -5235,7 +5235,7 @@
   },
   {
     "id": 438,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Il fenomeno della 'Banner Blindness' è considerato un esempio di:",
     "options": [
       "Adattamento sensoriale involontario a stimoli luminosi troppo forti",
@@ -5247,7 +5247,7 @@
   },
   {
     "id": 439,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Secondo la teoria dell'attribuzione, un consumatore insoddisfatto cerca di capire se:",
     "options": [
       "Il prezzo pagato era superiore alla media dei negozi della zona",
@@ -5259,7 +5259,7 @@
   },
   {
     "id": 440,
-    "c": "appunti",
+    "c": "Appunti",
     "q": "Lo stato di 'Flow' (flusso) durante un'esperienza di consumo è caratterizzato da:",
     "options": [
       "Un senso di noia profonda e desiderio di abbandonare l'attività",
