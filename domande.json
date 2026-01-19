@@ -5508,6 +5508,18 @@
       "La soddisfazione totale"
     ],
     "correct": 0
+  },
+  {
+    "id": 460,
+    "c": "appunti",
+    "q": "La 'Gamification' sfrutta meccanismi come:",
+    "options": [
+      "Punti, classifiche, badge e sfide per motivare comportamenti",
+      "Sconti e saldi tradizionali",
+      "Pubblicità televisiva classica",
+      "Interviste telefoniche"
+    ],
+    "correct": 0
   }
 ]
 }
