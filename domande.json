@@ -2,7 +2,7 @@
   "banca_domande": [
     {
       "id": 1,
-      "c": "Fondamenti",
+      "c": "Libro",
       "q": "Che cos'è la psicologia del consumatore?",
       "options": [
         "Lo studio dei meccanismi economici del mercato",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "c": "Fondamenti",
+      "c": "Libro",
       "q": "Secondo Guéguen, il comportamento del consumatore è:",
       "options": [
         "Sempre razionale",
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "c": "Fondamenti",
+      "c": "Libro",
       "q": "Quale approccio caratterizza la psicologia del consumatore?",
       "options": [
         "Normativo",
@@ -38,7 +38,7 @@
     },
     {
       "id": 4,
-      "c": "Processo decisionale",
+      "c": "Libro",
       "q": "Qual è la prima fase del processo decisionale di acquisto?",
       "options": [
         "Ricerca di informazioni",
@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "c": "Processo decisionale",
+      "c": "Libro",
       "q": "Perché il consumatore non analizza tutte le alternative disponibili?",
       "options": [
         "Per mancanza di prodotti",
@@ -62,7 +62,7 @@
     },
     {
       "id": 6,
-      "c": "Processo decisionale",
+      "c": "Libro",
       "q": "Che funzione ha la valutazione post-acquisto?",
       "options": [
         "Stabilire il prezzo",
@@ -74,7 +74,7 @@
     },
     {
       "id": 7,
-      "c": "Euristiche",
+      "c": "Libro",
       "q": "Che cos'è un'euristica?",
       "options": [
         "Un errore sistematico",
@@ -86,7 +86,7 @@
     },
     {
       "id": 8,
-      "c": "Euristiche",
+      "c": "Libro",
       "q": "A cosa servono le euristiche nel consumo?",
       "options": [
         "A eliminare le emozioni",
@@ -98,7 +98,7 @@
     },
     {
       "id": 9,
-      "c": "Influenza sociale",
+      "c": "Libro",
       "q": "Che cos'è la prova sociale?",
       "options": [
         "Un confronto tra prezzi",
@@ -110,7 +110,7 @@
     },
     {
       "id": 10,
-      "c": "Influenza sociale",
+      "c": "Libro",
       "q": "Perché le recensioni online influenzano il consumo?",
       "options": [
         "Perché sono sempre affidabili",
@@ -122,7 +122,7 @@
     },
     {
       "id": 11,
-      "c": "Influenza sociale",
+      "c": "Libro",
       "q": "Cosa sono i gruppi di riferimento?",
       "options": [
         "Gruppi di venditori",
@@ -134,7 +134,7 @@
     },
     {
       "id": 12,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "In cosa consiste la tecnica del piede nella porta?",
       "options": [
         "Fare una richiesta molto elevata",
@@ -146,7 +146,7 @@
     },
     {
       "id": 13,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "Qual è il principio psicologico alla base del piede nella porta?",
       "options": [
         "Reciprocità",
@@ -158,7 +158,7 @@
     },
     {
       "id": 14,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "Cos'è la tecnica della porta in faccia?",
       "options": [
         "Una richiesta iniziale moderata",
@@ -170,7 +170,7 @@
     },
     {
       "id": 15,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "La tecnica del low-ball consiste nel:",
       "options": [
         "Ridurre il prezzo dopo il rifiuto",
@@ -182,7 +182,7 @@
     },
     {
       "id": 16,
-      "c": "Emozioni",
+      "c": "Libro",
       "q": "Che ruolo hanno le emozioni nel consumo?",
       "options": [
         "Sono irrilevanti",
@@ -194,7 +194,7 @@
     },
     {
       "id": 17,
-      "c": "Emozioni",
+      "c": "Libro",
       "q": "Un umore positivo tende a:",
       "options": [
         "Ridurre gli acquisti",
@@ -206,7 +206,7 @@
     },
     {
       "id": 18,
-      "c": "Percezione",
+      "c": "Libro",
       "q": "Che cos'è il priming?",
       "options": [
         "Un tipo di pubblicità",
@@ -218,7 +218,7 @@
     },
     {
       "id": 19,
-      "c": "Percezione",
+      "c": "Libro",
       "q": "Perché il packaging è importante?",
       "options": [
         "Riduce i costi",
@@ -242,7 +242,7 @@
     },
     {
       "id": 21,
-      "c": "Pubblicità",
+      "c": "Libro",
       "q": "Qual è lo scopo principale della pubblicità?",
       "options": [
         "Informare soltanto",
@@ -254,7 +254,7 @@
     },
     {
       "id": 22,
-      "c": "Pubblicità",
+      "c": "Libro",
       "q": "Cos'è l'effetto di mera esposizione?",
       "options": [
         "Un effetto di saturazione",
@@ -266,7 +266,7 @@
     },
     {
       "id": 23,
-      "c": "Atteggiamenti",
+      "c": "Libro",
       "q": "Che cos'è un atteggiamento?",
       "options": [
         "Un comportamento osservabile",
@@ -278,7 +278,7 @@
     },
     {
       "id": 24,
-      "c": "Atteggiamenti",
+      "c": "Libro",
       "q": "Come possono cambiare gli atteggiamenti?",
       "options": [
         "Solo con il tempo",
@@ -290,7 +290,7 @@
     },
     {
       "id": 25,
-      "c": "Dissonanza cognitiva",
+      "c": "Libro",
       "q": "Cos'è la dissonanza cognitiva?",
       "options": [
         "Una strategia pubblicitaria",
@@ -303,7 +303,7 @@
 
     {
       "id": 26,
-      "c": "Dissonanza cognitiva",
+      "c": "Libro",
       "q": "Quando è più probabile la dissonanza cognitiva?",
       "options": [
         "Negli acquisti banali",
@@ -459,7 +459,7 @@
     },
     {
       "id": 39,
-      "c": "Norme sociali",
+      "c": "Libro",
       "q": "Che cos'è una norma sociale?",
       "options": [
         "Una legge",
@@ -471,7 +471,7 @@
     },
     {
       "id": 40,
-      "c": "Norme sociali",
+      "c": "Libro",
       "q": "Le norme sociali influenzano il consumo sostenibile?",
       "options": [
         "No",
@@ -507,7 +507,7 @@
     },
     {
       "id": 43,
-      "c": "Consumatore",
+      "c": "Libro",
       "q": "Il consumatore è sempre consapevole delle influenze?",
       "options": [
         "Sì",
@@ -519,7 +519,7 @@
     },
     {
       "id": 44,
-      "c": "Consumatore",
+      "c": "Libro",
       "q": "Perché studiare il consumatore è importante?",
       "options": [
         "Per aumentare i prezzi",
@@ -603,7 +603,7 @@
     },
     {
       "id": 51,
-      "c": "Euristiche",
+      "c": "Libro",
       "q": "Che cos'è l'euristica della rappresentatività?",
       "options": [
         "Una valutazione basata sulla frequenza reale",
@@ -615,7 +615,7 @@
     },
     {
       "id": 52,
-      "c": "Euristiche",
+      "c": "Libro",
       "q": "Qual è il rischio dell'uso delle euristiche?",
       "options": [
         "Riduzione delle opzioni",
@@ -627,7 +627,7 @@
     },
     {
       "id": 53,
-      "c": "Euristiche",
+      "c": "Libro",
       "q": "Che cos'è l'euristica della disponibilità?",
       "options": [
         "Valutare in base alle informazioni più facilmente ricordabili",
@@ -639,7 +639,7 @@
     },
     {
       "id": 54,
-      "c": "Bias cognitivi",
+      "c": "Libro",
       "q": "Che cos'è un bias cognitivo?",
       "options": [
         "Un errore casuale",
@@ -651,7 +651,7 @@
     },
     {
       "id": 55,
-      "c": "Bias cognitivi",
+      "c": "Libro",
       "q": "Il bias di conferma porta il consumatore a:",
       "options": [
         "Cercare informazioni contrarie",
@@ -663,7 +663,7 @@
     },
     {
       "id": 56,
-      "c": "Influenza sociale",
+      "c": "Libro",
       "q": "Che cos'è il conformismo?",
       "options": [
         "Un comportamento casuale",
@@ -675,7 +675,7 @@
     },
     {
       "id": 57,
-      "c": "Influenza sociale",
+      "c": "Libro",
       "q": "Quando il conformismo è più probabile?",
       "options": [
         "In presenza di incertezza",
@@ -687,7 +687,7 @@
     },
     {
       "id": 58,
-      "c": "Influenza sociale",
+      "c": "Libro",
       "q": "Che ruolo ha l'autorità nella persuasione?",
       "options": [
         "Riduce l'efficacia del messaggio",
@@ -699,7 +699,7 @@
     },
     {
       "id": 59,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "Il principio di reciprocità afferma che:",
       "options": [
         "Le persone restituiscono ciò che ricevono",
@@ -711,7 +711,7 @@
     },
     {
       "id": 60,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "Un omaggio iniziale aumenta l'accettazione di una richiesta per il principio di:",
       "options": [
         "Coerenza",
@@ -723,7 +723,7 @@
     },
     {
       "id": 61,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "Il principio di scarsità rende un prodotto:",
       "options": [
         "Meno costoso",
@@ -735,7 +735,7 @@
     },
     {
       "id": 62,
-      "c": "Tecniche di persuasione",
+      "c": "Libro",
       "q": "La scarsità funziona perché:",
       "options": [
         "Riduce le alternative",
@@ -747,7 +747,7 @@
     },
     {
       "id": 63,
-      "c": "Comunicazione",
+      "c": "Libro",
       "q": "Che cos'è un messaggio persuasivo?",
       "options": [
         "Un messaggio informativo",
@@ -759,7 +759,7 @@
     },
     {
       "id": 64,
-      "c": "Comunicazione",
+      "c": "Libro",
       "q": "Secondo il modello ELM, il percorso centrale si attiva quando:",
       "options": [
         "Il coinvolgimento è basso",
@@ -771,7 +771,7 @@
     },
     {
       "id": 65,
-      "c": "Comunicazione",
+      "c": "Libro",
       "q": "Il percorso periferico del modello ELM si basa su:",
       "options": [
         "Argomentazioni logiche",
@@ -783,7 +783,7 @@
     },
     {
       "id": 66,
-      "c": "Pubblicità",
+      "c": "Libro",
       "q": "Perché i testimonial famosi sono efficaci?",
       "options": [
         "Per il prezzo",
@@ -795,7 +795,7 @@
     },
     {
       "id": 67,
-      "c": "Pubblicità",
+      "c": "Libro",
       "q": "Che ruolo ha l'attrattiva della fonte?",
       "options": [
         "Riduce la persuasione",
@@ -807,7 +807,7 @@
     },
     {
       "id": 68,
-      "c": "Percezione",
+      "c": "Libro",
       "q": "Che cos'è la percezione selettiva?",
       "options": [
         "La percezione casuale",
@@ -819,7 +819,7 @@
     },
     {
       "id": 69,
-      "c": "Percezione",
+      "c": "Libro",
       "q": "I colori influenzano il consumo perché:",
       "options": [
         "Ridimensionano il prezzo",
@@ -831,7 +831,7 @@
     },
     {
       "id": 70,
-      "c": "Percezione",
+      "c": "Libro",
       "q": "Un colore caldo tende a:",
       "options": [
         "Rilassare",
@@ -915,7 +915,7 @@
     },
     {
       "id": 77,
-      "c": "Atteggiamenti",
+      "c": "Libro",
       "q": "Gli atteggiamenti sono:",
       "options": [
         "Totalmente stabili",
@@ -927,7 +927,7 @@
     },
     {
       "id": 78,
-      "c": "Atteggiamenti",
+      "c": "Libro",
       "q": "Il cambiamento di atteggiamento dipende da:",
       "options": [
         "Coinvolgimento",
@@ -939,7 +939,7 @@
     },
     {
       "id": 79,
-      "c": "Dissonanza cognitiva",
+      "c": "Libro",
       "q": "La riduzione della dissonanza porta il consumatore a:",
       "options": [
         "Cambiare prodotto",
@@ -951,7 +951,7 @@
     },
     {
       "id": 80,
-      "c": "Dissonanza cognitiva",
+      "c": "Libro",
       "q": "La dissonanza è maggiore quando:",
       "options": [
         "Le alternative erano simili",
@@ -1059,7 +1059,7 @@
     },
     {
       "id": 89,
-      "c": "Norme sociali",
+      "c": "Libro",
       "q": "Le norme descrittive indicano:",
       "options": [
         "Cosa è giusto fare",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": 90,
-      "c": "Norme sociali",
+      "c": "Libro",
       "q": "Le norme ingiuntive indicano:",
       "options": [
         "Cosa fanno gli altri",
@@ -1107,7 +1107,7 @@
     },
     {
       "id": 93,
-      "c": "Consumatore",
+      "c": "Libro",
       "q": "Il consumatore reale è:",
       "options": [
         "Perfettamente razionale",
@@ -1119,7 +1119,7 @@
     },
     {
       "id": 94,
-      "c": "Consumatore",
+      "c": "Libro",
       "q": "La razionalità limitata implica:",
       "options": [
         "Decisioni ottimali",
@@ -1131,7 +1131,7 @@
     },
     {
       "id": 95,
-      "c": "Ricerca",
+      "c": "Libro",
       "q": "La psicologia del consumatore utilizza spesso:",
       "options": [
         "Metodi clinici",
@@ -1143,7 +1143,7 @@
     },
     {
       "id": 96,
-      "c": "Ricerca",
+      "c": "Libro",
       "q": "Gli esperimenti permettono di:",
       "options": [
         "Descrivere fenomeni",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": 105,
-      "c": "Influenze situazionali",
+      "c": "Libro",
       "q": "Cosa si intende per influenza situazionale?",
       "options": [
         "L'influenza della personalità",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": 106,
-      "c": "Influenze situazionali",
+      "c": "Libro",
       "q": "Il comportamento del consumatore può cambiare in base a:",
       "options": [
         "Caratteristiche stabili",
@@ -1275,7 +1275,7 @@
     },
     {
       "id": 107,
-      "c": "Contesto",
+      "c": "Libro",
       "q": "Il contesto fisico influisce sul consumo attraverso:",
       "options": [
         "Stimoli sensoriali",
@@ -1287,7 +1287,7 @@
     },
     {
       "id": 108,
-      "c": "Contesto",
+      "c": "Libro",
       "q": "Un ambiente affollato tende a:",
       "options": [
         "Aumentare il comfort",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": 109,
-      "c": "Contesto",
+      "c": "Libro",
       "q": "Il fattore tempo nel consumo:",
       "options": [
         "È irrilevante",
@@ -1323,7 +1323,7 @@
     },
     {
       "id": 111,
-      "c": "Comportamento prosociale",
+      "c": "Libro",
       "q": "Il comportamento prosociale nel consumo riguarda:",
       "options": [
         "Scelte egoistiche",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 112,
-      "c": "Comportamento prosociale",
+      "c": "Libro",
       "q": "Le donazioni sono influenzate da:",
       "options": [
         "Norme sociali",
@@ -1347,7 +1347,7 @@
     },
     {
       "id": 113,
-      "c": "Comportamento prosociale",
+      "c": "Libro",
       "q": "La tecnica del piede nella porta è efficace anche per:",
       "options": [
         "Acquisti impulsivi",
@@ -1359,7 +1359,7 @@
     },
     {
       "id": 114,
-      "c": "Norme sociali",
+      "c": "Libro",
       "q": "Le norme sociali funzionano perché:",
       "options": [
         "Sono leggi",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 115,
-      "c": "Norme sociali",
+      "c": "Libro",
       "q": "Il consumo ecologico è favorito da:",
       "options": [
         "Prezzi bassi",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": 116,
-      "c": "Consumo sostenibile",
+      "c": "Libro",
       "q": "Il consumo sostenibile mira a:",
       "options": [
         "Massimizzare il profitto",
@@ -1395,7 +1395,7 @@
     },
     {
       "id": 117,
-      "c": "Consumo sostenibile",
+      "c": "Libro",
       "q": "Perché il consumo sostenibile è difficile da adottare?",
       "options": [
         "Per mancanza di alternative",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": 118,
-      "c": "Atteggiamenti",
+      "c": "Libro",
       "q": "Il legame atteggiamento-comportamento è:",
       "options": [
         "Perfetto",
@@ -1419,7 +1419,7 @@
     },
     {
       "id": 119,
-      "c": "Atteggiamenti",
+      "c": "Libro",
       "q": "Un atteggiamento predice meglio il comportamento quando:",
       "options": [
         "È specifico",
@@ -1431,7 +1431,7 @@
     },
     {
       "id": 120,
-      "c": "Cognizione",
+      "c": "Libro",
       "q": "La razionalità limitata implica che il consumatore:",
       "options": [
         "Massimizza sempre l'utilità",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 121,
-      "c": "Cognizione",
+      "c": "Libro",
       "q": "La soddisfazione è legata a:",
       "options": [
         "Prezzo assoluto",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": 129,
-      "c": "Bias cognitivi",
+      "c": "Libro",
       "q": "L'effetto ancoraggio porta il consumatore a:",
       "options": [
         "Ignorare le informazioni iniziali",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 130,
-      "c": "Bias cognitivi",
+      "c": "Libro",
       "q": "Un prezzo iniziale alto può fungere da:",
       "options": [
         "Errore",
@@ -1575,7 +1575,7 @@
     },
     {
       "id": 132,
-      "c": "Comunicazione",
+      "c": "Libro",
       "q": "Nel percorso periferico contano di più:",
       "options": [
         "Argomentazioni",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": 133,
-      "c": "Comunicazione",
+      "c": "Libro",
       "q": "La credibilità della fonte dipende da:",
       "options": [
         "Competenza e affidabilità",
@@ -1599,7 +1599,7 @@
     },
     {
       "id": 134,
-      "c": "Comunicazione",
+      "c": "Libro",
       "q": "Un messaggio troppo complesso può:",
       "options": [
         "Aumentare la persuasione",
@@ -1611,7 +1611,7 @@
     },
     {
       "id": 135,
-      "c": "Pubblicità",
+      "c": "Libro",
       "q": "La ripetizione eccessiva di un messaggio può:",
       "options": [
         "Aumentare sempre l'efficacia",
@@ -1623,7 +1623,7 @@
     },
     {
       "id": 136,
-      "c": "Pubblicità",
+      "c": "Libro",
       "q": "La pubblicità subliminale:",
       "options": [
         "È sempre efficace",
@@ -1635,7 +1635,7 @@
     },
     {
       "id": 137,
-      "c": "Comportamento",
+      "c": "Libro",
       "q": "Il comportamento abituale è:",
       "options": [
         "Sempre razionale",
@@ -1647,7 +1647,7 @@
     },
     {
       "id": 138,
-      "c": "Comportamento",
+      "c": "Libro",
       "q": "Le abitudini riducono:",
       "options": [
         "Le scelte",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": 139,
-      "c": "Esperimenti",
+      "c": "Libro",
       "q": "Gli esperimenti in psicologia del consumo servono a:",
       "options": [
         "Descrivere opinioni",
@@ -1671,7 +1671,7 @@
     },
     {
       "id": 140,
-      "c": "Esperimenti",
+      "c": "Libro",
       "q": "La validità interna riguarda:",
       "options": [
         "La generalizzabilità",
@@ -1683,7 +1683,7 @@
     },
     {
       "id": 141,
-      "c": "Esperimenti",
+      "c": "Libro",
       "q": "La validità esterna riguarda:",
       "options": [
         "Il controllo",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 142,
-      "c": "Consumo",
+      "c": "Libro",
       "q": "Il consumo è anche un mezzo per:",
       "options": [
         "Soddisfare bisogni simbolici",
@@ -1707,7 +1707,7 @@
     },
     {
       "id": 143,
-      "c": "Consumo",
+      "c": "Libro",
       "q": "I prodotti simbolici servono a:",
       "options": [
         "Soddisfare bisogni funzionali",
@@ -1803,7 +1803,7 @@
     },
     {
   "id": 151,
-  "c": "Decisione",
+  "c": "Libro",
   "q": "La decisione di acquisto è il risultato di:",
   "options": [
     "Un solo fattore",
@@ -1815,7 +1815,7 @@
 },
 {
   "id": 152,
-  "c": "Decisione",
+  "c": "Libro",
   "q": "Dopo l'acquisto il consumatore tende a:",
   "options": [
     "Dimenticare la scelta",
@@ -1827,7 +1827,7 @@
 },
 {
   "id": 153,
-  "c": "Post-acquisto",
+  "c": "Libro",
   "q": "Il passaparola positivo deriva spesso da:",
   "options": [
     "Prezzi bassi",
@@ -1839,7 +1839,7 @@
 },
 {
   "id": 154,
-  "c": "Post-acquisto",
+  "c": "Libro",
   "q": "Il passaparola negativo è favorito da:",
   "options": [
     "Aspettative superate",
@@ -1875,7 +1875,7 @@
 },
 {
   "id": 157,
-  "c": "Fedeltà",
+  "c": "Libro",
   "q": "La fedeltà comportamentale si basa su:",
   "options": [
     "Atteggiamenti positivi",
@@ -1887,7 +1887,7 @@
 },
 {
   "id": 158,
-  "c": "Fedeltà",
+  "c": "Libro",
   "q": "La fedeltà attitudinale riguarda:",
   "options": [
     "La frequenza d'acquisto",
@@ -1959,7 +1959,7 @@
 },
 {
   "id": 164,
-  "c": "Digitale",
+  "c": "Libro",
   "q": "Le recensioni online influenzano perché:",
   "options": [
     "Sono sempre oggettive",
@@ -1971,7 +1971,7 @@
 },
 {
   "id": 165,
-  "c": "Digitale",
+  "c": "Libro",
   "q": "L'e-commerce aumenta l'impulsività quando:",
   "options": [
     "Riduce le frizioni d'acquisto",
@@ -1983,7 +1983,7 @@
 },
 {
   "id": 166,
-  "c": "Digitale",
+  "c": "Libro",
   "q": "Le notifiche push sfruttano soprattutto:",
   "options": [
     "Analisi razionale",
@@ -2019,7 +2019,7 @@
 },
 {
   "id": 169,
-  "c": "Cultura",
+  "c": "Libro",
   "q": "La cultura influenza il consumo perché:",
   "options": [
     "Definisce valori e norme",
@@ -2031,7 +2031,7 @@
 },
 {
   "id": 170,
-  "c": "Cultura",
+  "c": "Libro",
   "q": "Le differenze culturali incidono su:",
   "options": [
     "Preferenze e significati",
@@ -2043,7 +2043,7 @@
 },
 {
   "id": 171,
-  "c": "Gruppi",
+  "c": "Libro",
   "q": "I gruppi di appartenenza influenzano:",
   "options": [
     "Solo il prezzo",
@@ -2055,7 +2055,7 @@
 },
 {
   "id": 172,
-  "c": "Gruppi",
+  "c": "Libro",
   "q": "Il desiderio di approvazione porta a:",
   "options": [
     "Comportamenti anticonformisti",
@@ -2091,7 +2091,7 @@
 },
 {
   "id": 175,
-  "c": "Emozioni",
+  "c": "Libro",
   "q": "Le emozioni anticipatorie influenzano:",
   "options": [
     "Solo il post-acquisto",
@@ -2103,7 +2103,7 @@
 },
 {
   "id": 176,
-  "c": "Emozioni",
+  "c": "Libro",
   "q": "Un'emozione negativa può portare a:",
   "options": [
     "Evitamento",
@@ -2115,7 +2115,7 @@
 },
 {
   "id": 177,
-  "c": "Regolazione",
+  "c": "Libro",
   "q": "Il consumo come regolazione emotiva implica:",
   "options": [
     "Scelte casuali",
@@ -2127,7 +2127,7 @@
 },
 {
   "id": 178,
-  "c": "Regolazione",
+  "c": "Libro",
   "q": "Lo shopping terapeutico è:",
   "options": [
     "Sempre efficace",
@@ -2187,7 +2187,7 @@
 },
 {
   "id": 183,
-  "c": "Consapevolezza",
+  "c": "Libro",
   "q": "La consapevolezza riduce:",
   "options": [
     "Il numero di scelte",
@@ -2199,7 +2199,7 @@
 },
 {
   "id": 184,
-  "c": "Consapevolezza",
+  "c": "Libro",
   "q": "La riflessione aumenta quando:",
   "options": [
     "Il tempo è limitato",
@@ -2211,7 +2211,7 @@
 },
 {
   "id": 185,
-  "c": "Ricerca",
+  "c": "Libro",
   "q": "La replicabilità è importante perché:",
   "options": [
     "Riduce i costi",
@@ -2223,7 +2223,7 @@
 },
 {
   "id": 186,
-  "c": "Ricerca",
+  "c": "Libro",
   "q": "Un campione non rappresentativo limita:",
   "options": [
     "La validità interna",
