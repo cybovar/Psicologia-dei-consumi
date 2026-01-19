@@ -10,9 +10,10 @@
     body {
       margin: 0;
       padding: 16px;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #f3f4f6;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       color: #111827;
+      min-height: 100vh;
     }
     .app {
       max-width: 1200px;
@@ -28,14 +29,20 @@
     }
     .card {
       background: #ffffff;
-      border-radius: 12px;
-      padding: 16px 18px;
-      box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
     }
     .title {
-      font-size: 22px;
-      font-weight: 650;
-      margin: 0 0 4px;
+      font-size: 24px;
+      font-weight: 700;
+      margin: 0 0 6px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
     }
     .subtitle {
       font-size: 13px;
@@ -75,27 +82,38 @@
       flex-wrap: wrap;
     }
     button {
-      padding: 8px 16px;
+      padding: 10px 18px;
       border: none;
-      border-radius: 6px;
+      border-radius: 8px;
       font-size: 14px;
-      font-weight: 500;
+      font-weight: 600;
       cursor: pointer;
-      transition: all 0.2s;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+    }
+    button:active {
+      transform: scale(0.98);
     }
     .btn-primary {
-      background: #4f46e5;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       color: white;
+      box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
     }
     .btn-primary:hover {
-      background: #4338ca;
+      background: linear-gradient(135deg, #5568d3 0%, #6b3a91 100%);
+      transform: translateY(-2px);
+      box-shadow: 0 12px 30px rgba(102, 126, 234, 0.6);
     }
     .btn-secondary {
-      background: #e5e7eb;
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
       color: #374151;
+      border: 2px solid transparent;
+      font-weight: 600;
     }
     .btn-secondary:hover {
-      background: #d1d5db;
+      background: linear-gradient(135deg, #e5e9f2 0%, #b3cfe2 100%);
+      transform: translateY(-1px);
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
     }
     .materia-checkbox-item {
       display: flex;
@@ -148,10 +166,11 @@
       color: #ef4444;
     }
     #questionText {
-      font-size: 16px;
-      font-weight: 600;
-      margin: 12px 0;
-      line-height: 1.5;
+      font-size: 18px;
+      font-weight: 700;
+      margin: 16px 0;
+      line-height: 1.6;
+      color: #1f2937;
     }
     #answersList {
       list-style: none;
@@ -163,51 +182,63 @@
     }
     .answer-btn {
       width: 100%;
-      padding: 12px;
-      border: 2px solid #d1d5db;
-      border-radius: 8px;
+      padding: 14px;
+      border: 2.5px solid #e5e7eb;
+      border-radius: 10px;
       background: #ffffff;
       color: #374151;
       font-size: 14px;
       text-align: left;
       cursor: pointer;
-      transition: all 0.2s;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      font-weight: 500;
     }
     .answer-btn:hover:not(.disabled) {
-      border-color: #4f46e5;
-      background: #f0f4ff;
+      border-color: #667eea;
+      background: linear-gradient(135deg, #f0f4ff 0%, #f9f5ff 100%);
+      transform: translateX(4px);
+      box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
     }
     .answer-btn.disabled {
       cursor: default;
       opacity: 0.6;
     }
     .answer-btn.correct {
-      background: #dcfce7;
-      border-color: #22c55e;
-      color: #166534;
+      background: linear-gradient(135deg, #dcfce7 0%, #d1fae5 100%);
+      border-color: #10b981;
+      color: #065f46;
+      font-weight: 700;
+      box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
     }
     .answer-btn.wrong {
-      background: #fee2e2;
+      background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
       border-color: #ef4444;
-      color: #991b1b;
+      color: #7f1d1d;
+      font-weight: 700;
+      box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
     }
     #feedback {
-      margin: 12px 0;
-      padding: 10px 12px;
-      border-radius: 6px;
-      font-size: 14px;
-      font-weight: 500;
+      margin: 16px 0;
+      padding: 14px 16px;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 700;
       display: none;
+      border-left: 5px solid;
     }
     #feedback.correct {
       display: block;
-      background: #dcfce7;
-      color: #166534;
+      background: linear-gradient(135deg, #dcfce7 0%, #d1fae5 100%);
+      color: #065f46;
+      border-left-color: #10b981;
+      box-shadow: 0 4px 12px rgba(16, 185, 129, 0.2);
     }
     #feedback.wrong {
       display: block;
-      background: #fee2e2;
-      color: #991b1b;
+      background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+      color: #7f1d1d;
+      border-left-color: #ef4444;
+      box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
     }
     #confirmRow {
       display: none;
@@ -245,16 +276,19 @@
       text-align: right;
     }
     .wrong-item {
-      padding: 8px;
-      margin-bottom: 8px;
-      background: #fef2f2;
-      border-left: 3px solid #ef4444;
-      border-radius: 4px;
+      padding: 12px;
+      margin-bottom: 10px;
+      background: linear-gradient(135deg, #fef2f2 0%, #fde2e4 100%);
+      border-left: 4px solid #ef4444;
+      border-radius: 8px;
       cursor: pointer;
-      transition: background 0.2s;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 2px 8px rgba(239, 68, 68, 0.1);
     }
     .wrong-item:hover {
-      background: #fee2e2;
+      background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+      transform: translateX(4px);
+      box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
     }
     .wrong-item-title {
       font-size: 13px;
@@ -293,31 +327,72 @@
     }
     #startBtn {
       width: 100%;
-      padding: 12px;
-      background: #22c55e;
+      padding: 14px;
+      background: linear-gradient(135deg, #10b981 0%, #059669 100%);
       color: white;
-      font-weight: 600;
+      font-weight: 700;
       font-size: 16px;
       border: none;
-      border-radius: 8px;
+      border-radius: 10px;
       cursor: pointer;
-      margin-top: 20px;
+      margin-top: 24px;
+      box-shadow: 0 10px 25px rgba(16, 185, 129, 0.4);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     }
     #startBtn:hover {
-      background: #16a34a;
+      background: linear-gradient(135deg, #059669 0%, #047857 100%);
+      transform: translateY(-2px);
+      box-shadow: 0 14px 35px rgba(16, 185, 129, 0.6);
     }
     .progress-bar {
       width: 100%;
-      height: 8px;
-      background: #e5e7eb;
-      border-radius: 4px;
+      height: 10px;
+      background: linear-gradient(90deg, #e5e7eb 0%, #f3f4f6 100%);
+      border-radius: 8px;
       overflow: hidden;
-      margin: 8px 0;
+      margin: 10px 0;
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06);
     }
     #statProgress {
       height: 100%;
-      background: #4f46e5;
-      transition: width 0.3s;
+      background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+      transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 0 10px rgba(102, 126, 234, 0.5);
+    }
+    .stats-table-container {
+      position: relative;
+    }
+    .stats-table-hidden {
+      max-height: 150px;
+      overflow: hidden;
+      position: relative;
+    }
+    .stats-table-hidden::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 40px;
+      background: linear-gradient(180deg, transparent 0%, #ffffff 100%);
+      pointer-events: none;
+    }
+    #statsToggleBtn {
+      display: block;
+      margin-top: 10px;
+      width: 100%;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    #statsToggleBtn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 15px rgba(102, 126, 234, 0.4);
     }
   </style>
 </head>
@@ -431,6 +506,7 @@
         <table class="stats-table" style="margin-top: 12px;">
           <tbody id="materiaStatsBody"></tbody>
         </table>
+        <button id="statsToggleBtn" style="display: none;">Visualizza di più ▼</button>
       </div>
 
       <div class="card">
@@ -589,6 +665,7 @@
     const materiaStatsBody = document.getElementById("materiaStatsBody");
     const wrongListEl = document.getElementById("wrongList");
     const flaggedListEl = document.getElementById("flaggedList");
+    let statsExpanded = false;
 
     function initSetupMaterieSelect() {
       setupMaterieContainer.innerHTML = "";
@@ -828,10 +905,18 @@
       statMateriaPercentEl.textContent = mPercent + "%";
 
       materiaStatsBody.innerHTML = "";
-      Object.keys(materiaStats).sort().forEach(m => {
+      const materiaArray = Object.keys(materiaStats).sort();
+      const toggleBtn = document.getElementById("statsToggleBtn");
+      
+      materiaArray.forEach((m, idx) => {
         const s = materiaStats[m];
         const perc = s.answered > 0 ? Math.round((s.correct / s.answered) * 100) : 0;
         const tr = document.createElement("tr");
+        
+        if (!statsExpanded && idx >= 4) {
+          tr.style.display = "none";
+        }
+        
         const tdName = document.createElement("td");
         tdName.textContent = m;
         const tdCounts = document.createElement("td");
@@ -845,6 +930,13 @@
         tr.appendChild(tdPerc);
         materiaStatsBody.appendChild(tr);
       });
+      
+      if (materiaArray.length > 4) {
+        toggleBtn.style.display = "block";
+        toggleBtn.textContent = statsExpanded ? "Visualizza meno ▲" : "Visualizza di più ▼";
+      } else {
+        toggleBtn.style.display = "none";
+      }
     }
 
     function renderWrongList() {
@@ -1134,6 +1226,18 @@
       if (confirm("Vuoi davvero azzerare tutte le statistiche?")) {
         resetAll();
       }
+    });
+
+    document.getElementById("statsToggleBtn").addEventListener("click", () => {
+      statsExpanded = !statsExpanded;
+      const rows = materiaStatsBody.querySelectorAll("tr");
+      rows.forEach((row, idx) => {
+        if (idx >= 4) {
+          row.style.display = statsExpanded ? "table-row" : "none";
+        }
+      });
+      const btn = document.getElementById("statsToggleBtn");
+      btn.textContent = statsExpanded ? "Visualizza meno ▲" : "Visualizza di più ▼";
     });
 
     loadQuestions();
