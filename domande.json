@@ -1455,7 +1455,7 @@
     },
     {
       "id": 122,
-      "c": "Soddisfazione",
+      "c": "Libro",
       "q": "La soddisfazione del consumatore favorisce:",
       "options": [
         "L'abbandono del brand",
@@ -1851,7 +1851,7 @@
 },
 {
   "id": 155,
-  "c": "Soddisfazione",
+  "c": "Libro",
   "q": "La soddisfazione dipende dal confronto tra:",
   "options": [
     "Prezzo e qualità",
@@ -1863,7 +1863,7 @@
 },
 {
   "id": 156,
-  "c": "Soddisfazione",
+  "c": "Libro",
   "q": "Una bassa soddisfazione porta più facilmente a:",
   "options": [
     "Fedeltà",
@@ -2259,7 +2259,7 @@
 },
 {
   "id": 189,
-  "c": "Nudge",
+  "c": "Libro",
   "q": "Un nudge efficace:",
   "options": [
     "Elimina la libertà",
@@ -2271,7 +2271,7 @@
 },
 {
   "id": 190,
-  "c": "Nudge",
+  "c": "Libro",
   "q": "L'architettura delle scelte riguarda:",
   "options": [
     "Il prezzo",
@@ -3303,7 +3303,7 @@
 },
 {
   "id": 276,
-  "c": "Soddisfazione",
+  "c": "Libro",
   "q": "La soddisfazione cumulativa deriva da:",
   "options": [
     "Un solo acquisto",
@@ -3315,7 +3315,7 @@
 },
 {
   "id": 277,
-  "c": "Soddisfazione",
+  "c": "Libro",
   "q": "Una soddisfazione stabile favorisce:",
   "options": [
     "Cambiamento",
