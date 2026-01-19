@@ -230,7 +230,7 @@
     },
     {
       "id": 20,
-      "c": "Attenzione",
+      "c": "Libro",
       "q": "Perché l'attenzione del consumatore è selettiva?",
       "options": [
         "Per disinteresse",
@@ -315,7 +315,7 @@
     },
     {
       "id": 27,
-      "c": "Ambiente di vendita",
+      "c": "Libro",
       "q": "Perché l'ambiente del negozio è rilevante?",
       "options": [
         "Influenza solo i venditori",
@@ -327,7 +327,7 @@
     },
     {
       "id": 28,
-      "c": "Ambiente di vendita",
+      "c": "Libro",
       "q": "Che effetto ha la musica lenta?",
       "options": [
         "Riduce le vendite",
@@ -339,7 +339,7 @@
     },
     {
       "id": 29,
-      "c": "Prezzo",
+      "c": "Libro",
       "q": "Il prezzo comunica anche:",
       "options": [
         "Solo il costo",
@@ -351,7 +351,7 @@
     },
     {
       "id": 30,
-      "c": "Prezzo",
+      "c": "Libro",
       "q": "Cos'è il prezzo di riferimento?",
       "options": [
         "Il prezzo ufficiale",
@@ -363,7 +363,7 @@
     },
     {
       "id": 31,
-      "c": "Acquisto impulsivo",
+      "c": "Libro",
       "q": "Che cos'è un acquisto impulsivo?",
       "options": [
         "Un acquisto pianificato",
@@ -375,7 +375,7 @@
     },
     {
       "id": 32,
-      "c": "Acquisto impulsivo",
+      "c": "Libro",
       "q": "Cosa favorisce l'acquisto impulsivo?",
       "options": [
         "Alto controllo cognitivo",
@@ -387,7 +387,7 @@
     },
     {
       "id": 33,
-      "c": "Coinvolgimento",
+      "c": "Libro",
       "q": "Che cos'è il coinvolgimento del consumatore?",
       "options": [
         "La fedeltà al marchio",
@@ -399,7 +399,7 @@
     },
     {
       "id": 34,
-      "c": "Coinvolgimento",
+      "c": "Libro",
       "q": "Con alto coinvolgimento il processo decisionale è:",
       "options": [
         "Più rapido",
@@ -411,7 +411,7 @@
     },
     {
       "id": 35,
-      "c": "Marca",
+      "c": "Libro",
       "q": "Perché i marchi sono importanti?",
       "options": [
         "Aumentano il prezzo",
@@ -423,7 +423,7 @@
     },
     {
       "id": 36,
-      "c": "Marca",
+      "c": "Libro",
       "q": "Cos'è la fedeltà alla marca?",
       "options": [
         "Una scelta obbligata",
@@ -435,7 +435,7 @@
     },
     {
       "id": 37,
-      "c": "Memoria",
+      "c": "Libro",
       "q": "Che ruolo ha la memoria nel consumo?",
       "options": [
         "È irrilevante",
@@ -447,7 +447,7 @@
     },
     {
       "id": 38,
-      "c": "Memoria",
+      "c": "Libro",
       "q": "Perché le esperienze emotive sono ricordate meglio?",
       "options": [
         "Perché sono ripetute",
@@ -483,7 +483,7 @@
     },
     {
       "id": 41,
-      "c": "Etica",
+      "c": "Libro",
       "q": "Perché la persuasione solleva problemi etici?",
       "options": [
         "Perché è illegale",
@@ -495,7 +495,7 @@
     },
     {
       "id": 42,
-      "c": "Etica",
+      "c": "Libro",
       "q": "Quando una tecnica diventa manipolativa?",
       "options": [
         "Quando è pubblicitaria",
@@ -531,7 +531,7 @@
     },
     {
       "id": 45,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Quale visione del consumo emerge dal libro di Guéguen?",
       "options": [
         "Totalmente razionale",
@@ -543,7 +543,7 @@
     },
     {
       "id": 46,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il comportamento di consumo è influenzato principalmente da:",
       "options": [
         "Prezzo",
@@ -555,7 +555,7 @@
     },
     {
       "id": 47,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Qual è il contributo principale della psicologia del consumatore?",
       "options": [
         "Ottimizzare i profitti",
@@ -567,7 +567,7 @@
     },
     {
       "id": 48,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il consumo è un comportamento:",
       "options": [
         "Individuale",
@@ -579,7 +579,7 @@
     },
     {
       "id": 49,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il libro di Guéguen si basa principalmente su:",
       "options": [
         "Opinioni",
@@ -591,7 +591,7 @@
     },
     {
       "id": 50,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Per l'esame è importante comprendere:",
       "options": [
         "Solo le definizioni",
@@ -843,7 +843,7 @@
     },
     {
       "id": 71,
-      "c": "Ambiente di vendita",
+      "c": "Libro",
       "q": "Che cos'è il marketing sensoriale?",
       "options": [
         "Marketing basato sul prezzo",
@@ -855,7 +855,7 @@
     },
     {
       "id": 72,
-      "c": "Ambiente di vendita",
+      "c": "Libro",
       "q": "Quale senso è spesso usato nei punti vendita?",
       "options": [
         "Vista",
@@ -867,7 +867,7 @@
     },
     {
       "id": 73,
-      "c": "Ambiente di vendita",
+      "c": "Libro",
       "q": "Perché i profumi influenzano il comportamento?",
       "options": [
         "Agiscono inconsciamente",
@@ -879,7 +879,7 @@
     },
     {
       "id": 74,
-      "c": "Prezzo",
+      "c": "Libro",
       "q": "Un prezzo elevato può indicare:",
       "options": [
         "Scarsa qualità",
@@ -891,7 +891,7 @@
     },
     {
       "id": 75,
-      "c": "Prezzo",
+      "c": "Libro",
       "q": "Che effetto ha un prezzo terminante in ,99?",
       "options": [
         "Nessun effetto",
@@ -903,7 +903,7 @@
     },
     {
       "id": 76,
-      "c": "Prezzo",
+      "c": "Libro",
       "q": "Lo sconto percentuale è efficace perché:",
       "options": [
         "Riduce il valore percepito",
@@ -963,7 +963,7 @@
     },
     {
       "id": 81,
-      "c": "Acquisto impulsivo",
+      "c": "Libro",
       "q": "L'acquisto impulsivo è favorito da:",
       "options": [
         "Alto coinvolgimento",
@@ -975,7 +975,7 @@
     },
     {
       "id": 82,
-      "c": "Acquisto impulsivo",
+      "c": "Libro",
       "q": "Le promozioni a tempo limitato aumentano:",
       "options": [
         "Il controllo",
@@ -987,7 +987,7 @@
     },
     {
       "id": 83,
-      "c": "Coinvolgimento",
+      "c": "Libro",
       "q": "Con basso coinvolgimento il consumatore usa:",
       "options": [
         "Analisi approfondita",
@@ -999,7 +999,7 @@
     },
     {
       "id": 84,
-      "c": "Coinvolgimento",
+      "c": "Libro",
       "q": "Il coinvolgimento dipende da:",
       "options": [
         "Prezzo",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 85,
-      "c": "Marca",
+      "c": "Libro",
       "q": "La marca serve principalmente a:",
       "options": [
         "Aumentare la complessità",
@@ -1023,7 +1023,7 @@
     },
     {
       "id": 86,
-      "c": "Marca",
+      "c": "Libro",
       "q": "La fedeltà alla marca è influenzata da:",
       "options": [
         "Soddisfazione",
@@ -1035,7 +1035,7 @@
     },
     {
       "id": 87,
-      "c": "Memoria",
+      "c": "Libro",
       "q": "La memoria a lungo termine è importante perché:",
       "options": [
         "Influenza la ripetizione d'acquisto",
@@ -1047,7 +1047,7 @@
     },
     {
       "id": 88,
-      "c": "Memoria",
+      "c": "Libro",
       "q": "Uno stimolo emotivo favorisce:",
       "options": [
         "Oblio",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 91,
-      "c": "Etica",
+      "c": "Libro",
       "q": "Un marketing etico mira a:",
       "options": [
         "Manipolare il consumatore",
@@ -1095,7 +1095,7 @@
     },
     {
       "id": 92,
-      "c": "Etica",
+      "c": "Libro",
       "q": "La trasparenza nel marketing:",
       "options": [
         "Riduce la fiducia",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": 97,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il comportamento di consumo è meglio spiegato da:",
       "options": [
         "Modelli economici",
@@ -1167,7 +1167,7 @@
     },
     {
       "id": 98,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il contesto influenza il consumo perché:",
       "options": [
         "Cambia il prodotto",
@@ -1179,7 +1179,7 @@
     },
     {
       "id": 99,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il libro di Guéguen mostra che il consumatore è:",
       "options": [
         "Un decisore perfetto",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 100,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Per l'esame è fondamentale comprendere:",
       "options": [
         "Solo i concetti teorici",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": 101,
-      "c": "Persuasione",
+      "c": "Libro",
       "q": "Il principio di coerenza afferma che le persone tendono a:",
       "options": [
         "Cambiare facilmente idea",
@@ -1215,7 +1215,7 @@
     },
     {
       "id": 102,
-      "c": "Persuasione",
+      "c": "Libro",
       "q": "Perché la tecnica del piede nella porta è efficace?",
       "options": [
         "Perché riduce il prezzo",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": 103,
-      "c": "Persuasione",
+      "c": "Libro",
       "q": "La tecnica dell'esca funziona perché:",
       "options": [
         "Riduce il coinvolgimento",
@@ -1239,7 +1239,7 @@
     },
     {
       "id": 104,
-      "c": "Persuasione",
+      "c": "Libro",
       "q": "Nella tecnica dell'esca, l'offerta iniziale è:",
       "options": [
         "Molto conveniente",
@@ -1311,7 +1311,7 @@
     },
     {
       "id": 110,
-      "c": "Tempo",
+      "c": "Libro",
       "q": "La pressione temporale porta il consumatore a:",
       "options": [
         "Decisioni più analitiche",
@@ -1467,7 +1467,7 @@
     },
     {
       "id": 123,
-      "c": "Esperienza",
+      "c": "Libro",
       "q": "L'esperienza di consumo include:",
       "options": [
         "Solo l'acquisto",
@@ -1479,7 +1479,7 @@
     },
     {
       "id": 124,
-      "c": "Esperienza",
+      "c": "Libro",
       "q": "Un'esperienza positiva aumenta:",
       "options": [
         "La dissonanza",
@@ -1491,7 +1491,7 @@
     },
     {
       "id": 125,
-      "c": "Ambiente di vendita",
+      "c": "Libro",
       "q": "La disposizione dei prodotti influenza:",
       "options": [
         "Solo l'estetica",
@@ -1503,7 +1503,7 @@
     },
     {
       "id": 126,
-      "c": "Ambiente di vendita",
+      "c": "Libro",
       "q": "I prodotti all'altezza degli occhi sono:",
       "options": [
         "Meno venduti",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": 127,
-      "c": "Prezzo",
+      "c": "Libro",
       "q": "Il framing del prezzo riguarda:",
       "options": [
         "Il costo reale",
@@ -1527,7 +1527,7 @@
     },
     {
       "id": 128,
-      "c": "Prezzo",
+      "c": "Libro",
       "q": "Presentare uno sconto come guadagno anziché perdita:",
       "options": [
         "Riduce l'efficacia",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": 131,
-      "c": "Coinvolgimento",
+      "c": "Libro",
       "q": "Con basso coinvolgimento è più probabile:",
       "options": [
         "Analisi profonda",
@@ -1719,7 +1719,7 @@
     },
     {
       "id": 144,
-      "c": "Identità",
+      "c": "Libro",
       "q": "Il consumo contribuisce alla costruzione di:",
       "options": [
         "Prezzo",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": 145,
-      "c": "Identità",
+      "c": "Libro",
       "q": "La scelta di una marca può esprimere:",
       "options": [
         "Solo qualità",
@@ -1743,7 +1743,7 @@
     },
     {
       "id": 146,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il comportamento di consumo è meglio spiegato da:",
       "options": [
         "Una singola variabile",
@@ -1755,7 +1755,7 @@
     },
     {
       "id": 147,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "La psicologia del consumatore studia:",
       "options": [
         "Solo l'acquisto",
@@ -1767,7 +1767,7 @@
     },
     {
       "id": 148,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il contributo di Guéguen è mostrare che:",
       "options": [
         "Il consumatore è sempre razionale",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": 149,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Per preparare l'esame è utile:",
       "options": [
         "Memorizzare definizioni",
@@ -1791,7 +1791,7 @@
     },
     {
       "id": 150,
-      "c": "Sintesi",
+      "c": "Libro",
       "q": "Il messaggio chiave del libro è che il consumo è:",
       "options": [
         "Puramente economico",
@@ -1923,7 +1923,7 @@
 },
 {
   "id": 161,
-  "c": "Informazione",
+  "c": "Libro",
   "q": "La ricerca di informazioni aumenta quando:",
   "options": [
     "Il prodotto è abituale",
@@ -1935,7 +1935,7 @@
 },
 {
   "id": 162,
-  "c": "Informazione",
+  "c": "Libro",
   "q": "Le fonti personali sono considerate:",
   "options": [
     "Meno credibili",
@@ -1947,7 +1947,7 @@
 },
 {
   "id": 163,
-  "c": "Informazione",
+  "c": "Libro",
   "q": "Internet ha modificato il consumo perché:",
   "options": [
     "Ha ridotto le alternative",
@@ -1995,7 +1995,7 @@
 },
 {
   "id": 167,
-  "c": "Abitudini",
+  "c": "Libro",
   "q": "Le abitudini di consumo si formano tramite:",
   "options": [
     "Ripetizione",
@@ -2007,7 +2007,7 @@
 },
 {
   "id": 168,
-  "c": "Abitudini",
+  "c": "Libro",
   "q": "Rompere un'abitudine richiede:",
   "options": [
     "Assenza di stimoli",
@@ -2139,7 +2139,7 @@
 },
 {
   "id": 179,
-  "c": "Etica",
+  "c": "Libro",
   "q": "La manipolazione si distingue dalla persuasione perché:",
   "options": [
     "È più efficace",
@@ -2151,7 +2151,7 @@
 },
 {
   "id": 180,
-  "c": "Etica",
+  "c": "Libro",
   "q": "Un'influenza etica dovrebbe essere:",
   "options": [
     "Occulta",
@@ -2163,7 +2163,7 @@
 },
 {
   "id": 181,
-  "c": "Educazione",
+  "c": "Libro",
   "q": "L'educazione al consumo mira a:",
   "options": [
     "Aumentare i consumi",
@@ -2175,7 +2175,7 @@
 },
 {
   "id": 182,
-  "c": "Educazione",
+  "c": "Libro",
   "q": "Un consumatore consapevole:",
   "options": [
     "È immune alle influenze",
@@ -2235,7 +2235,7 @@
 },
 {
   "id": 187,
-  "c": "Applicazioni",
+  "c": "Libro",
   "q": "La psicologia del consumatore è applicabile a:",
   "options": [
     "Solo marketing",
@@ -2247,7 +2247,7 @@
 },
 {
   "id": 188,
-  "c": "Applicazioni",
+  "c": "Libro",
   "q": "Le nudges sono:",
   "options": [
     "Costrizioni",
@@ -2283,7 +2283,7 @@
 },
 {
   "id": 191,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il comportamento del consumatore è:",
   "options": [
     "Prevedibile matematicamente",
@@ -2295,7 +2295,7 @@
 },
 {
   "id": 192,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "La forza delle influenze sottili sta nel fatto che:",
   "options": [
     "Sono sempre consce",
@@ -2307,7 +2307,7 @@
 },
 {
   "id": 193,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il consumatore ideale dei modelli economici è:",
   "options": [
     "Realistico",
@@ -2319,7 +2319,7 @@
 },
 {
   "id": 194,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "La psicologia del consumo mostra che:",
   "options": [
     "Le scelte sono perfette",
@@ -2331,7 +2331,7 @@
 },
 {
   "id": 195,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Per superare l'esame è importante:",
   "options": [
     "Memorizzare",
@@ -2343,7 +2343,7 @@
 },
 {
   "id": 196,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il messaggio complessivo del libro è che il consumo è:",
   "options": [
     "Economico",
@@ -2355,7 +2355,7 @@
 },
 {
   "id": 197,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il contributo scientifico di Guéguen è:",
   "options": [
     "Descrittivo",
@@ -2367,7 +2367,7 @@
 },
 {
   "id": 198,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "La psicologia del consumatore serve a:",
   "options": [
     "Manipolare",
@@ -2379,7 +2379,7 @@
 },
 {
   "id": 199,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Comprendere il consumo aiuta a:",
   "options": [
     "Subire le influenze",
@@ -2391,7 +2391,7 @@
 },
 {
   "id": 200,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il consumatore è un decisore:",
   "options": [
     "Perfetto",
@@ -2403,7 +2403,7 @@
 },
 {
   "id": 201,
-  "c": "Motivazione",
+  "c": "Libro",
   "q": "La motivazione al consumo nasce principalmente da:",
   "options": [
     "Stimoli casuali",
@@ -2415,7 +2415,7 @@
 },
 {
   "id": 202,
-  "c": "Motivazione",
+  "c": "Libro",
   "q": "Secondo la teoria dei bisogni, il consumo può servire a:",
   "options": [
     "Soddisfare bisogni simbolici",
@@ -2427,7 +2427,7 @@
 },
 {
   "id": 203,
-  "c": "Bisogni",
+  "c": "Libro",
   "q": "I bisogni secondari sono:",
   "options": [
     "Innati",
@@ -2439,7 +2439,7 @@
 },
 {
   "id": 204,
-  "c": "Bisogni",
+  "c": "Libro",
   "q": "Un bisogno latente è:",
   "options": [
     "Già espresso",
@@ -2451,7 +2451,7 @@
 },
 {
   "id": 205,
-  "c": "Apprendimento",
+  "c": "Libro",
   "q": "L'apprendimento nel consumo avviene tramite:",
   "options": [
     "Esperienza diretta",
@@ -2463,7 +2463,7 @@
 },
 {
   "id": 206,
-  "c": "Apprendimento",
+  "c": "Libro",
   "q": "Il condizionamento classico nel marketing associa:",
   "options": [
     "Prezzo e qualità",
@@ -2475,7 +2475,7 @@
 },
 {
   "id": 207,
-  "c": "Apprendimento",
+  "c": "Libro",
   "q": "Il condizionamento operante si basa su:",
   "options": [
     "Associazioni automatiche",
@@ -2487,7 +2487,7 @@
 },
 {
   "id": 208,
-  "c": "Apprendimento",
+  "c": "Libro",
   "q": "Le ricompense aumentano:",
   "options": [
     "L'estinzione del comportamento",
@@ -2499,7 +2499,7 @@
 },
 {
   "id": 209,
-  "c": "Personalità",
+  "c": "Libro",
   "q": "La personalità del consumatore:",
   "options": [
     "Determina sempre il comportamento",
@@ -2511,7 +2511,7 @@
 },
 {
   "id": 210,
-  "c": "Personalità",
+  "c": "Libro",
   "q": "I tratti di personalità sono:",
   "options": [
     "Instabili",
@@ -2523,7 +2523,7 @@
 },
 {
   "id": 211,
-  "c": "Autocontrollo",
+  "c": "Libro",
   "q": "L'autocontrollo nel consumo riguarda:",
   "options": [
     "L'eliminazione delle emozioni",
@@ -2535,7 +2535,7 @@
 },
 {
   "id": 212,
-  "c": "Autocontrollo",
+  "c": "Libro",
   "q": "La fatica decisionale tende a:",
   "options": [
     "Aumentare l'autocontrollo",
@@ -2547,7 +2547,7 @@
 },
 {
   "id": 213,
-  "c": "Autocontrollo",
+  "c": "Libro",
   "q": "La scarsità di risorse cognitive porta a:",
   "options": [
     "Decisioni più riflessive",
@@ -2559,7 +2559,7 @@
 },
 {
   "id": 214,
-  "c": "Attenzione",
+  "c": "Libro",
   "q": "L'attenzione divisa comporta:",
   "options": [
     "Migliore memoria",
@@ -2571,7 +2571,7 @@
 },
 {
   "id": 215,
-  "c": "Attenzione",
+  "c": "Libro",
   "q": "Gli stimoli salienti sono:",
   "options": [
     "Ignorati",
@@ -2583,7 +2583,7 @@
 },
 {
   "id": 216,
-  "c": "Informazione",
+  "c": "Libro",
   "q": "Il sovraccarico informativo porta a:",
   "options": [
     "Decisioni ottimali",
@@ -2595,7 +2595,7 @@
 },
 {
   "id": 217,
-  "c": "Informazione",
+  "c": "Libro",
   "q": "Troppe alternative possono:",
   "options": [
     "Aumentare la libertà",
@@ -2607,7 +2607,7 @@
 },
 {
   "id": 218,
-  "c": "Scelta",
+  "c": "Libro",
   "q": "Il paradosso della scelta afferma che:",
   "options": [
     "Più scelta è sempre meglio",
@@ -2619,7 +2619,7 @@
 },
 {
   "id": 219,
-  "c": "Scelta",
+  "c": "Libro",
   "q": "Una scelta semplificata tende a:",
   "options": [
     "Ridurre la probabilità di acquisto",
@@ -2631,7 +2631,7 @@
 },
 {
   "id": 220,
-  "c": "Prezzo",
+  "c": "Libro",
   "q": "Il prezzo psicologico sfrutta:",
   "options": [
     "Costi reali",
@@ -2643,7 +2643,7 @@
 },
 {
   "id": 221,
-  "c": "Prezzo",
+  "c": "Libro",
   "q": "Un aumento graduale del prezzo è percepito come:",
   "options": [
     "Più doloroso",
@@ -2655,7 +2655,7 @@
 },
 {
   "id": 222,
-  "c": "Dolore del pagamento",
+  "c": "Libro",
   "q": "Il pagamento in contanti tende a:",
   "options": [
     "Ridurre la percezione di spesa",
@@ -2667,7 +2667,7 @@
 },
 {
   "id": 223,
-  "c": "Dolore del pagamento",
+  "c": "Libro",
   "q": "I pagamenti digitali possono:",
   "options": [
     "Aumentare la consapevolezza",
@@ -2679,7 +2679,7 @@
 },
 {
   "id": 224,
-  "c": "Tecnologia",
+  "c": "Libro",
   "q": "Gli algoritmi di raccomandazione influenzano:",
   "options": [
     "Solo il prezzo",
@@ -2691,7 +2691,7 @@
 },
 {
   "id": 225,
-  "c": "Tecnologia",
+  "c": "Libro",
   "q": "La personalizzazione aumenta:",
   "options": [
     "La rilevanza percepita",
@@ -2703,7 +2703,7 @@
 },
 {
   "id": 226,
-  "c": "Tecnologia",
+  "c": "Libro",
   "q": "Il filtro algoritmico può portare a:",
   "options": [
     "Maggiore varietà",
@@ -2715,7 +2715,7 @@
 },
 {
   "id": 227,
-  "c": "Social media",
+  "c": "Libro",
   "q": "I social media influenzano il consumo tramite:",
   "options": [
     "Interazione sociale",
@@ -2727,7 +2727,7 @@
 },
 {
   "id": 228,
-  "c": "Social media",
+  "c": "Libro",
   "q": "Gli influencer sono efficaci perché:",
   "options": [
     "Imposti",
@@ -2739,7 +2739,7 @@
 },
 {
   "id": 229,
-  "c": "Confronto sociale",
+  "c": "Libro",
   "q": "Il confronto sociale porta il consumatore a:",
   "options": [
     "Ignorare gli altri",
@@ -2751,7 +2751,7 @@
 },
 {
   "id": 230,
-  "c": "Confronto sociale",
+  "c": "Libro",
   "q": "Il confronto verso l'alto può generare:",
   "options": [
     "Soddisfazione",
@@ -2763,7 +2763,7 @@
 },
 {
   "id": 231,
-  "c": "Benessere",
+  "c": "Libro",
   "q": "Il consumo contribuisce al benessere quando:",
   "options": [
     "È compulsivo",
@@ -2775,7 +2775,7 @@
 },
 {
   "id": 232,
-  "c": "Benessere",
+  "c": "Libro",
   "q": "Il materialismo eccessivo è associato a:",
   "options": [
     "Maggiore felicità",
@@ -2787,7 +2787,7 @@
 },
 {
   "id": 233,
-  "c": "Consumo problematico",
+  "c": "Libro",
   "q": "Il consumo compulsivo è caratterizzato da:",
   "options": [
     "Controllo",
@@ -2799,7 +2799,7 @@
 },
 {
   "id": 234,
-  "c": "Consumo problematico",
+  "c": "Libro",
   "q": "Il consumo problematico è spesso legato a:",
   "options": [
     "Benessere elevato",
@@ -2811,7 +2811,7 @@
 },
 {
   "id": 235,
-  "c": "Prevenzione",
+  "c": "Libro",
   "q": "La prevenzione del consumo problematico richiede:",
   "options": [
     "Divieti",
@@ -2823,7 +2823,7 @@
 },
 {
   "id": 236,
-  "c": "Prevenzione",
+  "c": "Libro",
   "q": "L'informazione corretta aiuta a:",
   "options": [
     "Manipolare",
@@ -2835,7 +2835,7 @@
 },
 {
   "id": 237,
-  "c": "Politiche pubbliche",
+  "c": "Libro",
   "q": "Le politiche di consumo possono usare la psicologia per:",
   "options": [
     "Imporre comportamenti",
@@ -2847,7 +2847,7 @@
 },
 {
   "id": 238,
-  "c": "Politiche pubbliche",
+  "c": "Libro",
   "q": "Le campagne di prevenzione funzionano meglio se:",
   "options": [
     "Colpevolizzano",
@@ -2859,7 +2859,7 @@
 },
 {
   "id": 239,
-  "c": "Metodo",
+  "c": "Libro",
   "q": "La triangolazione dei metodi serve a:",
   "options": [
     "Ridurre i dati",
@@ -2871,7 +2871,7 @@
 },
 {
   "id": 240,
-  "c": "Metodo",
+  "c": "Libro",
   "q": "L'uso combinato di metodi qualitativi e quantitativi:",
   "options": [
     "È inutile",
@@ -2883,7 +2883,7 @@
 },
 {
   "id": 241,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il consumo è influenzato da:",
   "options": [
     "Un solo fattore",
@@ -2895,7 +2895,7 @@
 },
 {
   "id": 242,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "La psicologia del consumatore integra:",
   "options": [
     "Economia e diritto",
@@ -2907,7 +2907,7 @@
 },
 {
   "id": 243,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Le scelte di consumo sono spesso:",
   "options": [
     "Ottimali",
@@ -2919,7 +2919,7 @@
 },
 {
   "id": 244,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Comprendere il consumatore permette di:",
   "options": [
     "Manipolare",
@@ -2931,7 +2931,7 @@
 },
 {
   "id": 245,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il consumatore moderno è:",
   "options": [
     "Isolato",
@@ -2943,7 +2943,7 @@
 },
 {
   "id": 246,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "La prospettiva di Guéguen sottolinea:",
   "options": [
     "Il controllo totale",
@@ -2955,7 +2955,7 @@
 },
 {
   "id": 247,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Per studiare efficacemente è utile:",
   "options": [
     "Memorizzare",
@@ -2967,7 +2967,7 @@
 },
 {
   "id": 248,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "La psicologia del consumo aiuta a:",
   "options": [
     "Subire le influenze",
@@ -2979,7 +2979,7 @@
 },
 {
   "id": 249,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il consumo consapevole implica:",
   "options": [
     "Assenza di emozioni",
@@ -2991,7 +2991,7 @@
 },
 {
   "id": 250,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il comportamento del consumatore è:",
   "options": [
     "Deterministico",
@@ -3003,7 +3003,7 @@
 },
 {
   "id": 251,
-  "c": "Coinvolgimento",
+  "c": "Libro",
   "q": "Il coinvolgimento del consumatore è maggiore quando:",
   "options": [
     "Il prodotto è banale",
@@ -3015,7 +3015,7 @@
 },
 {
   "id": 252,
-  "c": "Coinvolgimento",
+  "c": "Libro",
   "q": "Un alto coinvolgimento porta a:",
   "options": [
     "Elaborazione superficiale",
@@ -3027,7 +3027,7 @@
 },
 {
   "id": 253,
-  "c": "Coinvolgimento",
+  "c": "Libro",
   "q": "I prodotti ad alto coinvolgimento sono spesso:",
   "options": [
     "Acquistati impulsivamente",
@@ -3039,7 +3039,7 @@
 },
 {
   "id": 254,
-  "c": "Elaborazione",
+  "c": "Libro",
   "q": "Il modello ELM distingue tra:",
   "options": [
     "Scelte rapide e lente",
@@ -3051,7 +3051,7 @@
 },
 {
   "id": 255,
-  "c": "Elaborazione",
+  "c": "Libro",
   "q": "La via centrale della persuasione richiede:",
   "options": [
     "Basso coinvolgimento",
@@ -3063,7 +3063,7 @@
 },
 {
   "id": 256,
-  "c": "Elaborazione",
+  "c": "Libro",
   "q": "La via periferica si basa soprattutto su:",
   "options": [
     "Argomentazioni forti",
@@ -3075,7 +3075,7 @@
 },
 {
   "id": 257,
-  "c": "Persuasione",
+  "c": "Libro",
   "q": "La credibilità della fonte aumenta:",
   "options": [
     "La resistenza",
@@ -3087,7 +3087,7 @@
 },
 {
   "id": 258,
-  "c": "Persuasione",
+  "c": "Libro",
   "q": "Una fonte percepita come esperta è:",
   "options": [
     "Meno influente",
@@ -3099,7 +3099,7 @@
 },
 {
   "id": 259,
-  "c": "Persuasione",
+  "c": "Libro",
   "q": "Il consenso sociale funziona perché:",
   "options": [
     "Riduce i costi",
@@ -3111,7 +3111,7 @@
 },
 {
   "id": 260,
-  "c": "Persuasione",
+  "c": "Libro",
   "q": "Il principio di scarsità aumenta il valore percepito perché:",
   "options": [
     "Riduce la qualità",
@@ -3123,7 +3123,7 @@
 },
 {
   "id": 261,
-  "c": "Tempo",
+  "c": "Libro",
   "q": "La pressione temporale porta più facilmente a:",
   "options": [
     "Decisioni analitiche",
@@ -3135,7 +3135,7 @@
 },
 {
   "id": 262,
-  "c": "Tempo",
+  "c": "Libro",
   "q": "La scarsità di tempo tende a:",
   "options": [
     "Aumentare l'elaborazione",
@@ -3147,7 +3147,7 @@
 },
 {
   "id": 263,
-  "c": "Ambiente",
+  "c": "Libro",
   "q": "L'ambiente di vendita influenza il consumo attraverso:",
   "options": [
     "Stimoli sensoriali",
@@ -3159,7 +3159,7 @@
 },
 {
   "id": 264,
-  "c": "Ambiente",
+  "c": "Libro",
   "q": "La musica di sottofondo può influenzare:",
   "options": [
     "Il tempo di permanenza",
@@ -3171,7 +3171,7 @@
 },
 {
   "id": 265,
-  "c": "Ambiente",
+  "c": "Libro",
   "q": "Un profumo ambientale congruente:",
   "options": [
     "Disturba",
@@ -3183,7 +3183,7 @@
 },
 {
   "id": 266,
-  "c": "Design",
+  "c": "Libro",
   "q": "Il design del prodotto comunica:",
   "options": [
     "Solo estetica",
@@ -3195,7 +3195,7 @@
 },
 {
   "id": 267,
-  "c": "Design",
+  "c": "Libro",
   "q": "Un packaging efficace deve essere:",
   "options": [
     "Complesso",
@@ -3207,7 +3207,7 @@
 },
 {
   "id": 268,
-  "c": "Marca",
+  "c": "Libro",
   "q": "La marca serve principalmente a:",
   "options": [
     "Confondere",
@@ -3219,7 +3219,7 @@
 },
 {
   "id": 269,
-  "c": "Marca",
+  "c": "Libro",
   "q": "Una marca forte genera:",
   "options": [
     "Indifferenza",
@@ -3231,7 +3231,7 @@
 },
 {
   "id": 270,
-  "c": "Identità",
+  "c": "Libro",
   "q": "Il consumo identitario permette di:",
   "options": [
     "Ridurre i costi",
@@ -3243,7 +3243,7 @@
 },
 {
   "id": 271,
-  "c": "Identità",
+  "c": "Libro",
   "q": "I prodotti simbolici sono usati per:",
   "options": [
     "Funzioni pratiche",
@@ -3255,7 +3255,7 @@
 },
 {
   "id": 272,
-  "c": "Esperienza",
+  "c": "Libro",
   "q": "Il marketing esperienziale punta su:",
   "options": [
     "Prezzo",
@@ -3267,7 +3267,7 @@
 },
 {
   "id": 273,
-  "c": "Esperienza",
+  "c": "Libro",
   "q": "Un'esperienza positiva aumenta:",
   "options": [
     "La dissonanza",
@@ -3279,7 +3279,7 @@
 },
 {
   "id": 274,
-  "c": "Memoria",
+  "c": "Libro",
   "q": "Le emozioni intense rendono un'esperienza:",
   "options": [
     "Meno memorabile",
@@ -3291,7 +3291,7 @@
 },
 {
   "id": 275,
-  "c": "Memoria",
+  "c": "Libro",
   "q": "La memoria del consumatore è:",
   "options": [
     "Perfetta",
@@ -3327,7 +3327,7 @@
 },
 {
   "id": 278,
-  "c": "Relazione",
+  "c": "Libro",
   "q": "Il relationship marketing mira a:",
   "options": [
     "Vendite singole",
@@ -3339,7 +3339,7 @@
 },
 {
   "id": 279,
-  "c": "Relazione",
+  "c": "Libro",
   "q": "La fiducia nella relazione con la marca:",
   "options": [
     "Riduce il valore",
@@ -3351,7 +3351,7 @@
 },
 {
   "id": 280,
-  "c": "Etica",
+  "c": "Libro",
   "q": "Un marketing responsabile dovrebbe:",
   "options": [
     "Sfruttare i bias",
@@ -3363,7 +3363,7 @@
 },
 {
   "id": 281,
-  "c": "Etica",
+  "c": "Libro",
   "q": "La trasparenza aumenta:",
   "options": [
     "Diffidenza",
@@ -3375,7 +3375,7 @@
 },
 {
   "id": 282,
-  "c": "Responsabilità",
+  "c": "Libro",
   "q": "Le aziende influenzano il consumo quindi hanno:",
   "options": [
     "Nessuna responsabilità",
@@ -3387,7 +3387,7 @@
 },
 {
   "id": 283,
-  "c": "Responsabilità",
+  "c": "Libro",
   "q": "La sostenibilità nel consumo riguarda:",
   "options": [
     "Solo il prezzo",
@@ -3399,7 +3399,7 @@
 },
 {
   "id": 284,
-  "c": "Sostenibilità",
+  "c": "Libro",
   "q": "Il consumo sostenibile implica:",
   "options": [
     "Rinuncia totale",
@@ -3411,7 +3411,7 @@
 },
 {
   "id": 285,
-  "c": "Sostenibilità",
+  "c": "Libro",
   "q": "Le etichette ambientali servono a:",
   "options": [
     "Confondere",
@@ -3423,7 +3423,7 @@
 },
 {
   "id": 286,
-  "c": "Educazione",
+  "c": "Libro",
   "q": "L'educazione al consumo favorisce:",
   "options": [
     "Passività",
@@ -3435,7 +3435,7 @@
 },
 {
   "id": 287,
-  "c": "Educazione",
+  "c": "Libro",
   "q": "Un consumatore informato è:",
   "options": [
     "Immune",
@@ -3447,7 +3447,7 @@
 },
 {
   "id": 288,
-  "c": "Metodo",
+  "c": "Libro",
   "q": "Gli esperimenti in psicologia del consumo permettono di:",
   "options": [
     "Stabilire causalità",
@@ -3459,7 +3459,7 @@
 },
 {
   "id": 289,
-  "c": "Metodo",
+  "c": "Libro",
   "q": "Il controllo delle variabili serve a:",
   "options": [
     "Confondere",
@@ -3471,7 +3471,7 @@
 },
 {
   "id": 290,
-  "c": "Metodo",
+  "c": "Libro",
   "q": "La validità ecologica riguarda:",
   "options": [
     "Il laboratorio",
@@ -3483,7 +3483,7 @@
 },
 {
   "id": 291,
-  "c": "Applicazioni",
+  "c": "Libro",
   "q": "Le conoscenze psicologiche sono usate anche in:",
   "options": [
     "Politiche pubbliche",
@@ -3495,7 +3495,7 @@
 },
 {
   "id": 292,
-  "c": "Applicazioni",
+  "c": "Libro",
   "q": "La psicologia del consumo può migliorare:",
   "options": [
     "Solo le vendite",
@@ -3507,7 +3507,7 @@
 },
 {
   "id": 293,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il comportamento di consumo è:",
   "options": [
     "Semplice",
@@ -3519,7 +3519,7 @@
 },
 {
   "id": 294,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Le influenze sottili sono efficaci perché:",
   "options": [
     "Sono evidenti",
@@ -3531,7 +3531,7 @@
 },
 {
   "id": 295,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il consumatore reale è:",
   "options": [
     "Perfettamente razionale",
@@ -3543,7 +3543,7 @@
 },
 {
   "id": 296,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "La psicologia del consumatore evidenzia:",
   "options": [
     "L'assenza di emozioni",
@@ -3555,7 +3555,7 @@
 },
 {
   "id": 297,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Per affrontare l'esame è utile:",
   "options": [
     "Memorizzare definizioni",
@@ -3567,7 +3567,7 @@
 },
 {
   "id": 298,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "L'approccio di Guéguen è:",
   "options": [
     "Puramente teorico",
@@ -3579,7 +3579,7 @@
 },
 {
   "id": 299,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Comprendere il consumo significa:",
   "options": [
     "Eliminare la libertà",
@@ -3591,7 +3591,7 @@
 },
 {
   "id": 300,
-  "c": "Sintesi",
+  "c": "Libro",
   "q": "Il messaggio chiave della psicologia del consumo è che:",
   "options": [
     "Le scelte sono neutre",
@@ -3602,1922 +3602,2631 @@
   "correct": 1
 },
   {
-    "id": 301,
-    "c": "Appunti",
-    "q": "Nel modello sequenziale di formazione delle impressioni, quale fase richiede uno sforzo cognitivo intenzionale e risorse di elaborazione attive?",
-    "options": [
-      "La categorizzazione iniziale basata su indizi percettivi immediati",
-      "La caratterizzazione automatica tramite l'inferenza di tratti",
-      "La correzione dell'impressione iniziale basata su fattori situazionali",
-      "L'attivazione delle euristiche di rappresentatività"
-    ],
-    "correct": 2
-  },
-  {
     "id": 302,
-    "c": "Appunti",
-    "q": "L'errore fondamentale di attribuzione consiste nella tendenza sistematica dell'osservatore a:",
+    "c": "appunti",
+    "q": "Qual è la differenza principale tra la soglia assoluta e la soglia differenziale?",
     "options": [
-      "Sovrastimare le cause situazionali e sottostimare le cause interne del comportamento altrui",
-      "Attribuire i propri successi a cause interne e i propri fallimenti a cause esterne",
-      "Sovrastimare le cause interne (disposizionali) e sottostimare le cause situazionali del comportamento altrui",
-      "Utilizzare stereotipi positivi per giudicare i membri del proprio ingroup"
+      "La prima riguarda la capacità di ignorare stimoli ripetitivi, la seconda la memoria a lungo termine",
+      "La prima è il livello minimo di stimolazione percepibile, la seconda è la variazione minima avvertibile",
+      "La prima si riferisce solo a stimoli visivi, mentre la seconda riguarda esclusivamente il senso dell'udito",
+      "La prima dipende dal prezzo del prodotto, mentre la seconda dipende dalla qualità dei materiali usati"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 303,
-    "c": "Appunti",
-    "q": "Secondo il principio dell'asimmetria attore-osservatore, come tendiamo a spiegare i nostri comportamenti negativi o fallimenti?",
+    "c": "appunti",
+    "q": "Secondo la Teoria della Reattività (Reactance), come reagiscono i consumatori a una pressione persuasiva eccessiva?",
     "options": [
-      "Attribuendoli a cause interne per mantenere l'autostima",
-      "Attribuendoli a fattori situazionali esterni",
-      "Attribuendoli a tratti stabili della nostra personalità",
-      "Ignorandoli completamente tramite la rimozione"
+      "Accettano passivamente il messaggio per evitare conflitti con il venditore o con il brand",
+      "Sviluppano una motivazione contraria per riaffermare la propria libertà di scelta individuale",
+      "Dimenticano rapidamente l'accaduto a causa di un processo di rimozione psicologica conscia",
+      "Aumentano la propria fiducia verso la fonte del messaggio poiché la percepiscono come autorevole"
     ],
     "correct": 1
   },
   {
     "id": 304,
-    "c": "Appunti",
-    "q": "Nello studio storico di La Piere (1934) sul pregiudizio verso i cinesi, quale importante discrepanza venne messa in luce?",
+    "c": "appunti",
+    "q": "Nel contesto della percezione, cosa si intende per 'adattamento sensoriale'?",
     "options": [
-      "La discrepanza tra l'atteggiamento verbale (negativo) e il comportamento effettivo (accoglienza)",
-      "La discrepanza tra il pregiudizio implicito e quello esplicito negli albergatori",
-      "La differenza tra l'atteggiamento verso i cinesi ricchi rispetto a quelli poveri",
-      "L'incoerenza tra le norme sociali prescrittive e le norme descrittive dell'epoca"
+      "La capacità di focalizzare l'attenzione su un singolo stimolo ignorando tutto il rumore di fondo",
+      "Una diminuzione della sensibilità a uno stimolo dopo un'esposizione prolungata e costante",
+      "Il processo attraverso il quale il cervello corregge le distorsioni ottiche causate dalla luce",
+      "L'aumento dell'intensità di una sensazione quando vengono coinvolti più sensi contemporaneamente"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 305,
-    "c": "Appunti",
-    "q": "Quale elemento distingue la Teoria del Comportamento Pianificato (TPB) dalla Teoria dell'Azione Ragionata (TRA)?",
+    "c": "appunti",
+    "q": "La legge della chiusura della Gestalt suggerisce che il consumatore tende a:",
     "options": [
-      "L'introduzione delle norme soggettive come predittore dell'intenzione",
-      "L'inclusione del controllo comportamentale percepito",
-      "La considerazione delle risposte emotive inconsce",
-      "La sostituzione dell'intenzione con l'atteggiamento diretto"
+      "Raggruppare stimoli che si trovano fisicamente vicini nello spazio del punto vendita",
+      "Completare mentalmente le figure o i messaggi che appaiono incompleti o interrotti",
+      "Ignorare le informazioni che contrastano con le proprie credenze religiose o politiche",
+      "Preferire marchi che utilizzano forme geometriche semplici e colori primari nel logo"
     ],
     "correct": 1
   },
   {
     "id": 306,
-    "c": "Appunti",
-    "q": "Secondo il modello MODE di Fazio, in quali condizioni l'atteggiamento guida il comportamento attraverso un processo di elaborazione spontanea (e non ragionata)?",
+    "c": "appunti",
+    "q": "Cosa descrive l'effetto 'Mere Exposure' studiato da Zajonc?",
     "options": [
-      "Quando l'individuo ha alta motivazione e alta opportunità di elaborazione",
-      "Quando l'atteggiamento è debole ma le norme sociali sono stringenti",
-      "Quando mancano la motivazione o l'opportunità di riflettere, ma l'atteggiamento è molto accessibile",
-      "Quando il soggetto è coinvolto in un compito di acquisto ad alto rischio"
+      "Il rifiuto di un prodotto quando viene pubblicizzato in modo troppo aggressivo e ripetitivo",
+      "L'aumento dell'atteggiamento positivo verso uno stimolo dovuto alla sua semplice esposizione",
+      "La tendenza a dimenticare i marchi che non vengono acquistati per un lungo periodo di tempo",
+      "La preferenza per prodotti costosi basata sulla convinzione che il prezzo indichi alta qualità"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 307,
-    "c": "Appunti",
-    "q": "Nel modello Elaboration Likelihood Model (ELM), da cosa dipende primariamente la scelta tra la via centrale e la via periferica di persuasione?",
+    "c": "appunti",
+    "q": "Nella ricerca qualitativa, a cosa serve principalmente l'intervista in profondità?",
     "options": [
-      "Esclusivamente dall'intelligenza del destinatario",
-      "Dalla motivazione e dalle risorse cognitive (opportunità) del destinatario",
-      "Dalla lunghezza del messaggio e dal numero di argomentazioni",
-      "Dalla presenza di musica o colori vivaci nello spot"
+      "A raccogliere dati statistici su un campione rappresentativo della popolazione nazionale",
+      "A esplorare le motivazioni inconsce e i vissuti personali legati a un consumo specifico",
+      "A verificare l'efficacia dei prezzi attraverso test di confronto rapido tra diverse marche",
+      "A misurare i tempi di reazione fisiologica dei soggetti davanti a uno scaffale reale"
     ],
     "correct": 1
   },
   {
     "id": 308,
-    "c": "Appunti",
-    "q": "Nella costruzione di una scala di atteggiamento secondo il metodo di Thurstone (Scale a intervalli soggettivamente uguali), qual è il ruolo dei 'giudici'?",
+    "c": "appunti",
+    "q": "Secondo il modello Fishbein, l'atteggiamento verso un brand è determinato da:",
     "options": [
-      "Esprimere il proprio accordo o disaccordo personale con gli item",
-      "Valutare il valore scalare degli item posizionandoli su un continuum da sfavorevole a favorevole",
-      "Selezionare solo gli item che hanno una correlazione alta con il totale",
-      "Determinare se gli item sono grammaticalmente corretti"
+      "L'impulso del momento guidato esclusivamente dalle emozioni provate nel punto vendita",
+      "La sintesi tra le credenze sugli attributi del prodotto e la valutazione degli stessi",
+      "Il parere dei leader d'opinione che il consumatore segue costantemente sui social media",
+      "La disponibilità del prodotto e la facilità con cui può essere reperito sugli scaffali"
     ],
     "correct": 1
   },
   {
     "id": 309,
-    "c": "Appunti",
-    "q": "Che cosa si intende per 'acquisto d'impulso' alla luce dei modelli duali di atteggiamento?",
+    "c": "appunti",
+    "q": "L'effetto ancoraggio si verifica quando il giudizio del consumatore è influenzato da:",
     "options": [
-      "Un acquisto pianificato ma eseguito rapidamente per mancanza di tempo",
-      "Un comportamento guidato da un'attivazione diretta dell'atteggiamento associato all'oggetto, senza mediazione dell'intenzione consapevole",
-      "Un acquisto basato esclusivamente sulle norme soggettive del gruppo di appartenenza",
-      "Un errore del sistema cognitivo dovuto a stanchezza mentale"
+      "L'ultima informazione ricevuta prima di prendere la decisione finale d'acquisto",
+      "Un valore numerico o un prezzo iniziale che funge da punto di riferimento mentale",
+      "La pressione sociale esercitata dai membri della famiglia durante la scelta del bene",
+      "Un'esperienza negativa vissuta durante l'infanzia con un prodotto simile o correlato"
     ],
     "correct": 1
   },
   {
     "id": 310,
-    "c": "Appunti",
-    "q": "Secondo il modello APE (Associative-Propositional Evaluation), come interagiscono i processi associativi e proposizionali?",
+    "c": "appunti",
+    "q": "Cosa si intende per 'apprendimento vicario' o modellamento?",
     "options": [
-      "I processi proposizionali sono sempre dominanti e cancellano le associazioni implicite",
-      "Le associazioni attivate possono essere validate o rifiutate dai processi proposizionali (ragionamento) a seconda della coerenza cognitiva",
-      "I due processi sono identici e non distinguibili a livello funzionale",
-      "I processi associativi avvengono solo durante il sonno o stati di incoscienza"
+      "Un processo basato esclusivamente sulla ripetizione meccanica di uno slogan pubblicitario",
+      "L'acquisizione di comportamenti osservando le conseguenze delle azioni compiute da altri",
+      "Il recupero di ricordi d'infanzia stimolato dall'uso di particolari profumi in un negozio",
+      "L'apprendimento che avviene attraverso lo studio teorico dei manuali d'uso dei prodotti"
     ],
     "correct": 1
   },
   {
     "id": 311,
-    "c": "Appunti",
-    "q": "Nell'esperimento di Asch sul conformismo (le linee di diversa lunghezza), quale tipo di influenza sociale è prevalentemente in atto?",
+    "c": "appunti",
+    "q": "L'euristica della disponibilità porta le persone a sovrastimare i rischi che:",
     "options": [
-      "Influenza informativa, dovuta all'ambiguità dello stimolo",
-      "Influenza normativa, dovuta al desiderio di evitare l'esclusione sociale e apparire conformi al gruppo",
-      "Influenza minoritaria, esercitata dal collaboratore dello sperimentatore",
-      "Obbedienza all'autorità dello sperimentatore"
+      "Sono legati a prodotti tecnologici complessi e difficili da utilizzare correttamente",
+      "Risultano facilmente richiamabili alla memoria grazie alla loro vividezza o recenza",
+      "Riguardano la perdita di denaro in investimenti finanziari a lungo termine in borsa",
+      "Vengono descritti in modo tecnico e scientifico all'interno di riviste specializzate"
     ],
     "correct": 1
   },
   {
     "id": 312,
-    "c": "Appunti",
-    "q": "Quale fattore riduce drasticamente l'obbedienza distruttiva negli esperimenti di Milgram?",
+    "c": "appunti",
+    "q": "Nel modello ELM, il percorso centrale di persuasione viene attivato quando:",
     "options": [
-      "L'aumento del voltaggio delle scosse elettriche",
-      "La vicinanza fisica della vittima o il disaccordo tra due autorità (sperimentatori)",
-      "L'utilizzo di un camice grigio invece che bianco da parte dello sperimentatore",
-      "Il sesso maschile dei partecipanti"
+      "Il ricevente è distratto e non ha interesse verso l'argomento trattato nel messaggio",
+      "L'individuo ha sia la motivazione che la capacità cognitiva per elaborare i dati",
+      "La fonte del messaggio è molto attraente fisicamente o gode di grande popolarità",
+      "Il messaggio pubblicitario è molto breve e si basa esclusivamente sulle immagini"
     ],
     "correct": 1
   },
   {
     "id": 313,
-    "c": "Appunti",
-    "q": "Secondo Moscovici, qual è la caratteristica comportamentale fondamentale affinché una minoranza possa esercitare influenza (conversione) sulla maggioranza?",
+    "c": "appunti",
+    "q": "Il concetto di 'Social Proof' (Riprova Sociale) suggerisce che le persone:",
     "options": [
-      "La coerenza (sincronica e diacronica) o consistenza nel tempo",
-      "L'aggressività verbale e la dominanza",
-      "Il numero elevato di membri della minoranza",
-      "L'uso di incentivi economici"
+      "Cercano di distinguersi dagli altri acquistando prodotti unici e personalizzati",
+      "Osservano il comportamento altrui per decidere come agire in situazioni incerte",
+      "Evitano di comprare prodotti che sono stati già acquistati dai propri conoscenti",
+      "Seguono le indicazioni fornite dalle autorità solo se queste offrono premi in denaro"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 314,
-    "c": "Appunti",
-    "q": "Che cos'è l'effetto 'Groupthink' (pensiero di gruppo) descritto da Janis?",
+    "c": "appunti",
+    "q": "L'effetto 'Dunning-Kruger' nel comportamento del consumatore indica che:",
     "options": [
-      "Un processo decisionale ottimale che sfrutta l'intelligenza collettiva",
-      "Una forma patologica di decisione in gruppi molto coesi, caratterizzata da illusione di invulnerabilità e autocensura per mantenere l'unanimità",
-      "La tendenza dei gruppi a prendere decisioni meno rischiose rispetto ai singoli individui",
-      "Il fenomeno per cui i membri del gruppo lavorano meno quando sono insieme (inerzia sociale)"
+      "Gli esperti di un settore sono spesso troppo sicuri delle proprie scelte d'acquisto",
+      "Le persone con scarse competenze tendono a sopravvalutare la propria conoscenza",
+      "Il desiderio di un prodotto cala drasticamente dopo che è stato finalmente acquistato",
+      "I consumatori più intelligenti sono quelli che dedicano più tempo alla ricerca di sconti"
     ],
     "correct": 1
   },
   {
     "id": 315,
-    "c": "Appunti",
-    "q": "La tecnica della 'porta in faccia' (door-in-the-face) si basa sul principio di:",
+    "c": "appunti",
+    "q": "La dissonanza cognitiva post-acquisto è più frequente quando:",
     "options": [
-      "Scarsità: far credere che l'offerta stia per scadere",
-      "Reciprocità: fare una richiesta eccessiva per poi ripiegare su una più piccola, percepita come una concessione",
-      "Coerenza: ottenere prima un piccolo impegno per poi chiederne uno più grande",
-      "Riprova sociale: mostrare che molti altri hanno già accettato"
+      "La scelta riguardava un prodotto di scarso valore e di uso quotidiano e ripetitivo",
+      "La decisione è stata difficile, costosa e ha comportato la rinuncia a alternative valide",
+      "Il consumatore ha ricevuto il prodotto in regalo da una persona cara per un'occasione",
+      "Il punto vendita era molto affollato e il personale non è stato abbastanza cordiale"
     ],
     "correct": 1
   },
   {
     "id": 316,
-    "c": "Appunti",
-    "q": "Qual è l'effetto della 'mera esposizione' (Mere Exposure Effect) studiato da Zajonc?",
+    "c": "appunti",
+    "q": "Cos'è il 'Need for Cognition' in psicologia dei consumi?",
     "options": [
-      "L'esposizione ripetuta a uno stimolo neutro o positivo tende ad aumentare il gradimento verso di esso",
-      "L'esposizione prolungata a un messaggio persuasivo ne riduce l'efficacia per noia",
-      "L'esposizione a stimoli subliminali provoca cambiamenti immediati nel comportamento d'acquisto",
-      "L'esposizione a prodotti di lusso riduce l'autostima del consumatore"
+      "Il bisogno fisiologico di nutrirsi dopo aver svolto un'attività mentale intensa",
+      "La tendenza individuale a impegnarsi e a provare piacere in attività di pensiero",
+      "La necessità di ricevere approvazione sociale dopo aver espresso un'opinione",
+      "Il desiderio di acquistare prodotti tecnologici di ultima generazione ogni anno"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 317,
-    "c": "Appunti",
-    "q": "Nel contesto della persuasione, cosa sostiene l'ipotesi dell'effetto 'dormiente' (sleeper effect)?",
+    "c": "appunti",
+    "q": "L'effetto 'Framing' dimostra che le persone sono 'avverse alle perdite' quando:",
     "options": [
-      "Un messaggio persuasivo è più efficace se ascoltato durante il rilassamento",
-      "L'efficacia di un messaggio proveniente da una fonte poco credibile può aumentare nel tempo perché si dissocia il contenuto dalla fonte",
-      "Le persone tendono a dimenticare i messaggi pubblicitari dopo 24 ore",
-      "I messaggi subliminali agiscono durante il sonno"
+      "Devono scegliere tra due opzioni presentate in termini di potenziali guadagni",
+      "Viene loro prospettata la possibilità di perdere qualcosa di certo o acquisito",
+      "Il prezzo del prodotto viene scontato del 50% solo per un periodo limitato",
+      "Il brand garantisce la restituzione del denaro in caso di insoddisfazione totale"
     ],
     "correct": 1
   },
   {
     "id": 318,
-    "c": "Appunti",
-    "q": "L'euristica della 'disponibilità' porta le persone a stimare la probabilità di un evento basandosi su:",
+    "c": "appunti",
+    "q": "Nel neuromarketing, l'uso dell'EEG (Elettroencefalogramma) serve a rilevare:",
     "options": [
-      "La somiglianza dell'evento con un prototipo mentale",
-      "La facilità con cui esempi o casi specifici vengono recuperati dalla memoria",
-      "Il calcolo statistico delle frequenze relative",
-      "L'ancoraggio a un valore numerico iniziale"
+      "I movimenti oculari esatti durante la scansione di una pagina web o di un logo",
+      "Le variazioni dell'attività elettrica cerebrale legate all'attenzione e all'emozione",
+      "Il grado di sudorazione dei palmi delle mani in risposta a uno stimolo pauroso",
+      "La dilatazione delle pupille quando il soggetto osserva un prodotto desiderabile"
     ],
     "correct": 1
   },
   {
     "id": 319,
-    "c": "Appunti",
-    "q": "Secondo la teoria della prospettiva (Prospect Theory) e l'effetto framing, le persone tendono ad essere:",
+    "c": "appunti",
+    "q": "Il 'Bias di Conferma' spinge il consumatore a cercare informazioni che:",
     "options": [
-      "Indifferenti al rischio sia in contesti di guadagno che di perdita",
-      "Propense al rischio in contesti di guadagno e avverse al rischio in contesti di perdita",
-      "Avverse al rischio in contesti di guadagno (guadagno sicuro) e propense al rischio in contesti di perdita (evitare la perdita certa)",
-      "Sempre razionali nelle loro scelte economiche"
+      "Smentiscano le sue convinzioni precedenti per permettergli di imparare cose nuove",
+      "Convalidino le sue opinioni preesistenti ignorando i dati che le contraddicono",
+      "Siano le più aggiornate e scientifiche possibili indipendentemente dalla fonte",
+      "Vengano fornite da marchi concorrenti per fare un confronto equo e oggettivo"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 320,
-    "c": "Appunti",
-    "q": "Il fenomeno della 'polarizzazione di gruppo' suggerisce che, dopo una discussione di gruppo:",
+    "c": "appunti",
+    "q": "Qual è lo scopo delle tecniche proiettive (es. completamento di frasi) nelle ricerche?",
     "options": [
-      "Le opinioni dei membri tendono a convergere verso una media moderata",
-      "Le posizioni iniziali dei membri tendono a estremizzarsi nella direzione verso cui erano già orientati",
-      "Il gruppo si divide in due sottogruppi opposti senza raggiungere un accordo",
-      "Le decisioni prese sono sempre più conservative e prudenti"
+      "Misurare con precisione millimetrica i tempi di reazione motoria degli intervistati",
+      "Aggirare le difese razionali per far emergere sentimenti e associazioni profonde",
+      "Identificare i consumatori che mentono volontariamente per ottenere dei premi",
+      "Semplificare il lavoro del ricercatore riducendo il tempo necessario per l'analisi"
     ],
     "correct": 1
   },
   {
     "id": 321,
-    "c": "Appunti",
-    "q": "In ambito di neuromarketing, quale vantaggio offre l'uso di tecniche come l'EEG o l'eye-tracking rispetto ai questionari tradizionali?",
+    "c": "appunti",
+    "q": "L'effetto 'Decoy' (Esca) si basa sull'inserimento di una terza opzione che:",
     "options": [
-      "Costi molto più bassi e facilità di somministrazione",
-      "Capacità di misurare reazioni fisiologiche e processi attentivi non consapevoli o difficilmente verbalizzabili",
-      "Possibilità di intervistare campioni di migliaia di persone contemporaneamente",
-      "Garanzia che il soggetto acquisterà sicuramente il prodotto"
+      "È chiaramente superiore alle altre due per rapporto qualità-prezzo e utilità",
+      "È asimmetricamente dominata da una delle due opzioni per favorirne la scelta",
+      "Serve a confondere il consumatore spingendolo a non acquistare alcun prodotto",
+      "Ha un prezzo talmente basso da rendere sospetta la qualità reale dell'offerta"
     ],
     "correct": 1
   },
   {
     "id": 322,
-    "c": "Appunti",
-    "q": "Quale euristica spiega perché il prezzo di un prodotto scontato ci appare molto conveniente se confrontato con il prezzo pieno barrato (prezzo di riferimento)?",
+    "c": "appunti",
+    "q": "Cosa afferma la Teoria dell'Autopercezione di Bem?",
     "options": [
-      "Euristica dell'ancoraggio e aggiustamento",
-      "Euristica della rappresentatività",
-      "Euristica della disponibilità",
-      "Euristica dell'affetto"
+      "Le persone conoscono i propri stati interni attraverso un'introspezione profonda",
+      "Gli individui deducono i propri atteggiamenti osservando il proprio comportamento",
+      "L'autostima dipende esclusivamente dai feedback positivi ricevuti dal gruppo",
+      "Il concetto di sé è fisso e non può essere influenzato dalle azioni quotidiane"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 323,
-    "c": "Appunti",
-    "q": "Cosa si intende per 'cecità al cambiamento' (change blindness) nel contesto dell'attenzione?",
+    "c": "appunti",
+    "q": "Il 'Nudging' si distingue dalla manipolazione perché:",
     "options": [
-      "L'incapacità di notare cambiamenti macroscopici nella scena visiva quando l'attenzione è interrotta o focalizzata altrove",
-      "La difficoltà a cambiare opinione politica dopo i 30 anni",
-      "Il rifiuto di accettare innovazioni tecnologiche",
-      "La tendenza a non notare i banner pubblicitari sui lati delle pagine web"
+      "Utilizza messaggi subliminali che il consumatore non può percepire consciamente",
+      "Mantiene la libertà di scelta del soggetto senza proibire alcuna opzione",
+      "Obbliga legalmente i cittadini a comportarsi in modo etico e responsabile",
+      "Viene utilizzato solo da aziende pubbliche e mai da brand a scopo di lucro"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 324,
-    "c": "Appunti",
-    "q": "Il principio di 'scarsità' di Cialdini ('Solo pochi pezzi rimasti!', 'Offerta a tempo limitato') fa leva psicologicamente su:",
+    "c": "appunti",
+    "q": "Nell'esperimento di Milgram, l'obbedienza era legata principalmente a:",
     "options": [
-      "Il desiderio di conformarsi alla massa",
-      "La paura della perdita (loss aversion) e il desiderio di unicità/libertà di scelta (reattanza)",
-      "La norma della reciprocità",
-      "L'autorità del venditore"
+      "La presenza di un premio in denaro per chi portava a termine il compito",
+      "La percezione di autorità della fonte che impartiva gli ordini ai soggetti",
+      "L'aggressività innata dei partecipanti che desideravano infliggere dolore",
+      "La mancanza di istruzione dei soggetti coinvolti nella ricerca sperimentale"
     ],
     "correct": 1
   },
   {
     "id": 325,
-    "c": "Appunti",
-    "q": "Nella ricerca di mercato qualitativa, qual è la caratteristica distintiva del 'Focus Group'?",
+    "c": "appunti",
+    "q": "L'effetto 'Endowment' (Dotazione) suggerisce che le persone valutano di più un bene:",
     "options": [
-      "L'osservazione del consumatore nel suo ambiente naturale senza interazione",
-      "L'interazione dinamica tra un piccolo gruppo di partecipanti guidati da un moderatore per far emergere opinioni e motivazioni",
-      "La somministrazione di un questionario a risposta chiusa a un ampio campione",
-      "L'analisi dei big data provenienti dai social network"
+      "Quando appartiene a una persona famosa o a un leader d'opinione stimato",
+      "Per il semplice fatto di possederlo o di considerarlo come proprio",
+      "Quando il bene è difficile da reperire sul mercato a causa della scarsità",
+      "Se il bene è stato acquistato a un prezzo molto più alto di quello di listino"
     ],
     "correct": 1
   },
   {
     "id": 326,
-    "c": "Appunti",
-    "q": "Qual è il limite principale dei metodi basati sul self-report (come sondaggi e interviste) nello studio del consumatore?",
+    "c": "appunti",
+    "q": "Cosa si intende per 'Etnocentrismo del consumatore'?",
     "options": [
-      "Sono troppo costosi rispetto alle tecniche di neuromarketing",
-      "I partecipanti possono non essere consapevoli delle proprie vere motivazioni o possono mentire per desiderabilità sociale",
-      "Non è possibile analizzare i dati in modo quantitativo",
-      "Non possono essere somministrati online"
+      "La passione per il viaggio e per l'acquisto di prodotti tipici di culture lontane",
+      "La preferenza per i prodotti del proprio paese per ragioni di orgoglio nazionale",
+      "L'odio ingiustificato verso i marchi globali che operano in regime di monopolio",
+      "Il desiderio di imitare i consumi delle classi sociali più elevate della nazione"
     ],
     "correct": 1
   },
   {
     "id": 327,
-    "c": "Appunti",
-    "q": "L'esperimento di Sherif sull'effetto autocinetico dimostra la genesi delle norme sociali in situazioni di:",
+    "c": "appunti",
+    "q": "Il modello AIDA descrive le fasi che portano all'acquisto come:",
     "options": [
-      "Evidenza oggettiva e chiarezza percettiva",
-      "Ambiguità e incertezza oggettiva",
-      "Conflitto esplicito tra gruppi rivali",
-      "Pressione gerarchica da parte di un leader autoritario"
+      "Attenzione, Interesse, Desiderio, Azione",
+      "Apprendimento, Impegno, Dedizione, Amicizia",
+      "Analisi, Intuizione, Decisione, Approvazione",
+      "Associazione, Immagine, Dubbio, Acquisto"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": 328,
-    "c": "Appunti",
-    "q": "Secondo il principio della 'riprova sociale' (social proof), in quali condizioni siamo più propensi a imitare il comportamento degli altri?",
+    "c": "appunti",
+    "q": "In termini di memoria, lo 'chunking' è una strategia che consiste nel:",
     "options": [
-      "Quando siamo sicuri di noi stessi e la situazione è chiara",
-      "Quando la situazione è incerta/ambigua e gli altri sono percepiti come simili a noi",
-      "Quando gli altri si comportano in modo diverso dai nostri valori",
-      "Quando siamo da soli e nessuno ci osserva"
+      "Ripetere ad alta voce un'informazione finché non viene memorizzata stabilmente",
+      "Raggruppare singoli elementi in unità più grandi e dotate di significato",
+      "Cancellare i ricordi negativi legati a un marchio per sostituirli con positivi",
+      "Associare un'immagine visiva a un odore particolare per facilitare il ricordo"
     ],
     "correct": 1
   },
   {
     "id": 329,
-    "c": "Appunti",
-    "q": "Nel contesto della persuasione, l'uso di un appello alla paura (fear arousing appeal) è efficace se:",
+    "c": "appunti",
+    "q": "Cosa indica il termine 'Customer Satisfaction'?",
     "options": [
-      "Il livello di paura è estremo e terrorizzante",
-      "Il livello di paura è moderato e viene fornita una soluzione chiara e fattibile per evitare il pericolo",
-      "Non viene fornita alcuna soluzione, lasciando al soggetto l'elaborazione",
-      "Viene utilizzato solo con persone ansiose"
+      "Il numero totale di clienti che entrano in un negozio in un singolo giorno",
+      "Il rapporto tra le aspettative del cliente e le prestazioni percepite del bene",
+      "La quantità di denaro che un consumatore è disposto a spendere per un brand",
+      "Il tempo medio che un utente trascorre sul sito web di un'azienda specifica"
     ],
     "correct": 1
   },
   {
     "id": 330,
-    "c": "Appunti",
-    "q": "Che cos'è l'effetto 'Endowment' (effetto dotazione)?",
+    "c": "appunti",
+    "q": "L'effetto 'Sunk Cost' (Costi Sommersi) spinge le persone a:",
     "options": [
-      "La tendenza a valutare maggiormente un oggetto per il solo fatto di possederlo",
-      "La tendenza a preferire prodotti gratuiti",
-      "La capacità di un'azienda di dotarsi di strumenti tecnologici",
-      "L'aumento della domanda all'aumentare del prezzo (bene di Veblen)"
+      "Abbandonare un progetto non appena si rendono conto che non è più redditizio",
+      "Continuare un'attività solo perché hanno già investito tempo o denaro in essa",
+      "Cercare sempre l'opzione più economica per evitare di sprecare le proprie risorse",
+      "Regalare i beni che non utilizzano più per ridurre il disordine nella propria casa"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 331,
-    "c": "Appunti",
-    "q": "Secondo la teoria funzionale degli atteggiamenti di Daniel Katz, quale funzione svolge un atteggiamento che protegge l'individuo da sentimenti negativi verso se stesso o da minacce esterne?",
+    "c": "appunti",
+    "q": "Quale funzione degli atteggiamenti, secondo Katz, aiuta a minimizzare le punizioni e massimizzare le ricompense?",
     "options": [
-      "Funzione utilitaristica",
-      "Funzione di espressione dei valori",
       "Funzione ego-difensiva",
-      "Funzione di conoscenza"
+      "Funzione utilitaristica",
+      "Funzione di conoscenza",
+      "Funzione di valore"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 332,
-    "c": "Appunti",
-    "q": "Nella teoria della Dissonanza Cognitiva di Festinger, qual è la strategia principale per ridurre il disagio quando il comportamento non può essere modificato?",
+    "c": "appunti",
+    "q": "Nella teoria della dissonanza cognitiva, se non è possibile cambiare il comportamento, l'individuo tende a:",
     "options": [
-      "Aumentare l'importanza degli elementi dissonanti",
-      "Modificare l'atteggiamento o la cognizione per renderli coerenti con il comportamento",
-      "Ignorare completamente la situazione",
-      "Cercare informazioni che confermino la dissonanza"
+      "Ignorare la fonte del disagio",
+      "Modificare le proprie opinioni",
+      "Aumentare il livello di ansia",
+      "Cercare pareri discordanti"
     ],
     "correct": 1
   },
   {
     "id": 333,
-    "c": "Appunti",
-    "q": "La tecnica di vendita 'Low-ball' (colpo basso) è efficace perché fa leva sul principio di:",
+    "c": "appunti",
+    "q": "La tecnica del 'Low-ball' si basa sul fatto che il cliente, dopo una prima accettazione:",
     "options": [
-      "Reciprocità",
-      "Impegno e coerenza",
-      "Scarsità",
-      "Simpatia"
+      "Prova un senso di gratitudine",
+      "Sente un obbligo di coerenza",
+      "Teme la scarsità del prodotto",
+      "Subisce un condizionamento"
     ],
     "correct": 1
   },
   {
     "id": 334,
-    "c": "Appunti",
-    "q": "Secondo la Teoria dell'Autopercezione di Bem, come formiamo i nostri atteggiamenti quando non abbiamo opinioni preesistenti forti?",
+    "c": "appunti",
+    "q": "Secondo la teoria di Bem, le persone deducono i propri atteggiamenti osservando:",
     "options": [
-      "Attraverso un'analisi introspettiva profonda",
-      "Osservando il nostro stesso comportamento e le circostanze in cui si verifica",
-      "Confrontandoci con il gruppo dei pari",
-      "Studiando le caratteristiche oggettive dell'oggetto"
+      "I propri valori interiori",
+      "Il proprio comportamento",
+      "Le reazioni dei propri pari",
+      "I messaggi dei mass media"
     ],
     "correct": 1
   },
   {
     "id": 335,
-    "c": "Appunti",
-    "q": "Nel modello della Probabilità di Elaborazione (ELM), quale elemento funge tipicamente da 'indice periferico'?",
+    "c": "appunti",
+    "q": "Nel modello ELM, quale di questi elementi è un tipico segnale periferico?",
     "options": [
-      "La qualità e la forza delle argomentazioni logiche",
-      "L'attrattiva o la celebrità della fonte del messaggio",
-      "La comparazione tecnica con i prodotti concorrenti",
-      "Le specifiche funzionali del prodotto"
+      "La validità delle prove",
+      "La competenza della fonte",
+      "La struttura della tesi",
+      "La logica del discorso"
     ],
     "correct": 1
   },
   {
     "id": 336,
-    "c": "Appunti",
-    "q": "Cosa postula la teoria dell'equilibrio di Heider (Balance Theory) riguardo alle triadi di relazioni (Persona, Altro, Oggetto)?",
+    "c": "appunti",
+    "q": "Secondo la Balance Theory di Heider, una triade è in equilibrio se il prodotto dei segni è:",
     "options": [
-      "Le persone cercano di mantenere relazioni equilibrate (prodotto dei segni positivo) e modificano gli atteggiamenti se c'è squilibrio",
-      "Le persone preferiscono sempre il disequilibrio perché stimola l'attenzione",
-      "L'atteggiamento verso l'oggetto è indipendente dalla relazione con l'Altro",
-      "Le relazioni sono stabili solo se tutti i segni sono negativi"
+      "Sempre uguale a zero",
+      "Di valore positivo",
+      "Di valore negativo",
+      "Sempre inconsistente"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 337,
-    "c": "Appunti",
-    "q": "L'effetto 'Framing' (incorniciamento) dimostra che le decisioni dei consumatori sono influenzate:",
+    "c": "appunti",
+    "q": "L'effetto Framing suggerisce che i consumatori reagiscono diversamente a messaggi presentati come:",
     "options": [
-      "Esclusivamente dal valore atteso matematico",
-      "Dal modo in cui le opzioni sono presentate (es. in termini di guadagni o perdite), a parità di valore oggettivo",
-      "Dalla quantità di informazioni disponibili in memoria",
-      "Dalla fedeltà alla marca"
+      "Informazioni o opinioni",
+      "Guadagni o perdite",
+      "Sconti o omaggi",
+      "Verità o finzioni"
     ],
     "correct": 1
   },
   {
     "id": 338,
-    "c": "Appunti",
-    "q": "Quale fenomeno spiega perché, dopo aver fatto un piccolo favore a qualcuno, siamo più propensi ad accettare una richiesta più grande dalla stessa persona (tecnica del 'Piede nella porta')?",
+    "c": "appunti",
+    "q": "La tecnica del 'Piede nella porta' sfrutta principalmente il principio della:",
     "options": [
-      "Il desiderio di mantenere una coerenza con l'immagine di sé come persona disponibile",
-      "Il timore di ritorsioni",
-      "La speranza di ottenere una ricompensa immediata",
-      "L'effetto della mera esposizione"
+      "Reciprocità sociale",
+      "Autopercezione di sé",
+      "Pressione del gruppo",
+      "Autorità percepita"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 339,
-    "c": "Appunti",
-    "q": "In ambito di neuromarketing, cosa misura la conduttanza cutanea (GSR/EDA)?",
+    "c": "appunti",
+    "q": "Cosa misura tecnicamente la conduttanza cutanea (GSR) in un test di neuromarketing?",
     "options": [
-      "La valenza positiva o negativa dell'emozione",
-      "Il livello di attivazione fisiologica (arousal) ed emotiva",
-      "La direzione dello sguardo",
-      "L'attività cognitiva della corteccia prefrontale"
+      "La valenza edonica",
+      "L'attivazione emotiva",
+      "La capacità mnemonica",
+      "L'attenzione visiva"
     ],
     "correct": 1
   },
   {
     "id": 340,
-    "c": "Appunti",
-    "q": "La legge di Weber-Fechner e il concetto di JND (Just Noticeable Difference) sono fondamentali per decidere:",
+    "c": "appunti",
+    "q": "La JND (Just Noticeable Difference) è la quantità minima di cambiamento necessaria per:",
     "options": [
-      "Il budget pubblicitario",
-      "Di quanto variare il prezzo o la dimensione di un prodotto affinché il cambiamento sia percepito (o non percepito) dai consumatori",
-      "Quali colori utilizzare nel logo",
-      "Quale testimonial scegliere"
+      "Acquistare il prodotto",
+      "Percepire la differenza",
+      "Dimenticare il prezzo",
+      "Apprezzare il brand"
     ],
     "correct": 1
   },
   {
     "id": 341,
-    "c": "Appunti",
-    "q": "Secondo la Teoria dell'Identità Sociale (Tajfel), il 'favoritismo per l'ingroup' si verifica:",
+    "c": "appunti",
+    "q": "Negli esperimenti sui 'gruppi minimi', Tajfel dimostrò che il favoritismo per l'ingroup nasce da:",
     "options": [
-      "Solo dopo anni di conoscenza reciproca tra i membri",
-      "Anche in condizioni di 'gruppi minimi', basati su categorizzazioni arbitrarie e senza interazione diretta",
-      "Solo quando c'è un conflitto per risorse limitate (teoria del conflitto realistico)",
-      "Esclusivamente nei gruppi religiosi o politici"
+      "Interessi economici",
+      "Semplice categorizzazione",
+      "Competizione diretta",
+      "Amicizia pregressa"
     ],
     "correct": 1
   },
   {
     "id": 342,
-    "c": "Appunti",
-    "q": "Quale bias cognitivo porta i consumatori a cercare e interpretare le informazioni in modo da sostenere le proprie convinzioni preesistenti?",
+    "c": "appunti",
+    "q": "Il Bias di Conferma porta il consumatore a dare maggiore peso alle informazioni che:",
     "options": [
-      "Bias di conferma (Confirmation Bias)",
-      "Bias del senno di poi",
-      "Effetto alone",
-      "Euristica della disponibilità"
+      "Sono nuove e originali",
+      "Supportano le sue idee",
+      "Contrastano i suoi dubbi",
+      "Provengono da esperti"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 343,
-    "c": "Appunti",
-    "q": "La 'cecità attenzionale' (inattentional blindness) dimostrata dall'esperimento del 'gorilla invisibile' suggerisce che:",
+    "c": "appunti",
+    "q": "L'esperimento del 'Gorilla Invisibile' è un classico esempio di:",
     "options": [
-      "Vediamo tutto ciò che rientra nel nostro campo visivo",
-      "L'attenzione è una risorsa limitata e possiamo non percepire stimoli evidenti se siamo concentrati su altro",
-      "I messaggi subliminali sono molto efficaci",
-      "Le donne hanno una capacità attentiva superiore agli uomini"
+      "Percezione subliminale",
+      "Cecità attenzionale",
+      "Memoria a breve termine",
+      "Distorsione ottica"
     ],
     "correct": 1
   },
   {
     "id": 344,
-    "c": "Appunti",
-    "q": "Nella persuasione, cosa si intende per 'reattanza psicologica'?",
+    "c": "appunti",
+    "q": "La reattanza psicologica si manifesta quando l'individuo sente che la propria libertà è:",
     "options": [
-      "L'accettazione passiva di un messaggio",
-      "Uno stato di motivazione negativa che sorge quando una persona sente minacciata la propria libertà di scelta, portando spesso a fare l'opposto di quanto richiesto",
-      "La capacità di reagire velocemente agli stimoli visivi",
-      "L'abitudine a rispondere ai sondaggi telefonici"
+      "Supportata",
+      "Minacciata",
+      "Ignorata",
+      "Premiata"
     ],
     "correct": 1
   },
   {
     "id": 345,
-    "c": "Appunti",
-    "q": "Il 'paradosso della scelta' (Choice Overload) studiato da Iyengar e Lepper (esperimento delle marmellate) indica che:",
+    "c": "appunti",
+    "q": "L'eccessiva varietà di scelta (Choice Overload) ha come effetto principale quello di:",
     "options": [
-      "Più opzioni ci sono, più il consumatore è felice e acquista",
-      "Un numero eccessivo di opzioni può ridurre la motivazione all'acquisto e la soddisfazione post-decisionale",
-      "I consumatori preferiscono sempre avere almeno 50 varianti di un prodotto",
-      "La varietà non ha alcun impatto sulle vendite"
+      "Aumentare gli acquisti",
+      "Generare paralisi",
+      "Migliorare la fedeltà",
+      "Ridurre i prezzi"
     ],
     "correct": 1
   },
   {
     "id": 346,
-    "c": "Appunti",
-    "q": "Che ruolo hanno le 'norme descrittive' nel comportamento sociale?",
+    "c": "appunti",
+    "q": "Le norme descrittive si basano sulla percezione di ciò che gli altri:",
     "options": [
-      "Indicano ciò che la gente dovrebbe fare secondo la morale",
-      "Informano su ciò che la maggior parte delle persone fa realmente in una data situazione",
-      "Sono leggi scritte sanzionabili penalmente",
-      "Descrivono le caratteristiche tecniche di un prodotto"
+      "Dovrebbero fare",
+      "Fanno realmente",
+      "Dicono di fare",
+      "Vietano di fare"
     ],
     "correct": 1
   },
   {
     "id": 347,
-    "c": "Appunti",
-    "q": "L'effetto 'Alone' (Halo Effect) si verifica quando:",
+    "c": "appunti",
+    "q": "L'effetto alone (Halo Effect) consiste nel generalizzare una valutazione partendo da:",
     "options": [
-      "La valutazione di una singola caratteristica positiva (es. bellezza) influenza positivamente il giudizio globale su una persona o prodotto (es. intelligenza, qualità)",
-      "Un prodotto viene ritirato dal mercato",
-      "Si percepisce una luce attorno agli oggetti desiderati",
-      "Il consumatore si sente in colpa dopo l'acquisto"
+      "Un'analisi logica",
+      "Un singolo tratto",
+      "Un'esperienza lunga",
+      "Un parere esterno"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 348,
-    "c": "Appunti",
-    "q": "Nel modello della 'Protection Motivation Theory', l'efficacia di un appello alla paura dipende crucialmente da:",
+    "c": "appunti",
+    "q": "Affinché un 'fear appeal' funzioni, il consumatore deve sentire di avere:",
     "options": [
-      "Quanto è spaventosa l'immagine mostrata",
-      "La percezione di autoefficacia (posso attuare il comportamento raccomandato) e l'efficacia della risposta (il comportamento risolve il problema)",
-      "La durata del messaggio pubblicitario",
-      "L'uso di musica di sottofondo drammatica"
+      "Molto coraggio",
+      "Alta autoefficacia",
+      "Poca sensibilità",
+      "Grandi risorse"
     ],
     "correct": 1
   },
   {
     "id": 349,
-    "c": "Appunti",
-    "q": "Cos'è l'euristica della 'rappresentatività'?",
+    "c": "appunti",
+    "q": "L'euristica della rappresentatività porta a giudicare la probabilità in base alla:",
     "options": [
-      "La tendenza a stimare la probabilità che un oggetto appartenga a una categoria basandosi su quanto somiglia al prototipo di quella categoria, ignorando le probabilità di base",
-      "La tendenza a ricordare meglio i primi elementi di una lista",
-      "La capacità di un venditore di rappresentare l'azienda",
-      "Il calcolo razionale dei costi e benefici"
+      "Statistica reale",
+      "Somiglianza a un prototipo",
+      "Frequenza di accadimento",
+      "Facilità di ricordo"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 350,
-    "c": "Appunti",
-    "q": "La fallacia dei 'costi sommersi' (Sunk Cost Fallacy) spinge le persone a:",
+    "c": "appunti",
+    "q": "La Sunk Cost Fallacy spinge a continuare un investimento a causa delle risorse già:",
     "options": [
-      "Interrompere immediatamente un progetto fallimentare",
-      "Continuare un comportamento o un investimento solo perché vi hanno già investito risorse (tempo, denaro), anche se le prospettive future sono negative",
-      "Calcolare accuratamente il budget per il futuro",
-      "Preferire sempre i prodotti in saldo"
+      "Promesse",
+      "Impiegate",
+      "Guadagnate",
+      "Risparmiate"
     ],
     "correct": 1
   },
   {
     "id": 351,
-    "c": "Appunti",
-    "q": "Quale dei seguenti è un esempio di 'condizionamento classico' (Pavlov) nella pubblicità?",
+    "c": "appunti",
+    "q": "Il condizionamento classico in pubblicità associa un brand a uno stimolo:",
     "options": [
-      "Offrire un buono sconto per ogni acquisto effettuato",
-      "Associare ripetutamente un prodotto neutro a uno stimolo piacevole (es. musica, paesaggio attraente) per trasferire il gradimento al prodotto",
-      "Spiegare i vantaggi tecnici del prodotto",
-      "Minacciare il consumatore di conseguenze negative"
+      "Razionale",
+      "Incondizionato",
+      "Verbale",
+      "Neutro"
     ],
     "correct": 1
   },
   {
     "id": 352,
-    "c": "Appunti",
-    "q": "La 'contabilità mentale' (Mental Accounting) teorizzata da Thaler suggerisce che:",
+    "c": "appunti",
+    "q": "La contabilità mentale (Mental Accounting) suggerisce che il denaro non è:",
     "options": [
-      "Il denaro è fungibile e ogni euro ha lo stesso valore",
-      "Le persone categorizzano il denaro in 'conti' mentali separati (es. denaro per svago, risparmi) e spendono diversamente a seconda della categoria di provenienza",
-      "I consumatori tengono traccia scritta di ogni spesa",
-      "Le decisioni finanziarie sono puramente razionali"
+      "Utile",
+      "Fungibile",
+      "Stabile",
+      "Materiale"
     ],
     "correct": 1
   },
   {
     "id": 353,
-    "c": "Appunti",
-    "q": "Nello studio di Zimbardo (Prigione di Stanford), quale processo psicologico ha portato al comportamento estremo delle guardie?",
+    "c": "appunti",
+    "q": "Nell'esperimento di Stanford, il comportamento dei soggetti era guidato da:",
     "options": [
-      "La deindividuazione e l'assunzione del ruolo sociale prescritto",
-      "La psicopatologia preesistente dei partecipanti",
-      "La promessa di un compenso economico elevato",
-      "L'influenza delle minoranze"
+      "Tratti genetici",
+      "Ruoli sociali",
+      "Premi in denaro",
+      "Livello culturale"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 354,
-    "c": "Appunti",
-    "q": "L'effetto 'Decoy' (effetto esca) nel marketing consiste nel:",
+    "c": "appunti",
+    "q": "L'effetto esca (Decoy Effect) mira a rendere più attraente un'opzione inserendone una:",
     "options": [
-      "Introdurre una terza opzione asimmetricamente dominata per rendere una delle altre due opzioni più attraente",
-      "Nascondere il prezzo fino alla cassa",
-      "Utilizzare prodotti falsi nelle vetrine",
-      "Ingannare il consumatore sulle caratteristiche del prodotto"
+      "Migliore",
+      "Dominata",
+      "Identica",
+      "Economica"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 355,
-    "c": "Appunti",
-    "q": "Quale concetto spiega perché il prezzo di 99€ sembra significativamente più basso di 100€ (effetto cifra a sinistra)?",
+    "c": "appunti",
+    "q": "I prezzi che finiscono con ',99' sfruttano un errore di codifica legato alla:",
     "options": [
-      "Codifica simbolica e attenzione selettiva alla prima cifra letta",
-      "Errore di stampa",
-      "Generosità del venditore",
-      "Tassazione differente"
+      "Ultima cifra",
+      "Prima cifra",
+      "Cifra centrale",
+      "Somma totale"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 356,
-    "c": "Appunti",
-    "q": "La tecnica proiettiva (es. completamento di frasi, associazione di parole) nelle ricerche di mercato serve a:",
+    "c": "appunti",
+    "q": "Le tecniche proiettive vengono utilizzate per far emergere contenuti:",
     "options": [
-      "Misurare i dati demografici",
-      "Aggirare le difese razionali e far emergere sentimenti, motivazioni inconsce o associazioni latenti",
-      "Verificare la memoria a breve termine",
-      "Calcolare la quota di mercato"
+      "Statistici",
+      "Latenti",
+      "Razionali",
+      "Consapevoli"
     ],
     "correct": 1
   },
   {
     "id": 357,
-    "c": "Appunti",
-    "q": "L'effetto 'Priming' si riferisce a:",
+    "c": "appunti",
+    "q": "Il priming consiste nell'attivazione di concetti che influenzano:",
     "options": [
-      "La preferenza per il primo marchio visto in un negozio",
-      "L'attivazione temporanea di concetti o schemi mentali che influenza l'elaborazione successiva delle informazioni e il comportamento",
-      "La strategia di aumentare i prezzi durante il lancio",
-      "La fedeltà alla marca principale"
+      "Il prezzo futuro",
+      "Il comportamento",
+      "La vista fisica",
+      "L'udito selettivo"
     ],
     "correct": 1
   },
   {
     "id": 358,
-    "c": "Appunti",
-    "q": "Secondo la teoria della 'Difesa dell'atteggiamento' (Inoculation Theory) di McGuire, come si rende una persona resistente alla persuasione concorrente?",
+    "c": "appunti",
+    "q": "L'Inoculation Theory di McGuire suggerisce di proteggere le opinioni tramite:",
     "options": [
-      "Evitando che venga esposta a qualsiasi contro-argomentazione",
-      "Esponendola a deboli attacchi alle sue opinioni e fornendo gli argomenti per confutarli, come un vaccino",
-      "Aumentando la sua autostima",
-      "Dandole premi in denaro"
+      "Censura totale",
+      "Deboli attacchi",
+      "Premi costanti",
+      "Silenzio assoluto"
     ],
     "correct": 1
   },
   {
     "id": 359,
-    "c": "Appunti",
-    "q": "La 'Validità Ecologica' di una ricerca sui consumi si riferisce a:",
+    "c": "appunti",
+    "q": "La validità ecologica indica quanto una ricerca sia applicabile al:",
     "options": [
-      "Quanto i risultati ottenuti in laboratorio sono generalizzabili alla vita reale e ai contesti naturali di acquisto",
-      "L'uso di materiali riciclabili durante lo studio",
-      "La correttezza statistica dei calcoli",
-      "La dimensione del campione intervistato"
+      "Budget aziendale",
+      "Mondo reale",
+      "Metodo statistico",
+      "Quadro normativo"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 360,
-    "c": "Appunti",
-    "q": "Il 'Nudging' (spinta gentile) si basa sull'idea di:",
+    "c": "appunti",
+    "q": "Il Nudging agisce sull'architettura delle scelte senza ricorrere a:",
     "options": [
-      "Proibire le scelte nocive per la salute",
-      "Modificare l'architettura delle scelte per orientare i comportamenti verso opzioni migliori senza vietare nulla",
-      "Pagare i consumatori per comportarsi bene",
-      "Utilizzare messaggi subliminali coercitivi"
+      "Consigli",
+      "Divieti",
+      "Suggerimenti",
+      "Opzioni"
     ],
     "correct": 1
   },
   {
     "id": 361,
-    "c": "Appunti",
-    "q": "Che cosa indica il termine 'Cecità al banner' (Banner Blindness)?",
+    "c": "appunti",
+    "q": "Il fenomeno della Banner Blindness è una forma di:",
     "options": [
-      "Un difetto visivo causato dagli schermi",
-      "La tendenza inconscia degli utenti web a ignorare le aree della pagina che assomigliano a pubblicità",
-      "L'impossibilità tecnica di caricare le immagini",
-      "La preferenza per i banner testuali rispetto a quelli grafici"
+      "Miopia visiva",
+      "Attenzione selettiva",
+      "Memoria scarsa",
+      "Rifiuto etico"
     ],
     "correct": 1
   },
   {
     "id": 362,
-    "c": "Appunti",
-    "q": "Nell'apprendimento per osservazione (Bandura), il 'Modellamento' (Modeling) avviene quando:",
+    "c": "appunti",
+    "q": "Nel modellamento di Bandura, l'apprendimento avviene tramite:",
     "options": [
-      "Il consumatore crea un modello 3D del prodotto",
-      "L'individuo imita il comportamento di un modello (es. testimonial, influencer) vedendo le conseguenze (rinforzo vicario) che ottiene",
-      "Si costruisce un plastico del negozio",
-      "Si impara per tentativi ed errori diretti"
+      "Ripetizione mnemonica",
+      "Osservazione",
+      "Analisi tecnica",
+      "Riflessi innati"
     ],
     "correct": 1
   },
   {
     "id": 363,
-    "c": "Appunti",
-    "q": "Il principio di 'Chiusura' della Gestalt spiega perché:",
+    "c": "appunti",
+    "q": "Il principio della Chiusura spiega perché completiamo mentalmente delle:",
     "options": [
-      "I negozi chiudono a una certa ora",
-      "Percepiamo forme incomplete (es. un logo tratteggiato) come intere, riempiendo mentalmente le parti mancanti",
-      "Preferiamo le confezioni sigillate",
-      "La memoria svanisce col tempo"
+      "Frasi lunghe",
+      "Forme interrotte",
+      "Azioni logiche",
+      "Storie antiche"
     ],
     "correct": 1
   },
   {
     "id": 364,
-    "c": "Appunti",
-    "q": "L'effetto 'Placebo' nel marketing (es. esperimento sul vino) dimostra che:",
+    "c": "appunti",
+    "q": "L'effetto placebo nel marketing dimostra che le aspettative alterano:",
     "options": [
-      "Il prezzo o il marchio possono alterare l'esperienza sensoriale e la percezione della qualità del prodotto",
-      "I farmaci generici non funzionano",
-      "Il gusto è l'unico senso affidabile",
-      "I consumatori non sanno distinguere i sapori"
+      "Il costo reale",
+      "L'esperienza",
+      "La disponibilità",
+      "Il packaging"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 365,
-    "c": "Appunti",
-    "q": "La 'Scala Likert' è comunemente usata per misurare:",
+    "c": "appunti",
+    "q": "La scala Likert misura l'intensità di un atteggiamento tramite il grado di:",
     "options": [
-      "Il peso dei prodotti",
-      "Il grado di accordo o disaccordo con un'affermazione relativa a un atteggiamento",
-      "Il tempo di reazione",
-      "La temperatura corporea"
+      "Frequenza",
+      "Accordo",
+      "Velocità",
+      "Ricordo"
     ],
     "correct": 1
   },
   {
     "id": 366,
-    "c": "Appunti",
-    "q": "Quale teoria spiega il consumo vistoso (Conspicuous Consumption) come mezzo per segnalare lo status sociale?",
+    "c": "appunti",
+    "q": "Il consumo vistoso analizzato da Veblen serve a comunicare:",
     "options": [
-      "Teoria della classe agiata (Veblen)",
-      "Teoria dei bisogni primari",
-      "Teoria del condizionamento operante",
-      "Teoria dell'attribuzione"
+      "Risparmio",
+      "Status",
+      "Umiltà",
+      "Cultura"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 367,
-    "c": "Appunti",
-    "q": "L'euristica dell'ancoraggio suggerisce che, in una negoziazione:",
+    "c": "appunti",
+    "q": "Nell'euristica dell'ancoraggio, il valore finale è influenzato dal:",
     "options": [
-      "È meglio far fare la prima offerta all'altro",
-      "La prima cifra menzionata funge da ancora e influenza la stima finale del valore, spostando il risultato a favore di chi l'ha proposta",
-      "Bisogna ignorare completamente i numeri",
-      "Il prezzo finale è sempre la media esatta tra le due offerte"
+      "Valore medio",
+      "Valore iniziale",
+      "Valore futuro",
+      "Valore affettivo"
     ],
     "correct": 1
   },
   {
     "id": 368,
-    "c": "Appunti",
-    "q": "Che cos'è l'etnografia nel contesto della ricerca sui consumi?",
+    "c": "appunti",
+    "q": "La ricerca etnografica sui consumi si basa principalmente sull':",
     "options": [
-      "Lo studio delle etnie tramite sondaggi telefonici",
-      "Un metodo qualitativo basato sull'osservazione partecipante e l'immersione nel contesto di vita quotidiana dei consumatori",
-      "L'analisi statistica dei dati di vendita globali",
-      "Lo studio delle reazioni cerebrali agli stimoli visivi"
+      "Esperimento",
+      "Osservazione",
+      "Intervista",
+      "Questionario"
     ],
     "correct": 1
   },
   {
     "id": 369,
-    "c": "Appunti",
-    "q": "Il concetto di 'Self-Concept' (concetto di sé) influenza i consumi perché:",
+    "c": "appunti",
+    "q": "L'acquisto di prodotti che migliorano l'immagine di sé riguarda il:",
     "options": [
-      "I consumatori acquistano prodotti che riflettono o migliorano l'immagine che hanno di sé (Sé reale o Sé ideale)",
-      "Le persone comprano solo ciò che costa poco",
-      "Il concetto di sé non cambia mai",
-      "I prodotti non hanno significato simbolico"
+      "Sé sociale",
+      "Sé ideale",
+      "Sé passato",
+      "Sé corporeo"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 370,
+    "c": "appunti",
+    "q": "L'acquisto d'impulso pianificato avviene quando il consumatore:",
+    "options": [
+      "Cerca occasioni",
+      "Sbaglia prodotto",
+      "Dimentica la lista",
+      "Subisce pressioni"
     ],
     "correct": 0
   },
   {
-    "id": 370,
-    "c": "Appunti",
-    "q": "Cosa si intende per 'Acquisti d'impulso pianificati'?",
-    "options": [
-      "Un ossimoro senza senso",
-      "La decisione di andare a fare shopping per cercare promozioni o novità, senza sapere esattamente cosa si comprerà, ma con l'intenzione di comprare",
-      "L'acquisto di beni di prima necessità",
-      "L'acquisto online fatto per errore"
-    ],
-    "correct": 1
-  },
-  {
     "id": 371,
-    "c": "Appunti",
-    "q": "L'effetto 'Dormiente' (Sleeper Effect) è più probabile che si verifichi quando:",
+    "c": "appunti",
+    "q": "Lo Sleeper Effect consiste nel recupero di credibilità di un messaggio quando:",
     "options": [
-      "La fonte è molto credibile",
-      "Il messaggio è persuasivo ma la fonte è screditata (discounting cue), e col tempo si dimentica la fonte ricordando solo il messaggio",
-      "Il messaggio è noioso",
-      "Il consumatore è molto attento"
+      "La fonte è nota",
+      "La fonte cala",
+      "La fonte svanisce",
+      "La fonte cresce"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": 372,
-    "c": "Appunti",
-    "q": "Secondo la teoria della 'Disponibilità', perché le persone tendono a sovrastimare il rischio di incidenti aerei rispetto a quelli automobilistici?",
+    "c": "appunti",
+    "q": "Perché gli eventi vividi influenzano i giudizi di rischio? Per l'euristica della:",
     "options": [
-      "Perché gli incidenti aerei sono più frequenti",
-      "Perché gli incidenti aerei sono eventi vividi, drammatici e altamente pubblicizzati, quindi più facili da recuperare in memoria",
-      "Perché le persone odiano volare",
-      "Perché le statistiche sono false"
+      "Simulazione",
+      "Disponibilità",
+      "Ancoraggio",
+      "Rappresentatività"
     ],
     "correct": 1
   },
   {
     "id": 373,
-    "c": "Appunti",
-    "q": "Nel modello AIDA (comunicazione pubblicitaria), cosa rappresenta l'ultima 'A'?",
+    "c": "appunti",
+    "q": "Nel modello AIDA, la fase finale è definita come:",
     "options": [
-      "Attenzione",
+      "Apprendimento",
       "Azione",
-      "Attrazione",
-      "Atteggiamento"
+      "Attenzione",
+      "Associazione"
     ],
     "correct": 1
   },
   {
     "id": 374,
-    "c": "Appunti",
-    "q": "La tecnica della 'Reciprocità' (Cialdini) funziona anche con:",
+    "c": "appunti",
+    "q": "Il principio di reciprocità scatta anche quando il favore è:",
     "options": [
-      "Regali non richiesti",
-      "Solo con regali richiesti esplicitamente",
-      "Solo tra amici stretti",
-      "Solo se c'è un contratto scritto"
+      "Molto costoso",
+      "Non richiesto",
+      "Solo verbale",
+      "Obbligatorio"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 375,
-    "c": "Appunti",
-    "q": "Il 'Bias di negatività' suggerisce che:",
+    "c": "appunti",
+    "q": "Il bias di negatività indica che le informazioni negative pesano:",
     "options": [
-      "Le informazioni negative hanno un impatto maggiore e vengono ricordate più a lungo di quelle positive di pari intensità",
-      "Siamo sempre pessimisti sul futuro",
-      "Le recensioni negative non influenzano le vendite",
-      "Preferiamo i prodotti con confezioni scure"
+      "Poco",
+      "Molto",
+      "Nulla",
+      "Uguale"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 376,
-    "c": "Appunti",
-    "q": "Cos'è la 'Miopia di marketing'?",
+    "c": "appunti",
+    "q": "La miopia di marketing consiste nel trascurare:",
     "options": [
-      "Un problema alla vista dei manager",
-      "Focalizzarsi sul prodotto invece che sui bisogni del cliente che il prodotto soddisfa",
-      "Non usare gli occhiali durante le riunioni",
-      "Investire troppo in pubblicità"
+      "La logistica",
+      "I bisogni",
+      "Il prodotto",
+      "Il prezzo"
     ],
     "correct": 1
   },
   {
     "id": 377,
-    "c": "Appunti",
-    "q": "L'effetto 'Spotlight' (Riflettore) fa credere alle persone che:",
+    "c": "appunti",
+    "q": "L'effetto Spotlight riguarda la percezione della propria:",
     "options": [
-      "Le luci nei negozi siano troppo forti",
-      "Le proprie azioni e il proprio aspetto siano notati dagli altri molto più di quanto non accada realmente",
-      "Nessuno le stia guardando",
-      "I riflettori migliorino l'abbronzatura"
+      "Bellezza",
+      "Visibilità",
+      "Intelligenza",
+      "Ricchezza"
     ],
     "correct": 1
   },
   {
     "id": 378,
-    "c": "Appunti",
-    "q": "Il 'Paradosso di Easterlin' mette in relazione:",
+    "c": "appunti",
+    "q": "Il paradosso di Easterlin analizza il legame tra reddito e:",
     "options": [
-      "Reddito e Felicità (oltre una certa soglia, l'aumento del reddito non aumenta proporzionalmente la felicità)",
-      "Prezzo e Qualità",
-      "Offerta e Domanda",
-      "Pubblicità e Vendite"
+      "Consumo",
+      "Felicità",
+      "Risparmio",
+      "Lavoro"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 379,
-    "c": "Appunti",
-    "q": "In psicologia dei consumi, cosa sono gli 'archetipi' usati nel branding?",
+    "c": "appunti",
+    "q": "Gli archetipi nel branding evocano significati:",
     "options": [
-      "Modelli universali di personaggi o personalità (es. l'Eroe, il Saggio) che evocano significati profondi e condivisi",
-      "Vecchi loghi aziendali",
-      "Tipi di caratteri tipografici antichi",
-      "Errori di produzione"
+      "Tecnici",
+      "Universali",
+      "Locali",
+      "Settoriali"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 380,
-    "c": "Appunti",
-    "q": "La 'Gamification' applicata al marketing serve a:",
+    "c": "appunti",
+    "q": "La Gamification utilizza elementi ludici per aumentare il:",
     "options": [
-      "Creare videogiochi da vendere",
-      "Applicare meccaniche di gioco (punti, livelli, sfide) in contesti non ludici per aumentare il coinvolgimento e la fedeltà del cliente",
-      "Giocare d'azzardo con i prezzi",
-      "Ridurre la serietà dell'azienda"
+      "Divertimento",
+      "Coinvolgimento",
+      "Fatturato",
+      "Personale"
     ],
     "correct": 1
   },
   {
     "id": 381,
-    "c": "Appunti",
-    "q": "Secondo il modello della 'Mappa Percettiva', le aziende posizionano i propri brand su un grafico cartesiano per:",
+    "c": "appunti",
+    "q": "Una mappa percettiva serve a visualizzare il:",
     "options": [
-      "Calcolare il fatturato in base alla regione geografica",
-      "Visualizzare come il consumatore percepisce il brand rispetto ai concorrenti su specifiche dimensioni rilevanti (es. qualità/prezzo)",
-      "Determinare la rotta logistica delle spedizioni",
-      "Mappare i flussi neuronali del cervello durante l'acquisto"
+      "Budget",
+      "Posizionamento",
+      "Target",
+      "Layout"
     ],
     "correct": 1
   },
   {
     "id": 382,
-    "c": "Appunti",
-    "q": "Che cos'è l'effetto Zeigarnik e come viene applicato nel marketing?",
+    "c": "appunti",
+    "q": "L'effetto Zeigarnik suggerisce che ricordiamo meglio i compiti:",
     "options": [
-      "La tendenza a dimenticare i prezzi alti; si usa nascondendo il prezzo",
-      "La tendenza a ricordare meglio i compiti o le azioni interrotte o incomplete rispetto a quelle completate; si usa nei 'teaser' pubblicitari",
-      "La preferenza per i colori caldi; si usa nel packaging alimentare",
-      "L'imitazione dei comportamenti della folla"
+      "Facili",
+      "Incompleti",
+      "Noiosi",
+      "Gratuiti"
     ],
     "correct": 1
   },
   {
     "id": 383,
-    "c": "Appunti",
-    "q": "Nel condizionamento operante (Skinner), cos'è il 'Rinforzo Negativo'?",
+    "c": "appunti",
+    "q": "Nel condizionamento operante, il rinforzo negativo consiste nella:",
     "options": [
-      "Una punizione che scoraggia il comportamento",
-      "La rimozione di uno stimolo spiacevole al verificarsi del comportamento desiderato, aumentando la probabilità che si ripeta",
-      "Un premio di scarso valore",
-      "Il mancato acquisto del prodotto"
+      "Punizione",
+      "Sottrazione",
+      "Aggiunta",
+      "Indifferenza"
     ],
     "correct": 1
   },
   {
     "id": 384,
-    "c": "Appunti",
-    "q": "La teoria dei 'Big Five' (o OCEAN) descrive la personalità attraverso cinque tratti. Quali sono?",
+    "c": "appunti",
+    "q": "Quale di questi tratti NON fa parte dei Big Five?",
     "options": [
-      "Apertura, Coscienziosità, Estroversione, Gradevolezza, Nevroticismo",
-      "Intelligenza, Bellezza, Simpatia, Ricchezza, Potere",
-      "Analitico, Espressivo, Amabile, Direttivo, Sociale",
-      "Orale, Anale, Fallica, Latente, Genitale"
+      "Nevroticismo",
+      "Narcisismo",
+      "Gradevolezza",
+      "Estroversione"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 385,
-    "c": "Appunti",
-    "q": "Cosa sostiene la teoria della 'Congruenza del Sé' (Self-Congruity Theory)?",
+    "c": "appunti",
+    "q": "La Congruenza del Sé ipotizza che scegliamo brand simili alla nostra:",
     "options": [
-      "I consumatori preferiscono i brand che hanno una personalità simile alla propria (reale o ideale)",
-      "I consumatori cercano prodotti opposti alla loro personalità per compensare",
-      "La personalità non influenza le scelte di consumo",
-      "I brand devono essere congruenti con le leggi di mercato"
+      "Famiglia",
+      "Personalità",
+      "Ricchezza",
+      "Istruzione"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 386,
-    "c": "Appunti",
-    "q": "Quale funzione svolge la 'Memoria Semantica' nel comportamento del consumatore?",
+    "c": "appunti",
+    "q": "La memoria semantica conserva informazioni di tipo:",
     "options": [
-      "Immagazzina le esperienze personali specifiche (es. l'ultima volta che sono andato al supermercato)",
-      "Conserva le conoscenze generali sul mondo, sui significati dei simboli e sulle caratteristiche dei prodotti, indipendentemente dal contesto temporale",
-      "Gestisce i movimenti motori automatici come guidare il carrello",
-      "Dura solo pochi millisecondi"
+      "Autobiografico",
+      "Concettuale",
+      "Procedurale",
+      "Emotivo"
     ],
     "correct": 1
   },
   {
     "id": 387,
-    "c": "Appunti",
-    "q": "L'effetto 'Vampiro' nella pubblicità si verifica quando:",
+    "c": "appunti",
+    "q": "L'effetto Vampiro indica che un elemento creativo eccessivo:",
     "options": [
-      "La pubblicità viene trasmessa solo di notte",
-      "L'elemento creativo, il testimonial o l'umorismo sono così forti da distrarre l'attenzione dal prodotto o dal brand pubblicizzato",
-      "Un brand concorrente copia la strategia succhiando via quote di mercato",
-      "Il consumatore si sente spaventato dallo spot"
+      "Aiuta il brand",
+      "Danneggia il brand",
+      "Crea paura",
+      "Crea mistero"
     ],
     "correct": 1
   },
   {
     "id": 388,
-    "c": "Appunti",
-    "q": "Secondo la gerarchia dei bisogni di Maslow, i prodotti di lusso o esclusivi soddisfano tipicamente bisogni di:",
+    "c": "appunti",
+    "q": "Secondo Maslow, il bisogno di autorealizzazione si trova al livello:",
     "options": [
-      "Sicurezza e fisiologici",
-      "Stima e autorealizzazione",
-      "Appartenenza sociale di base",
-      "Semplice sopravvivenza"
+      "Base",
+      "Vertice",
+      "Medio",
+      "Secondo"
     ],
     "correct": 1
   },
   {
     "id": 389,
-    "c": "Appunti",
-    "q": "Il concetto di 'Embodied Cognition' (cognizione incarnata) suggerisce che:",
+    "c": "appunti",
+    "q": "La Embodied Cognition suggerisce che il pensiero è influenzato dal:",
     "options": [
-      "Il pensiero è un processo puramente astratto e separato dal corpo",
-      "Gli stati corporei, le sensazioni fisiche e le metafore sensoriali influenzano profondamente i processi cognitivi e le valutazioni (es. tenere una bevanda calda fa percepire gli altri come più 'caldi' umanamente)",
-      "Il corpo è solo un contenitore per il cervello",
-      "Il marketing non dovrebbe occuparsi dei sensi"
+      "Prezzo",
+      "Corpo",
+      "Logo",
+      "Socio"
     ],
     "correct": 1
   },
   {
     "id": 390,
-    "c": "Appunti",
-    "q": "Nella diffusione delle innovazioni (Rogers), chi sono gli 'Adottanti precoci' (Early Adopters)?",
+    "c": "appunti",
+    "q": "Secondo Rogers, i 'Laggards' (ritardatari) adottano l'innovazione per:",
     "options": [
-      "I primissimi a provare il prodotto, spesso amanti del rischio (Innovatori)",
-      "Leader d'opinione rispettati che adottano l'innovazione poco dopo gli innovatori, influenzando la maggioranza",
-      "Coloro che adottano il prodotto per ultimi, quando è ormai obsoleto",
-      "Coloro che rifiutano la tecnologia"
+      "Passione",
+      "Necessità",
+      "Curiosità",
+      "Status"
     ],
     "correct": 1
   },
   {
     "id": 391,
-    "c": "Appunti",
-    "q": "Cosa si intende per 'Soglia Assoluta' nella percezione sensoriale?",
+    "c": "appunti",
+    "q": "La soglia assoluta è la stimolazione minima per avere una:",
     "options": [
-      "Il livello massimo di stimolazione che un organo può sopportare",
-      "La quantità minima di intensità di uno stimolo necessaria affinché questo venga rilevato dai sensi nel 50% dei casi",
-      "Il prezzo oltre il quale nessuno compra",
-      "La differenza minima tra due stimoli"
+      "Reazione",
+      "Soglia",
+      "Sensazione",
+      "Memoria"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": 392,
-    "c": "Appunti",
-    "q": "L'effetto 'Snob' (nel contesto delle influenze sociali sui consumi) descrive:",
+    "c": "appunti",
+    "q": "L'effetto Snob porta a desiderare beni che sono:",
     "options": [
-      "La tendenza ad acquistare un bene perché lo possiedono tutti",
-      "La tendenza a ridurre la domanda di un bene quando questo diventa troppo diffuso o accessibile alla massa, per preservare la propria unicità",
-      "La preferenza per prodotti esteri",
-      "L'acquisto di prodotti solo durante i saldi"
+      "Economici",
+      "Esclusivi",
+      "Diffusi",
+      "Utili"
     ],
     "correct": 1
   },
   {
     "id": 393,
-    "c": "Appunti",
-    "q": "Quale bias cognitivo è descritto come 'Errore di pianificazione' (Planning Fallacy)?",
+    "c": "appunti",
+    "q": "La Planning Fallacy porta a sottostimare i:",
     "options": [
-      "La tendenza a sottostimare il tempo e le risorse necessarie per completare un compito futuro",
-      "La tendenza a pianificare troppo e agire poco",
-      "L'incapacità di usare un'agenda",
-      "La sovra-analisi dei dettagli irrilevanti"
+      "Costi",
+      "Tempi",
+      "Rischi",
+      "Premi"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 394,
-    "c": "Appunti",
-    "q": "Nella ricerca qualitativa, la tecnica del 'Laddering' (scaletta) serve a:",
+    "c": "appunti",
+    "q": "La tecnica del Laddering serve a collegare attributi e:",
     "options": [
-      "Costruire scale fisiche nei negozi",
-      "Risalire dagli attributi concreti di un prodotto ai benefici funzionali, fino ai valori personali profondi che motivano l'acquisto (catena mezzi-fini)",
-      "Creare una gerarchia aziendale",
-      "Misurare il tempo di risposta oculare"
+      "Prezzi",
+      "Valori",
+      "Difetti",
+      "Marchi"
     ],
     "correct": 1
   },
   {
     "id": 395,
-    "c": "Appunti",
-    "q": "Cos'è la 'Cecità al cambiamento' (Change Blindness)?",
+    "c": "appunti",
+    "q": "La Change Blindness indica la difficoltà a notare:",
     "options": [
-      "L'incapacità di notare cambiamenti rilevanti in una scena visiva quando si verifica un'interruzione momentanea",
-      "La resistenza ideologica al cambiamento sociale",
-      "Il rifiuto di cambiare marca di detersivo",
-      "La difficoltà di vedere al buio"
+      "Prezzi",
+      "Variazioni",
+      "Loghi",
+      "Sconti"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 396,
-    "c": "Appunti",
-    "q": "Secondo la 'Teoria del Prospetto' (Prospect Theory), la curva del valore è:",
+    "c": "appunti",
+    "q": "Nella Prospect Theory, le persone sono più sensibili alle:",
     "options": [
-      "Lineare e simmetrica",
-      "Più ripida nel dominio delle perdite che in quello dei guadagni (le perdite fanno più male di quanto i guadagni equivalenti facciano piacere)",
-      "Più ripida nel dominio dei guadagni",
-      "Piatta, indicando indifferenza"
+      "Vincite",
+      "Perdite",
+      "Offerte",
+      "Spese"
     ],
     "correct": 1
   },
   {
     "id": 397,
-    "c": "Appunti",
-    "q": "Il 'Neuromarketing' utilizza la fMRI (Risonanza Magnetica Funzionale) principalmente per:",
+    "c": "appunti",
+    "q": "La fMRI nel neuromarketing rileva l'attività cerebrale tramite il:",
     "options": [
-      "Curare patologie cerebrali dei consumatori",
-      "Identificare quali aree cerebrali profonde si attivano in risposta a stimoli di marketing (es. il Nucleus Accumbens per il desiderio)",
-      "Misurare il battito cardiaco",
-      "Osservare il comportamento nei supermercati"
+      "Calore",
+      "Ossigeno",
+      "Suono",
+      "Battito"
     ],
     "correct": 1
   },
   {
     "id": 398,
-    "c": "Appunti",
-    "q": "Che cos'è l'euristica dell'affetto (Affect Heuristic)?",
+    "c": "appunti",
+    "q": "L'euristica dell'affetto si basa sulla risposta emotiva:",
     "options": [
-      "Prendere decisioni basandosi su ragionamenti logici complessi",
-      "Lasciare che l'emozione immediata (positiva o negativa) associata a uno stimolo influenzi la decisione, giudicando i rischi bassi e i benefici alti se l'emozione è positiva",
-      "Chiedere consiglio al partner",
-      "Acquistare solo prodotti che ricordano l'infanzia"
+      "Lenta",
+      "Immediata",
+      "Passata",
+      "Futura"
     ],
     "correct": 1
   },
   {
     "id": 399,
-    "c": "Appunti",
-    "q": "La 'Brand Personality' definita da Jennifer Aaker include la dimensione 'Sincerità'. A quali tratti corrisponde?",
+    "c": "appunti",
+    "q": "Nella scala di Jennifer Aaker, l'Excitement (Eccitazione) indica un brand:",
     "options": [
-      "Audace, vivace, immaginativo",
-      "Con i piedi per terra, onesto, genuino, allegro",
-      "Affidabile, intelligente, di successo",
-      "Affascinante, pretenzioso, di classe"
+      "Onesto",
+      "Audace",
+      "Robusto",
+      "Elegante"
     ],
     "correct": 1
   },
   {
     "id": 400,
-    "c": "Appunti",
-    "q": "Nell'ambito dell'influenza sociale, cosa si intende per 'Ignoranza Pluralistica'?",
+    "c": "appunti",
+    "q": "L'ignoranza pluralistica avviene quando i membri di un gruppo si:",
     "options": [
-      "La situazione in cui la maggioranza dei membri di un gruppo rifiuta privatamente una norma, ma crede erroneamente che gli altri la accettino, e quindi si conforma pubblicamente",
-      "La mancanza di istruzione diffusa in una popolazione",
-      "Il rifiuto di informarsi sui prodotti",
-      "La conoscenza condivisa di un segreto"
+      "Oppongono",
+      "Conformano",
+      "Dividono",
+      "Isolano"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 401,
-    "c": "Appunti",
-    "q": "Qual è la differenza tra emozioni primarie e secondarie?",
+    "c": "appunti",
+    "q": "Quale di queste è un'emozione primaria?",
     "options": [
-      "Le primarie sono apprese, le secondarie innate",
-      "Le primarie sono universali e innate (es. paura, gioia), le secondarie sono sociali e complesse (es. vergogna, orgoglio)",
-      "Le primarie durano a lungo, le secondarie poco",
-      "Non esiste differenza"
+      "Orgoglio",
+      "Tristezza",
+      "Vergogna",
+      "Invidia"
     ],
     "correct": 1
   },
   {
     "id": 402,
-    "c": "Appunti",
-    "q": "La tecnica 'That's not all' (Non è tutto!) consiste nel:",
+    "c": "appunti",
+    "q": "La tecnica 'That's not all' aggiunge un bonus per creare:",
     "options": [
-      "Nascondere i difetti del prodotto",
-      "Offrire un prodotto a un prezzo alto e, prima che il cliente risponda, aggiungere un extra o abbassare il prezzo per renderlo un affare irresistibile",
-      "Dire al cliente che il negozio sta chiudendo",
-      "Minacciare il cliente di non vendere"
+      "Paura",
+      "Obbligo",
+      "Dubbio",
+      "Invidia"
     ],
     "correct": 1
   },
   {
     "id": 403,
-    "c": "Appunti",
-    "q": "Cosa indica il termine 'Affordance' in psicologia del design/consumi?",
+    "c": "appunti",
+    "q": "L'Affordance riguarda la capacità di un oggetto di suggerire il proprio:",
     "options": [
-      "Il prezzo accessibile di un prodotto",
-      "Le proprietà fisiche di un oggetto che suggeriscono intuitivamente come deve essere usato (es. una maniglia suggerisce di tirare)",
-      "La capacità di spesa del consumatore",
-      "Lo sforzo cognitivo richiesto per leggere un'etichetta"
+      "Prezzo",
+      "Utilizzo",
+      "Valore",
+      "Origine"
     ],
     "correct": 1
   },
   {
     "id": 404,
-    "c": "Appunti",
-    "q": "Secondo la teoria dei 'Marker Somatici' di Damasio:",
+    "c": "appunti",
+    "q": "I marker somatici agiscono come un sistema di:",
     "options": [
-      "Le decisioni sono puramente razionali",
-      "Le esperienze passate lasciano una traccia emotiva/fisiologica (marker) che guida intuitivamente le decisioni future, segnalando esiti positivi o negativi",
-      "I tatuaggi influenzano l'acquisto",
-      "Il cervello non memorizza le emozioni"
+      "Calcolo",
+      "Allarme",
+      "Ricerca",
+      "Difesa"
     ],
     "correct": 1
   },
   {
     "id": 405,
-    "c": "Appunti",
-    "q": "L'effetto 'Diderot' spiega perché:",
+    "c": "appunti",
+    "q": "L'effetto Diderot descrive la ricerca di un'armonia tra i propri:",
     "options": [
-      "L'acquisto di un nuovo oggetto (es. una vestaglia nuova) può rendere insoddisfacenti gli oggetti posseduti precedentemente, innescando una spirale di nuovi acquisti per ristabilire l'unità coerente",
-      "Gli intellettuali comprano più libri",
-      "I consumatori preferiscono l'antiquariato",
-      "Si tende a risparmiare sui beni durevoli"
+      "Amici",
+      "Beni",
+      "Sogni",
+      "Prezzi"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 406,
-    "c": "Appunti",
-    "q": "Nelle ricerche di mercato, cosa si intende per 'Net Promoter Score' (NPS)?",
+    "c": "appunti",
+    "q": "Il NPS (Net Promoter Score) misura la probabilità di:",
     "options": [
-      "Il numero di like su Facebook",
-      "Una metrica che misura la fedeltà del cliente chiedendo: 'Quanto consiglieresti questo prodotto a un amico?' su una scala da 0 a 10",
-      "Il profitto netto dell'azienda",
-      "Il punteggio di credito del consumatore"
+      "Acquisto",
+      "Passaparola",
+      "Reclamo",
+      "Ricordo"
     ],
     "correct": 1
   },
   {
     "id": 407,
-    "c": "Appunti",
-    "q": "La memoria 'Episodica' si riferisce a:",
+    "c": "appunti",
+    "q": "La memoria episodica riguarda eventi vissuti in prima:",
     "options": [
-      "Il ricordo di fatti generali e concetti",
-      "Il ricordo di specifici eventi autobiografici collocati nel tempo e nello spazio",
-      "La capacità di andare in bicicletta (procedurale)",
-      "La memoria a breve termine"
+      "Fila",
+      "Persona",
+      "Sede",
+      "Fase"
     ],
     "correct": 1
   },
   {
     "id": 408,
-    "c": "Appunti",
-    "q": "Quale principio della Gestalt viene sfruttato quando percepiamo un insieme di elementi vicini come un gruppo unitario?",
+    "c": "appunti",
+    "q": "Nella Gestalt, la legge della Vicinanza raggruppa elementi:",
     "options": [
-      "Legge della vicinanza",
-      "Legge della chiusura",
-      "Legge della somiglianza",
-      "Legge della figura-sfondo"
+      "Simili",
+      "Contigui",
+      "Chiusi",
+      "Grandi"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 409,
-    "c": "Appunti",
-    "q": "Il 'Bias di conferma' (Confirmation Bias) influisce sulla ricerca di informazioni pre-acquisto portando il consumatore a:",
+    "c": "appunti",
+    "q": "Il Bias di conferma porta a scartare le prove:",
     "options": [
-      "Cercare opinioni critiche per sfidare la propria idea",
-      "Prestare attenzione solo alle informazioni che confermano la scelta che ha già in mente di fare, ignorando quelle discordanti",
-      "Valutare oggettivamente tutte le alternative",
-      "Affidarsi totalmente al caso"
+      "Semplici",
+      "Contrarie",
+      "Inutili",
+      "Vaghe"
     ],
     "correct": 1
   },
   {
     "id": 410,
-    "c": "Appunti",
-    "q": "Cosa si intende per 'Dark Patterns' nel design UX/UI?",
+    "c": "appunti",
+    "q": "I Dark Patterns sono interfacce progettate per essere:",
     "options": [
-      "Interfacce utente con sfondo scuro per risparmiare batteria",
-      "Elementi di design ingannevoli progettati per spingere l'utente a compiere azioni che non vorrebbe fare (es. iscriversi a servizi nascosti)",
-      "Schemi di colore non accessibili ai daltonici",
-      "L'uso di font gotici"
+      "Chiare",
+      "Ingannevoli",
+      "Eleganti",
+      "Veloci"
     ],
     "correct": 1
   },
   {
     "id": 411,
-    "c": "Appunti",
-    "q": "La teoria dell'identità sociale suggerisce che l'autostima di un individuo è legata a:",
+    "c": "appunti",
+    "q": "Secondo la teoria dell'identità sociale, il comportamento di consumo può essere influenzato dal desiderio di:",
     "options": [
-      "Solo ai successi personali individuali",
-      "Anche al successo e allo status dei gruppi sociali a cui appartiene (Ingroup)",
-      "Esclusivamente al reddito",
-      "Alla capacità di rimanere isolati"
+      "Distinguersi drasticamente da ogni forma di gruppo organizzato",
+      "Rafforzare l'appartenenza a un gruppo sociale di riferimento",
+      "Ignorare completamente le opinioni dei propri pari nelle scelte",
+      "Ridurre al minimo ogni interazione con il mondo esterno"
     ],
     "correct": 1
   },
   {
     "id": 412,
-    "c": "Appunti",
-    "q": "Che cos'è l'effetto 'Bystander' (spettatore)?",
+    "c": "appunti",
+    "q": "L'effetto spettatore (Bystander Effect) suggerisce che in una situazione di emergenza la probabilità di aiuto cala se:",
     "options": [
-      "La probabilità di essere aiutati aumenta se ci sono molte persone presenti",
-      "La probabilità di intervento in aiuto di una persona in difficoltà diminuisce all'aumentare del numero di testimoni presenti (diffusione di responsabilità)",
-      "L'aumento delle vendite quando il negozio è affollato",
-      "La tendenza a guardare le vetrine senza entrare"
+      "Il numero di testimoni presenti sulla scena è molto elevato",
+      "La vittima appartiene allo stesso gruppo sociale dei presenti",
+      "L'emergenza si verifica in un luogo familiare ai testimoni",
+      "I testimoni hanno ricevuto una formazione specifica sul soccorso"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": 413,
-    "c": "Appunti",
-    "q": "Nel marketing sensoriale, cosa si intende per 'Firma olfattiva'?",
+    "c": "appunti",
+    "q": "Nel marketing sensoriale, la 'firma olfattiva' viene utilizzata principalmente per:",
     "options": [
-      "L'odore naturale dei dipendenti",
-      "Un profumo specifico e riconoscibile diffuso negli ambienti di un brand per creare un'associazione mnemonica ed emotiva unica",
-      "La puzza di chiuso nei magazzini",
-      "L'odore della carta stampata"
+      "Coprire eventuali odori sgradevoli derivanti dai materiali di produzione",
+      "Creare un'associazione mnemonica ed emotiva stabile con il punto vendita",
+      "Igienizzare l'ambiente in modo rapido senza l'uso di detergenti chimici",
+      "Attirare esclusivamente clienti che soffrono di specifiche allergie"
     ],
     "correct": 1
   },
   {
     "id": 414,
-    "c": "Appunti",
-    "q": "La 'Discriminazione' nel condizionamento classico avviene quando:",
+    "c": "appunti",
+    "q": "Il processo di 'discriminazione' nel condizionamento classico si verifica quando il soggetto:",
     "options": [
-      "Il consumatore risponde allo stimolo condizionato ma non a stimoli simili",
-      "Il consumatore confonde tutti i marchi",
-      "Il consumatore viene trattato male dal venditore",
-      "Lo stimolo incondizionato viene rimosso"
+      "Reagisce in modo identico a tutti gli stimoli che somigliano a quello originale",
+      "Risponde solo allo stimolo specifico e non a quelli simili o correlati",
+      "Smette di rispondere a causa dell'eccessiva ripetizione dello stimolo",
+      "Percepisce lo stimolo condizionato come una minaccia alla propria incolumità"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 415,
-    "c": "Appunti",
-    "q": "Qual è il ruolo dei neuroni specchio nel comportamento di consumo?",
+    "c": "appunti",
+    "q": "Quale funzione svolgono i neuroni specchio nel contesto della pubblicità televisiva?",
     "options": [
-      "Riflettono la luce sulla retina",
-      "Si attivano sia quando compiamo un'azione sia quando osserviamo altri compierla, facilitando l'empatia e l'imitazione (es. vedere qualcuno gustare un cibo)",
-      "Servono solo per guardarsi allo specchio",
-      "Non hanno alcun ruolo nel consumo"
+      "Permettono di distinguere i colori primari all'interno delle immagini",
+      "Facilitano l'immedesimazione osservando le azioni compiute dai modelli",
+      "Bloccano la memorizzazione di informazioni ritenute poco rilevanti",
+      "Aumentano la velocità di lettura dei messaggi testuali a scorrimento"
     ],
     "correct": 1
   },
   {
     "id": 416,
-    "c": "Appunti",
-    "q": "La 'Segmentazione Psicografica' divide il mercato in base a:",
+    "c": "appunti",
+    "q": "La segmentazione psicografica differisce da quella demografica perché si focalizza su:",
     "options": [
-      "Età, sesso e reddito",
-      "Stile di vita, valori, personalità e interessi",
-      "Zona geografica di residenza",
-      "Frequenza di utilizzo del prodotto"
+      "Variabili strutturali come l'età, il genere e il reddito annuo",
+      "Dimensioni psicologiche come valori, interessi e stili di vita",
+      "Dati geografici relativi alla residenza e al clima della regione",
+      "Indicatori economici legati alla capacità di risparmio dei soggetti"
     ],
     "correct": 1
   },
   {
     "id": 417,
-    "c": "Appunti",
-    "q": "Cosa afferma la teoria dell'autoefficacia (Self-Efficacy) di Bandura?",
+    "c": "appunti",
+    "q": "Cosa sostiene il concetto di autoefficacia (Self-Efficacy) proposto da Bandura?",
     "options": [
-      "Che l'uomo è egoista per natura",
-      "Che la convinzione di una persona nella propria capacità di riuscire in una specifica situazione determina se tenterà il comportamento e quanto persisterà",
-      "Che l'efficacia di un prodotto dipende dal prezzo",
-      "Che l'apprendimento è solo passivo"
+      "L'individuo agisce solo se riceve un premio monetario immediato",
+      "La fiducia nelle proprie capacità influenza l'esecuzione di un compito",
+      "L'ambiente esterno determina in modo meccanico ogni nostra scelta",
+      "Le abilità innate sono superiori a qualsiasi forma di apprendimento"
     ],
     "correct": 1
   },
   {
     "id": 418,
-    "c": "Appunti",
-    "q": "Il paradosso della 'Privacy' (Privacy Paradox) nei consumatori digitali indica:",
+    "c": "appunti",
+    "q": "Il paradosso della privacy (Privacy Paradox) evidenzia una contraddizione tra:",
     "options": [
-      "La discrepanza tra la preoccupazione dichiarata per la privacy e il comportamento reale di condivisione disinvolta di dati personali per piccoli vantaggi",
-      "La totale assenza di leggi sulla privacy",
-      "Il fatto che nessuno si preoccupa della privacy",
-      "L'uso esclusivo di contanti per non essere tracciati"
+      "Le leggi dello Stato e le regolamentazioni interne delle aziende",
+      "Le preoccupazioni dichiarate e l'effettivo rilascio di dati online",
+      "Il desiderio di anonimato e la necessità di usare i social media",
+      "La sicurezza dei sistemi informatici e la facilità di accesso degli utenti"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 419,
-    "c": "Appunti",
-    "q": "Cosa misura il 'Differenziale Semantico' di Osgood?",
+    "c": "appunti",
+    "q": "Il differenziale semantico è uno strumento di ricerca utile per misurare:",
     "options": [
-      "Il significato letterale delle parole",
-      "Il significato connotativo (emotivo/valutativo) di un oggetto tramite coppie di aggettivi opposti (es. buono-cattivo, forte-debole)",
-      "La differenza di prezzo tra due prodotti",
-      "La velocità di lettura"
+      "La velocità con cui un consumatore legge le etichette dei prodotti",
+      "Il significato connotativo e affettivo attribuito a un marchio",
+      "Il numero di parole ricordate dopo la visione di uno spot pubblicitario",
+      "La differenza di prezzo tra due prodotti della stessa categoria"
     ],
     "correct": 1
   },
   {
     "id": 420,
-    "c": "Appunti",
-    "q": "L'inerzia sociale (Social Loafing) descrive la tendenza delle persone a:",
+    "c": "appunti",
+    "q": "Il fenomeno dell'inerzia sociale (Social Loafing) si osserva tipicamente quando:",
     "options": [
-      "Lavorare di più quando sono in gruppo per farsi notare",
-      "Impegnarsi meno in un compito collettivo quando il contributo individuale non è identificabile rispetto a quando lavorano da sole",
-      "Essere iperattive nelle feste",
-      "Comprare prodotti per il fitness senza usarli"
+      "Un individuo lavora da solo e cerca di massimizzare il proprio profitto",
+      "L'impegno individuale non è identificabile all'interno di un gruppo",
+      "Il leader del gruppo assegna compiti troppo complessi per i membri",
+      "La competizione tra i membri del gruppo è estremamente accesa"
     ],
     "correct": 1
   },
   {
     "id": 421,
-    "c": "Appunti",
-    "q": "Quale tra i seguenti è un esempio di 'Nudge' (spinta gentile)?",
+    "c": "appunti",
+    "q": "Un intervento di 'Nudge' (spinta gentile) è progettato per influenzare il comportamento:",
     "options": [
-      "Una tassa sulle bevande zuccherate",
-      "Posizionare la frutta all'altezza degli occhi nella mensa scolastica per incentivarne il consumo",
-      "Vietare il fumo nei locali pubblici",
-      "Offrire uno sconto del 50%"
+      "Attraverso l'uso di sanzioni economiche molto severe",
+      "Modificando l'architettura delle scelte in modo non coercitivo",
+      "Eliminando fisicamente le opzioni ritenute dannose per l'utente",
+      "Fornendo esclusivamente informazioni tecniche molto dettagliate"
     ],
     "correct": 1
   },
   {
     "id": 422,
-    "c": "Appunti",
-    "q": "La 'Customer Journey Map' serve a:",
+    "c": "appunti",
+    "q": "La Customer Journey Map è uno strumento grafico che permette di analizzare:",
     "options": [
-      "Tracciare il percorso geografico dei camion delle consegne",
-      "Visualizzare l'intera esperienza del cliente con l'azienda, mappando tutti i punti di contatto (touchpoints) ed emozioni dal pre-acquisto al post-acquisto",
-      "Creare una mappa turistica per i clienti",
-      "Organizzare le ferie dei dipendenti"
+      "L'organigramma gerarchico interno di un'azienda di servizi",
+      "L'esperienza complessiva del cliente in tutti i punti di contatto",
+      "I flussi logistici delle merci dal magazzino al punto vendita",
+      "La disposizione fisica dei prodotti sugli scaffali del supermercato"
     ],
     "correct": 1
   },
   {
     "id": 423,
-    "c": "Appunti",
-    "q": "L'euristica della 'simulazione' porta le persone a:",
+    "c": "appunti",
+    "q": "L'euristica della simulazione porta le persone a valutare un evento in base alla:",
     "options": [
-      "Giudicare l'esito di un evento in base alla facilità con cui possono immaginare (simulare) scenari alternativi (pensiero controfattuale)",
-      "Simulare l'acquisto online senza pagare",
-      "Preferire i videogiochi di simulazione",
-      "Copiare il comportamento degli amici"
+      "Facilità con cui riescono a immaginare scenari alternativi",
+      "Conoscenza scientifica dei dati statistici relativi all'evento",
+      "Frequenza reale con cui l'evento si verifica nella popolazione",
+      "Opinione espressa dagli esperti del settore durante le interviste"
     ],
     "correct": 0
   },
   {
     "id": 424,
-    "c": "Appunti",
-    "q": "Cosa sostiene l'ipotesi della 'Relatività Linguistica' (Sapir-Whorf) applicata al marketing?",
+    "c": "appunti",
+    "q": "L'ipotesi della relatività linguistica suggerisce che il linguaggio utilizzato:",
     "options": [
-      "Che tutte le lingue sono uguali per la pubblicità",
-      "Che la struttura e il vocabolario della lingua che parliamo influenzano il modo in cui percepiamo e categorizziamo il mondo (e i prodotti)",
-      "Che bisogna sempre usare l'inglese nel marketing",
-      "Che le immagini sono più importanti delle parole"
+      "Non ha alcuna influenza sui processi di pensiero e di categorizzazione",
+      "Modella il modo in cui percepiamo e organizziamo la nostra realtà",
+      "Serve esclusivamente a comunicare i bisogni biologici fondamentali",
+      "È una dote innata che non dipende minimamente dal contesto culturale"
     ],
     "correct": 1
   },
   {
     "id": 425,
-    "c": "Appunti",
-    "q": "Nel modello SOR (Stimolo-Organismo-Risposta), la variabile 'Organismo' rappresenta:",
+    "c": "appunti",
+    "q": "Nel modello Stimolo-Organismo-Risposta (SOR), la componente 'Organismo' riguarda:",
     "options": [
-      "I batteri presenti nel prodotto",
-      "I processi interni (emozioni, percezioni, motivazioni) che mediano tra lo stimolo ambientale e la risposta comportamentale",
-      "L'organizzazione del negozio",
-      "Il corpo del venditore"
+      "Le caratteristiche fisiche dell'ambiente dove avviene l'acquisto",
+      "I processi cognitivi ed emotivi interni che mediano la risposta",
+      "La struttura giuridica dell'azienda che produce il bene di consumo",
+      "Il comportamento finale osservabile come l'acquisto del prodotto"
     ],
     "correct": 1
   },
   {
     "id": 426,
-    "c": "Appunti",
-    "q": "Il fenomeno del 'Greenwashing' si riferisce a:",
+    "c": "appunti",
+    "q": "La pratica del Greenwashing consiste nel presentare un'azienda come ecosostenibile:",
     "options": [
-      "Lavare i vestiti con prodotti ecologici",
-      "Una strategia di marketing ingannevole volta a presentare un'azienda o un prodotto come ecosostenibile quando non lo è realmente",
-      "Dipingere le pareti del negozio di verde",
-      "Coltivare piante in ufficio"
+      "Attraverso certificazioni ufficiali rilasciate da enti internazionali",
+      "Utilizzando comunicazioni ingannevoli prive di riscontri oggettivi",
+      "Investendo la maggior parte dei profitti in energie rinnovabili",
+      "Riducendo drasticamente l'uso di plastica in tutti i processi produttivi"
     ],
     "correct": 1
   },
   {
     "id": 427,
-    "c": "Appunti",
-    "q": "Secondo la teoria dei Valori di Schwartz, quali valori sono opposti all'apertura al cambiamento?",
+    "c": "appunti",
+    "q": "Secondo il modello di Schwartz, i valori di 'Conservazione' si oppongono direttamente a:",
     "options": [
-      "Edonismo",
-      "Conservazione (sicurezza, conformismo, tradizione)",
-      "Auto-affermazione",
-      "Benevolenza"
+      "I valori di autotrascendenza come l'universalismo e la benevolenza",
+      "I valori di apertura al cambiamento come l'auto-direzione e stimolazione",
+      "La ricerca del potere e del successo personale all'interno della società",
+      "Il bisogno di sicurezza fisica e di stabilità delle istituzioni sociali"
     ],
     "correct": 1
   },
   {
     "id": 428,
-    "c": "Appunti",
-    "q": "L'effetto 'Licensing' (Licenza morale) si verifica quando:",
+    "c": "appunti",
+    "q": "L'effetto 'Licensing' descrive il fenomeno per cui un individuo, dopo un'azione corretta:",
     "options": [
-      "Un'azienda ottiene la licenza per vendere un prodotto",
-      "Dopo aver compiuto un'azione 'virtuosa' (es. andare in palestra), ci sentiamo autorizzati a cedere a una tentazione (es. mangiare un dolce)",
-      "Si perde la patente di guida",
-      "Si richiede un permesso scritto per comprare"
+      "Tende a ripetere l'azione positiva per ottenere un secondo premio",
+      "Si sente autorizzato a compiere una scelta meno etica o salutare",
+      "Prova un forte senso di colpa e cerca di riparare ai propri errori",
+      "Cerca di convincere gli altri a seguire il proprio comportamento virtuoso"
     ],
     "correct": 1
   },
   {
     "id": 429,
-    "c": "Appunti",
-    "q": "Cosa sono i 'Beni posizionali'?",
+    "c": "appunti",
+    "q": "Cosa caratterizza principalmente i cosiddetti 'beni posizionali'?",
     "options": [
-      "Beni la cui utilità deriva principalmente dal fatto che gli altri non li possiedono, segnalando uno status sociale superiore",
-      "Beni che si trovano in posizioni scomode nel supermercato",
-      "Beni di prima necessità",
-      "Prodotti dotati di GPS"
+      "Il loro valore dipende dal fatto di segnalare uno status sociale elevato",
+      "Sono beni di prima necessità accessibili a tutta la popolazione mondiale",
+      "Vengono acquistati esclusivamente per la loro utilità tecnica e pratica",
+      "Il loro prezzo cala drasticamente all'aumentare della domanda globale"
     ],
     "correct": 0
   },
   {
     "id": 430,
-    "c": "Appunti",
-    "q": "La tecnica del 'Eye-Tracking' produce 'Heatmaps' (mappe di calore) che indicano:",
+    "c": "appunti",
+    "q": "L'uso dell'Eye-Tracking nelle ricerche di mercato permette di identificare:",
     "options": [
-      "La temperatura corporea del consumatore",
-      "Le zone dell'immagine o della pagina web dove lo sguardo si è soffermato più a lungo e più frequentemente",
-      "Le aree del negozio più riscaldate",
-      "L'intensità dei colori dello schermo"
+      "Le preferenze d'acquisto dichiarate dai consumatori nei questionari",
+      "Le zone di uno stimolo visivo che attirano maggiormente l'attenzione",
+      "Il livello di sudorazione della pelle durante la visione di uno spot",
+      "La velocità con cui il sangue fluisce nelle diverse aree del cervello"
     ],
     "correct": 1
   },
   {
     "id": 431,
-    "c": "Appunti",
-    "q": "Secondo la teoria della 'Discrepanza del Sé' (Higgins), la discrepanza tra il Sé Reale e il Sé Ideale genera prevalentemente:",
+    "c": "appunti",
+    "q": "Nella teoria della discrepanza del Sé, la distanza tra Sé reale e Sé ideale genera:",
     "options": [
-      "Ansia e agitazione",
-      "Tristezza, delusione e depressione",
-      "Felicità e appagamento",
-      "Rabbia verso gli altri"
+      "Un aumento dell'autostima e della soddisfazione personale",
+      "Emozioni negative legate alla delusione e alla depressione",
+      "Uno stato di ansia e agitazione tipico del Sé normativo",
+      "L'immediata cessazione di ogni attività di consumo o acquisto"
     ],
     "correct": 1
   },
   {
     "id": 432,
-    "c": "Appunti",
-    "q": "Che cos'è l'etnocentrismo del consumatore?",
+    "c": "appunti",
+    "q": "L'etnocentrismo del consumatore si manifesta attraverso la tendenza a:",
     "options": [
-      "La preferenza per i prodotti etnici",
-      "La convinzione che sia moralmente o economicamente sbagliato acquistare prodotti stranieri, favorendo quelli nazionali",
-      "La curiosità verso culture diverse",
-      "L'uso di valuta estera"
+      "Preferire prodotti stranieri considerati tecnologicamente superiori",
+      "Favorire l'acquisto di beni nazionali per proteggere l'economia locale",
+      "Sperimentare cibi di culture diverse per curiosità intellettuale",
+      "Rifiutare qualsiasi marchio che utilizzi simboli patriottici nel logo"
     ],
     "correct": 1
   },
   {
     "id": 433,
-    "c": "Appunti",
-    "q": "Il 'Paradosso del servizio' (Service Recovery Paradox) suggerisce che:",
+    "c": "appunti",
+    "q": "Il paradosso del recupero del servizio (Service Recovery Paradox) indica che:",
     "options": [
-      "È meglio non offrire alcun servizio",
-      "Un cliente che ha avuto un problema risolto in modo eccellente può diventare più fedele di un cliente che non ha mai avuto problemi",
-      "I servizi costano sempre troppo",
-      "Nessuno si lamenta mai dei servizi"
+      "Un errore nel servizio porta sempre alla perdita definitiva del cliente",
+      "Risolvere bene un problema può aumentare la fedeltà del cliente",
+      "I clienti non si accorgono mai della differenza tra un servizio e l'altro",
+      "Offrire un rimborso economico è l'unico modo per calmare un utente"
     ],
     "correct": 1
   },
   {
     "id": 434,
-    "c": "Appunti",
-    "q": "Cosa si intende per 'Store Atmosphere' (atmosfera del punto vendita)?",
+    "c": "appunti",
+    "q": "Cosa si intende per 'atmosfera del punto vendita' nel marketing esperienziale?",
     "options": [
-      "La qualità dell'aria condizionata",
-      "L'insieme delle caratteristiche sensoriali (luci, suoni, odori, layout) progettate per influenzare lo stato emotivo e il comportamento d'acquisto",
-      "La pressione atmosferica nel negozio",
-      "L'umore dei commessi"
+      "Il clima meteorologico esterno che influenza l'affluenza dei clienti",
+      "La combinazione di stimoli sensoriali progettati per influenzare l'acquisto",
+      "Il rapporto gerarchico tra i dipendenti e il direttore del negozio",
+      "La qualità degli impianti di aerazione e riscaldamento del locale"
     ],
     "correct": 1
   },
   {
     "id": 435,
-    "c": "Appunti",
-    "q": "L'effetto 'McGurk' dimostra l'interazione tra:",
+    "c": "appunti",
+    "q": "L'effetto McGurk è un fenomeno percettivo che dimostra l'interazione tra:",
     "options": [
-      "Vista e Udito: ciò che vediamo influenza ciò che sentiamo (una sillaba pronunciata visivamente modifica la percezione del suono udito)",
-      "Gusto e Olfatto",
-      "Tatto e Vista",
-      "Prezzo e Qualità"
+      "Il senso del gusto e le informazioni visive del packaging",
+      "Le informazioni uditive e i movimenti labiali osservati",
+      "La percezione del peso e il colore dell'oggetto manipolato",
+      "La temperatura ambientale e la valutazione della qualità di un tessuto"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 436,
-    "c": "Appunti",
-    "q": "Nel modello di Hofstede, la dimensione 'Evitamento dell'incertezza' misura:",
+    "c": "appunti",
+    "q": "La dimensione 'evitamento dell'incertezza' di Hofstede indica il grado in cui:",
     "options": [
-      "Quanto una cultura si sente minacciata da situazioni ambigue o sconosciute e cerca di evitarle tramite regole rigide",
-      "La capacità di fare investimenti rischiosi",
-      "L'amore per i viaggi avventurosi",
-      "La tendenza a cambiare lavoro spesso"
+      "Le persone amano il rischio e le situazioni totalmente imprevedibili",
+      "Una cultura cerca di ridurre l'ambiguità attraverso regole e norme",
+      "Gli individui preferiscono lavorare in totale autonomia senza capi",
+      "I consumatori scelgono sempre il prodotto più economico sul mercato"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 437,
-    "c": "Appunti",
-    "q": "Cos'è la 'Brand Equity'?",
+    "c": "appunti",
+    "q": "La Brand Equity può essere sinteticamente definita come:",
     "options": [
-      "Il capitale sociale dell'azienda",
-      "Il valore aggiunto che il marchio conferisce al prodotto rispetto a un prodotto generico funzionalmente identico",
-      "L'equità nel trattamento dei dipendenti",
-      "Il costo di registrazione del marchio"
+      "Il valore finanziario delle azioni dell'azienda quotata in borsa",
+      "Il valore aggiunto che il nome del marchio conferisce al prodotto",
+      "La spesa totale effettuata dall'azienda in pubblicità nell'ultimo anno",
+      "Il numero di dipendenti che lavorano nel reparto marketing del brand"
     ],
     "correct": 1
   },
   {
     "id": 438,
-    "c": "Appunti",
-    "q": "La 'Cecità ai Banner' (Banner Blindness) è un esempio di:",
+    "c": "appunti",
+    "q": "Il fenomeno della 'Banner Blindness' è considerato un esempio di:",
     "options": [
-      "Attenzione selettiva appresa",
-      "Difetto genetico",
-      "Errore del browser",
-      "Interesse per la pubblicità"
+      "Adattamento sensoriale involontario a stimoli luminosi troppo forti",
+      "Apprendimento selettivo dell'utente che ignora i messaggi pubblicitari",
+      "Malfunzionamento tecnico dei browser durante la navigazione web",
+      "Interesse crescente verso le forme di pubblicità tradizionale cartacea"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 439,
-    "c": "Appunti",
-    "q": "Secondo la teoria dell'attribuzione di Weiner, attribuire un fallimento (es. un acquisto sbagliato) a una causa 'interna, stabile e incontrollabile' (es. sono stupido) porta a:",
+    "c": "appunti",
+    "q": "Secondo la teoria dell'attribuzione, un consumatore insoddisfatto cerca di capire se:",
     "options": [
-      "Bassa autostima e rassegnazione",
-      "Rabbia verso il venditore",
-      "Speranza di miglioramento futuro",
-      "Voglia di riprovare subito"
+      "Il prezzo pagato era superiore alla media dei negozi della zona",
+      "La causa del fallimento del prodotto sia interna o esterna a sé",
+      "Esistono altri modelli dello stesso colore disponibili in magazzino",
+      "Il venditore ha ricevuto una commissione sulla vendita effettuata"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": 440,
-    "c": "Appunti",
-    "q": "Il concetto di 'Flusso' (Flow) di Csikszentmihalyi descrive:",
+    "c": "appunti",
+    "q": "Lo stato di 'Flow' (flusso) durante un'esperienza di consumo è caratterizzato da:",
     "options": [
-      "Il flusso di cassa dell'azienda",
-      "Uno stato di totale immersione e concentrazione in un'attività, caratterizzato da perdita della cognizione del tempo e gratificazione intrinseca",
-      "Il traffico nel negozio",
-      "La musica di sottofondo liquida"
+      "Un senso di noia profonda e desiderio di abbandonare l'attività",
+      "Una totale immersione e perdita della cognizione del tempo",
+      "La costante distrazione causata da stimoli ambientali esterni",
+      "Il timore continuo di sbagliare la procedura di utilizzo del bene"
     ],
     "correct": 1
   },
-  {
-    "id": 441,
+ {
+    "id": 461,
     "c": "Appunti",
-    "q": "L'effetto 'Primacy' nella memoria indica che:",
+    "q": "Quale concetto spiega la tendenza a percepire stimoli ambigui in modo coerente con le proprie aspettative?",
     "options": [
-      "Si ricordano meglio le informazioni presentate per prime in una lista",
-      "Si ricordano meglio le informazioni presentate per ultime",
-      "Si ricorda solo ciò che è al centro",
-      "Si ricordano solo i numeri primi"
+      "Set percettivo",
+      "Soglia differenziale",
+      "Codifica semantica",
+      "Effetto framing"
     ],
     "correct": 0
   },
   {
-    "id": 442,
+    "id": 462,
     "c": "Appunti",
-    "q": "Quale fenomeno spiega perché, una volta acquistata un'auto nuova, iniziamo a vederla ovunque in strada?",
+    "q": "Secondo il modello di Fishbein, l'atteggiamento verso un oggetto è il risultato della somma di:",
     "options": [
-      "Fenomeno Baader-Meinhof (o illusione di frequenza)",
-      "Allucinazione collettiva",
-      "Aumento improvviso delle vendite di quell'auto",
-      "Effetto placebo"
+      "Emozioni e pulsioni inconsce",
+      "Credenze e valutazione degli attributi",
+      "Influenze sociali e norme soggettive",
+      "Esperienze passate e rinforzi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 463,
+    "c": "Appunti",
+    "q": "In una ricerca di mercato, il 'Focus Group' è considerato una tecnica:",
+    "options": [
+      "Sperimentale quantitativa",
+      "Esplorativa qualitativa",
+      "Descrittiva statistica",
+      "Psicometrica standardizzata",
+      "Etnografica osservativa"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 464,
+    "c": "Appunti",
+    "q": "L'euristica della disponibilità si basa sulla:",
+    "options": [
+      "Facilità di recupero mnemonico",
+      "Somiglianza con lo stereotipo",
+      "Vicinanza fisica dello stimolo",
+      "Qualità delle prove logiche"
     ],
     "correct": 0
   },
   {
-    "id": 443,
+    "id": 465,
     "c": "Appunti",
-    "q": "Cosa si intende per 'Obsolescenza percepita'?",
+    "q": "Cosa si intende per 'Percezione Subliminale'?",
     "options": [
-      "Quando un prodotto smette di funzionare fisicamente",
-      "Quando un prodotto ancora funzionante viene considerato vecchio o fuori moda dal consumatore, spingendolo alla sostituzione",
-      "La scadenza degli alimenti",
-      "Il deprezzamento contabile"
+      "Uno stimolo sopra la soglia assoluta",
+      "Uno stimolo sotto la soglia cosciente",
+      "Uno stimolo percepito solo col tatto",
+      "Uno stimolo ignorato per abitudine"
     ],
     "correct": 1
   },
   {
-    "id": 444,
+    "id": 466,
     "c": "Appunti",
-    "q": "La 'Teoria della Giustizia' nel marketing distingue tra giustizia distributiva, procedurale e:",
+    "q": "Nel modello della Probabilità di Elaborazione (ELM), la 'Motivazione' è un prerequisito per:",
     "options": [
-      "Interazionale (come si viene trattati durante il processo)",
-      "Legale",
-      "Penale",
-      "Commerciale"
+      "Il percorso periferico",
+      "Il percorso centrale",
+      "Il condizionamento classico",
+      "L'apprendimento vicario"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 467,
+    "c": "Appunti",
+    "q": "L'effetto 'Ancoraggio' è particolarmente visibile quando il consumatore:",
+    "options": [
+      "Conosce perfettamente il valore del bene",
+      "Deve fare una stima in condizioni di incertezza",
+      "Acquista prodotti di consumo quotidiano",
+      "Segue ciecamente i consigli del gruppo"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 468,
+    "c": "Appunti",
+    "q": "Il condizionamento 'Operante' differisce da quello 'Classico' perché:",
+    "options": [
+      "Il comportamento è volontario e strumentale",
+      "Si basa su riflessi fisiologici innati",
+      "Non richiede alcun tipo di rinforzo",
+      "Avviene solo negli esseri umani"
     ],
     "correct": 0
   },
   {
-    "id": 445,
+    "id": 469,
     "c": "Appunti",
-    "q": "L'effetto 'Less-is-more' (meno è meglio) si verifica quando:",
+    "q": "Quale tra questi è un esempio di 'Rischio Percepito' funzionale?",
     "options": [
-      "Un pacchetto con meno oggetti (tutti intatti) viene valutato più positivamente di un pacchetto con più oggetti che include però alcuni pezzi rotti (media vs somma)",
-      "I prezzi bassi attirano meno clienti",
-      "La qualità è scarsa",
-      "Si vende di meno per guadagnare di più"
+      "Il timore che il prodotto non funzioni",
+      "La paura del giudizio degli amici",
+      "L'ansia per aver speso troppo",
+      "Il dubbio sulla sicurezza fisica"
     ],
     "correct": 0
   },
   {
-    "id": 446,
+    "id": 470,
     "c": "Appunti",
-    "q": "Cosa è l'IAT (Implicit Association Test)?",
+    "q": "Nella Teoria del Comportamento Pianificato (TPB), qual è il predittore diretto del comportamento?",
     "options": [
-      "Un test di intelligenza",
-      "Uno strumento per misurare la forza delle associazioni automatiche (implicite) tra concetti nella memoria, basato sui tempi di reazione",
-      "Un focus group online",
-      "Un questionario cartaceo tradizionale"
+      "L'atteggiamento",
+      "L'intenzione",
+      "La norma soggettiva",
+      "Il controllo percepito"
     ],
     "correct": 1
   },
   {
-    "id": 447,
+    "id": 471,
     "c": "Appunti",
-    "q": "La 'Social Validation' (Riprova Sociale) è particolarmente potente quando:",
+    "q": "La legge di Weber afferma che la JND è:",
     "options": [
-      "Siamo sicuri di cosa fare",
-      "Osserviamo il comportamento di persone che consideriamo simili a noi",
-      "Siamo da soli in una stanza",
-      "Il prodotto costa poco"
+      "Una costante assoluta fissa",
+      "Proporzionale all'intensità dello stimolo",
+      "Inversamente proporzionale alla percezione",
+      "Indipendente dal valore iniziale"
     ],
     "correct": 1
   },
   {
-    "id": 448,
+    "id": 472,
     "c": "Appunti",
-    "q": "Il 'Paradosso della privacy' si riferisce alla discrepanza tra:",
+    "q": "L'effetto 'Recency' suggerisce che gli individui ricordano meglio:",
     "options": [
-      "Le leggi sulla privacy e la loro applicazione",
-      "Le preoccupazioni espresse dagli utenti sulla privacy e il loro effettivo comportamento online (spesso imprudente)",
-      "Ciò che le aziende dicono e ciò che fanno",
-      "Privacy online e offline"
+      "Le prime informazioni di una serie",
+      "Le ultime informazioni di una serie",
+      "Le informazioni più scioccanti",
+      "Le informazioni ripetute più volte"
     ],
     "correct": 1
   },
   {
-    "id": 449,
+    "id": 473,
     "c": "Appunti",
-    "q": "Nel modello di accettazione della tecnologia (TAM), quali sono i due determinanti principali dell'intenzione d'uso?",
+    "q": "Un 'Leader d'opinione' è caratterizzato da:",
     "options": [
-      "Costo e Colore",
-      "Utilità percepita e Facilità d'uso percepita",
-      "Marca e Pubblicità",
-      "Pressione sociale e Paura"
+      "Potere coercitivo e autorità formale",
+      "Competenza specifica e credibilità",
+      "Appartenenza a classi sociali elevate",
+      "Uso esclusivo di canali di massa"
     ],
     "correct": 1
   },
   {
-    "id": 450,
+    "id": 474,
     "c": "Appunti",
-    "q": "L'effetto 'IKEA' descrive:",
+    "q": "Il 'Bias del Senno di Poi' (Hindsight Bias) porta a:",
     "options": [
-      "La frustrazione nel montare mobili",
-      "L'aumento della valutazione soggettiva di un prodotto quando il consumatore ha partecipato attivamente alla sua costruzione o assemblaggio",
-      "La preferenza per il design svedese",
-      "La tendenza a comprare polpette"
+      "Prevedere il futuro con ottimismo",
+      "Sovrastimare la propria capacità predittiva passata",
+      "Dimenticare le esperienze negative",
+      "Agire d'impulso senza riflettere"
     ],
     "correct": 1
   },
   {
-    "id": 451,
+    "id": 475,
     "c": "Appunti",
-    "q": "Cos'è la 'Cecità alla scelta' (Choice Blindness)?",
+    "q": "In termini di memoria, lo 'Script' è:",
     "options": [
-      "L'incapacità di scegliere tra troppi prodotti",
-      "Il fenomeno per cui le persone non si accorgono se l'opzione che hanno scelto viene scambiata con un'altra, e procedono a giustificare la scelta mai fatta",
-      "Il comprare a occhi chiusi",
-      "La fedeltà cieca a un marchio"
+      "Una lista di parole da memorizzare",
+      "Uno schema di sequenze di azioni attese",
+      "Un comando verbale del venditore",
+      "La traccia fisica di un ricordo"
     ],
     "correct": 1
   },
   {
-    "id": 452,
+    "id": 476,
     "c": "Appunti",
-    "q": "Quale emozione è tipicamente associata all'acquisto impulsivo disfunzionale?",
+    "q": "L'effetto 'Mere Exposure' (Zajonc) indica che il gradimento aumenta con:",
     "options": [
-      "Calma piatta",
-      "Eccitazione temporanea seguita da senso di colpa o rimorso",
-      "Noia costante",
-      "Razionalità fredda"
+      "La comprensione logica del messaggio",
+      "La semplice esposizione ripetuta",
+      "L'offerta di incentivi monetari",
+      "La riduzione del prezzo di vendita"
     ],
     "correct": 1
   },
   {
-    "id": 453,
+    "id": 477,
     "c": "Appunti",
-    "q": "L'euristica della 'scarsità' funziona perché:",
+    "q": "Quale di questi è un processo di 'Apprendimento Vicario'?",
     "options": [
-      "Ci piace competere per le risorse limitate e associamo la rarità al valore",
-      "I prodotti rari sono sempre di qualità migliore",
-      "Non vogliamo che gli altri abbiano ciò che non abbiamo noi",
-      "Le aziende producono poco"
+      "Imparare dai propri errori diretti",
+      "Osservare le ricompense ottenute da altri",
+      "Leggere un manuale d'istruzioni",
+      "Sognare di utilizzare un prodotto"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 478,
+    "c": "Appunti",
+    "q": "Il 'Social Listening' consiste nell'analizzare:",
+    "options": [
+      "Interviste faccia a faccia in strada",
+      "Conversazioni spontanee online",
+      "Dati auditel della televisione",
+      "Telefonate dei clienti al call center"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 479,
+    "c": "Appunti",
+    "q": "L'effetto 'Scarsità' aumenta il desiderio perché:",
+    "options": [
+      "Attiva la paura di perdere la libertà di scelta",
+      "Riduce il costo opportunità dell'acquisto",
+      "Semplifica la valutazione tecnica dei beni",
+      "Annulla la dissonanza cognitiva post-acquisto"
     ],
     "correct": 0
   },
   {
-    "id": 454,
+    "id": 480,
     "c": "Appunti",
-    "q": "Cosa si intende per 'Tribalismo' nel marketing?",
+    "q": "L'approccio 'Emico' nella ricerca transculturale studia:",
     "options": [
-      "Il ritorno alla vita primitiva",
-      "La formazione di gruppi di consumatori legati da forti passioni comuni, rituali e senso di appartenenza verso un brand o prodotto (es. Harley Davidson)",
-      "La guerra tra reparti aziendali",
-      "L'uso di tatuaggi nelle pubblicità"
-    ],
-    "correct": 1
-  },
-  {
-    "id": 455,
-    "c": "Appunti",
-    "q": "La 'Soglia Differenziale' (JND) è:",
-    "options": [
-      "La differenza minima rilevabile tra due stimoli",
-      "La soglia del dolore",
-      "La differenza tra prezzo e costo",
-      "Il limite di spesa della carta di credito"
+      "Una cultura dall'interno nei suoi termini",
+      "Più culture confrontandole dall'esterno",
+      "Solo gli aspetti biologici del consumo",
+      "Il comportamento dei consumatori immigrati"
     ],
     "correct": 0
   },
   {
-    "id": 456,
+    "id": 481,
     "c": "Appunti",
-    "q": "Il 'Fear of Missing Out' (FOMO) è:",
+    "q": "Quale area cerebrale è spesso associata alla valutazione del 'piacere' nel neuromarketing?",
     "options": [
-      "La paura del buio",
-      "L'ansia sociale derivante dalla paura di essere esclusi da eventi gratificanti o esperienze che altri stanno vivendo (spesso innescata dai social media)",
-      "La paura di perdere il portafoglio",
-      "La fobia dei saldi"
+      "Corteccia motoria",
+      "Nucleus Accumbens",
+      "Cervelletto",
+      "Bulbo oculare"
     ],
     "correct": 1
   },
   {
-    "id": 457,
+    "id": 482,
     "c": "Appunti",
-    "q": "L'effetto 'Decoy' (Esca) prevede l'inserimento di un'opzione che è:",
+    "q": "Il 'Mood Congruency Effect' suggerisce che i consumatori:",
     "options": [
-      "Migliore di tutte le altre in tutto",
-      "Asimmetricamente dominata (inferiore a una delle opzioni target ma simile ad essa), per far sembrare l'opzione target più vantaggiosa",
-      "Completamente irrilevante",
-      "Molto economica"
+      "Comprano solo quando sono tristi",
+      "Ricordano meglio info coerenti con il loro umore",
+      "Cambiano marca se cambia il tempo meteorologico",
+      "Preferiscono prodotti dai colori scuri"
     ],
     "correct": 1
   },
   {
-    "id": 458,
+    "id": 483,
     "c": "Appunti",
-    "q": "Nella persuasione, la 'Via Periferica' (ELM) si basa su:",
+    "q": "Cosa descrive la 'Teoria della Reattività' (Reactance)?",
     "options": [
-      "Analisi attenta dei contenuti",
-      "Indici superficiali come l'attrattiva della fonte, la lunghezza del messaggio o la presenza di grafici, senza elaborazione approfondita",
-      "Logica deduttiva",
-      "Calcolo matematico"
+      "La velocità di risposta agli stimoli luminosi",
+      "La ribellione a messaggi troppo pressanti",
+      "L'accettazione di norme sociali condivise",
+      "La sensibilità chimica ai prodotti estetici"
     ],
     "correct": 1
   },
   {
-    "id": 459,
+    "id": 484,
     "c": "Appunti",
-    "q": "Cosa è la 'Dissonanza Cognitiva' post-acquisto?",
+    "q": "Nella Gestalt, la legge della 'Somiglianza' afferma che:",
     "options": [
-      "Il disagio psicologico che sorge quando si dubita di aver fatto la scelta giusta, temendo di aver scartato opzioni migliori",
-      "Il rumore fatto dal prodotto",
-      "La rottura del prodotto",
-      "La soddisfazione totale"
+      "Elementi simili vengono raggruppati percettivamente",
+      "I marchi simili devono avere prezzi simili",
+      "La pubblicità deve somigliare alla realtà",
+      "I consumatori imitano i loro simili"
     ],
     "correct": 0
   },
   {
-    "id": 460,
+    "id": 485,
     "c": "Appunti",
-    "q": "La 'Gamification' sfrutta meccanismi come:",
+    "q": "Cos'è l'effetto 'Spotlight'?",
     "options": [
-      "Punti, classifiche, badge e sfide per motivare comportamenti",
-      "Sconti e saldi tradizionali",
-      "Pubblicità televisiva classica",
-      "Interviste telefoniche"
+      "L'uso di luci forti nelle corsie centrali",
+      "Sovrastimare quanto gli altri ci osservino",
+      "Mettere un prodotto in primo piano nello spot",
+      "La perdita di memoria sotto stress"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 486,
+    "c": "Appunti",
+    "q": "L'euristica della 'Rappresentatività' può portare all'errore di:",
+    "options": [
+      "Ignorare le probabilità di base",
+      "Ricordare solo gli eventi drammatici",
+      "Sottostimare i prezzi futuri",
+      "Seguire sempre la massa"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 487,
+    "c": "Appunti",
+    "q": "La 'Personalità del Brand' è un concetto che:",
+    "options": [
+      "Attribuisce tratti umani a un marchio",
+      "Analizza il carattere dei venditori",
+      "Studia il profilo psicologico del CEO",
+      "Classifica i loghi in base al colore"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 488,
+    "c": "Appunti",
+    "q": "Cosa misura il 'GSR' (Galvanic Skin Response)?",
+    "options": [
+      "L'attivazione emotiva (arousal)",
+      "La simpatia verso il testimonial",
+      "Il grado di intelligenza razionale",
+      "La qualità dei tessuti dell'abbigliamento"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 489,
+    "c": "Appunti",
+    "q": "Il 'Value-Expressive Function' degli atteggiamenti serve a:",
+    "options": [
+      "Massimizzare le ricompense materiali",
+      "Esprimere l'identità e i valori centrali",
+      "Organizzare le informazioni complesse",
+      "Evitare punizioni dai superiori"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 490,
+    "c": "Appunti",
+    "q": "Quale fenomeno spiega perché preferiamo 5€ subito invece di 10€ tra un mese?",
+    "options": [
+      "Sconto iperbolico",
+      "Euristica dell'affetto",
+      "Bias di conferma",
+      "Effetto dotazione"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 491,
+    "c": "Appunti",
+    "q": "La tecnica del 'Foot-in-the-door' si basa sul bisogno di:",
+    "options": [
+      "Coerenza",
+      "Reciprocità",
+      "Simpatia",
+      "Autorità"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 492,
+    "c": "Appunti",
+    "q": "L'effetto 'Dotazione' (Endowment Effect) sostiene che:",
+    "options": [
+      "Valutiamo di più un bene se lo possediamo",
+      "Vogliamo solo ciò che hanno gli altri",
+      "Preferiamo i regali rispetto agli acquisti",
+      "Il valore cala se il prodotto è usato"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 493,
+    "c": "Appunti",
+    "q": "Cosa si intende per 'Ambush Marketing'?",
+    "options": [
+      "Pubblicità occulta nei film horror",
+      "Associare un marchio a un evento senza pagare",
+      "Vendita porta a porta aggressiva",
+      "Marketing rivolto solo ai militari"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 494,
+    "c": "Appunti",
+    "q": "Nello studio della persuasione, la 'Fonte' è più efficace se:",
+    "options": [
+      "È simile al ricevente",
+      "Usa termini tecnici complessi",
+      "Parla molto lentamente",
+      "È dichiaratamente di parte"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 495,
+    "c": "Appunti",
+    "q": "L'effetto 'Halo' (Alone) può far sì che un prodotto bello sia giudicato:",
+    "options": [
+      "Anche di alta qualità",
+      "Troppo costoso per tutti",
+      "Fragile e poco resistente",
+      "Poco utile nella pratica"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 496,
+    "c": "Appunti",
+    "q": "Un acquisto 'Compulsivo' è caratterizzato da:",
+    "options": [
+      "Perdita di controllo e finalità terapeutica",
+      "Pianificazione attenta e ricerca di sconti",
+      "Bisogno di utilità a lungo termine",
+      "Confronto razionale tra marche diverse"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 497,
+    "c": "Appunti",
+    "q": "Il 'Nudge' agisce principalmente su:",
+    "options": [
+      "Il Sistema 1 (automatico/intuitivo)",
+      "Il Sistema 2 (riflessivo/logico)",
+      "La memoria a lungo termine",
+      "I riflessi motori condizionati"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 498,
+    "c": "Appunti",
+    "q": "La 'Saturazione Sensoriale' porta a:",
+    "options": [
+      "Un aumento dell'attenzione",
+      "Una diminuzione della risposta (adattamento)",
+      "Una migliore memorizzazione dei dettagli",
+      "Un acquisto più rapido e sicuro"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 499,
+    "c": "Appunti",
+    "q": "L'effetto 'Framing' dimostra che le persone temono di più:",
+    "options": [
+      "Una perdita sicura",
+      "Un guadagno incerto",
+      "Un prezzo troppo basso",
+      "Un marchio poco noto"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 500,
+    "c": "Appunti",
+    "q": "Qual è lo scopo principale del 'Mistery Shopping'?",
+    "options": [
+      "Valutare la qualità del servizio in incognito",
+      "Rubare i segreti della concorrenza",
+      "Aumentare artificialmente le vendite",
+      "Testare nuovi prodotti non ancora usciti"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 501,
+    "c": "Appunti",
+    "q": "La 'Memoria di Lavoro' ha una capacità:",
+    "options": [
+      "Illimitata e permanente",
+      "Limitata (circa 7 elementi)",
+      "Solo visiva e mai uditiva",
+      "Legata esclusivamente alle emozioni"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 502,
+    "c": "Appunti",
+    "q": "Il 'Posizionamento' di un marchio avviene:",
+    "options": [
+      "Nella mente del consumatore",
+      "Sugli scaffali dei supermercati",
+      "Nei bilanci di fine anno",
+      "Sulle mappe geografiche di vendita"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 503,
+    "c": "Appunti",
+    "q": "In psicologia, la 'Motivazione Intrinseca' deriva da:",
+    "options": [
+      "Soddisfazione personale interna",
+      "Premi in denaro e incentivi",
+      "Paura di punizioni esterne",
+      "Ordini diretti dei superiori"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 504,
+    "c": "Appunti",
+    "q": "L'effetto 'Bystander' suggerisce che la responsabilità è:",
+    "options": [
+      "Diffusa tra i presenti",
+      "Assunta dal leader del gruppo",
+      "Inesistente nelle grandi folle",
+      "Legata solo al genere maschile"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 505,
+    "c": "Appunti",
+    "q": "Il 'Product Placement' consiste nel:",
+    "options": [
+      "Inserire prodotti in contesti narrativi",
+      "Spostare prodotti in magazzino",
+      "Eliminare prodotti difettosi",
+      "Analizzare i prezzi dei competitor"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 506,
+    "c": "Appunti",
+    "q": "Cosa indica l'acronimo 'ROI' nel marketing?",
+    "options": [
+      "Ritorno sull'investimento",
+      "Ricerca Operativa Interna",
+      "Risposta Oculare Immediata",
+      "Rischio Oggettivo Individuale"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 507,
+    "c": "Appunti",
+    "q": "La 'Dissonanza Cognitiva' è più forte quando:",
+    "options": [
+      "La decisione è costosa e irrevocabile",
+      "L'acquisto è banale e ripetitivo",
+      "Non ci sono alternative valide",
+      "Il prodotto è un regalo ricevuto"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 508,
+    "c": "Appunti",
+    "q": "Quale di questi è un 'Indice Periferico' di persuasione?",
+    "options": [
+      "La bellezza del testimonial",
+      "I dati statistici del prodotto",
+      "La prova scientifica di efficacia",
+      "La garanzia di 10 anni inclusa"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 509,
+    "c": "Appunti",
+    "q": "L'effetto 'Decoy' (Esca) serve a:",
+    "options": [
+      "Spostare la scelta su un'opzione target",
+      "Confondere il cliente per non farlo comprare",
+      "Aumentare il prezzo di tutti i beni",
+      "Nascondere l'assenza di scorte in magazzino"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 510,
+    "c": "Appunti",
+    "q": "La 'Riprova Sociale' funziona meglio in caso di:",
+    "options": [
+      "Incertezza e somiglianza",
+      "Conoscenza tecnica profonda",
+      "Isolamento sociale totale",
+      "Prezzi estremamente bassi"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 511,
+    "c": "Appunti",
+    "q": "Nelle interviste, l'effetto 'Desiderabilità Sociale' porta a:",
+    "options": [
+      "Rispondere ciò che sembra corretto socialmente",
+      "Dire sempre la verità anche se scomoda",
+      "Mentire per danneggiare l'azienda",
+      "Non rispondere a nessuna domanda"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 512,
+    "c": "Appunti",
+    "q": "La 'Brand Loyalty' è definita da:",
+    "options": [
+      "Acquisto ripetuto e impegno psicologico",
+      "Acquisto casuale basato sullo sconto",
+      "Uso del prodotto solo in emergenza",
+      "Conoscenza del nome del marchio"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 513,
+    "c": "Appunti",
+    "q": "Cos'è la 'Mental Accounting'?",
+    "options": [
+      "Trattare il denaro diversamente in base all'origine",
+      "Fare calcoli matematici a mente molto veloci",
+      "Dimenticare quanto si è speso realmente",
+      "Contare i prodotti visti in vetrina"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 514,
+    "c": "Appunti",
+    "q": "L'effetto 'Diderot' riguarda:",
+    "options": [
+      "La ricerca di coerenza tra i propri beni",
+      "Il risparmio eccessivo su beni di lusso",
+      "L'odio verso le novità tecnologiche",
+      "L'acquisto di libri di filosofia antica"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 515,
+    "c": "Appunti",
+    "q": "Quale stile di leadership favorisce la creatività nei gruppi?",
+    "options": [
+      "Democratico",
+      "Autoritario",
+      "Laissez-faire",
+      "Narcisistico"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 516,
+    "c": "Appunti",
+    "q": "Il 'Sleeper Effect' riguarda la persuasione a:",
+    "options": [
+      "Lungo termine",
+      "Breve termine",
+      "Livello inconscio",
+      "Livello subliminale"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 517,
+    "c": "Appunti",
+    "q": "La 'Customer Satisfaction' si misura confrontando:",
+    "options": [
+      "Aspettative e prestazioni percepite",
+      "Prezzo pagato e prezzo di listino",
+      "Qualità del prodotto e del packaging",
+      "Numero di acquisti e resi effettuati"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 518,
+    "c": "Appunti",
+    "q": "L'approccio 'Psicografico' analizza:",
+    "options": [
+      "Valori, opinioni e stili di vita",
+      "Età, reddito e classe sociale",
+      "Area geografica e clima",
+      "Genetica e tratti ereditari"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 519,
+    "c": "Appunti",
+    "q": "La 'Soglia Assoluta' è influenzata da:",
+    "options": [
+      "Stato fisico e motivazione",
+      "Solo dal prezzo del prodotto",
+      "Dalle leggi dello Stato",
+      "Dal colore degli occhi"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 520,
+    "c": "Appunti",
+    "q": "Cosa indica il termine 'Touchpoint'?",
+    "options": [
+      "Punto di contatto tra marca e cliente",
+      "Il momento del pagamento alla cassa",
+      "Lo schermo touch di uno smartphone",
+      "Il sensore di impronte digitali"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 521,
+    "c": "Appunti",
+    "q": "L'apprendimento 'Incidentale' avviene:",
+    "options": [
+      "Senza un'intenzione esplicita di imparare",
+      "Dopo un evento traumatico o un incidente",
+      "Studiando intensamente per un esame",
+      "Ascoltando solo musica classica"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 522,
+    "c": "Appunti",
+    "q": "Il 'Self-Concept' ideale rappresenta:",
+    "options": [
+      "Come vorremmo essere",
+      "Come siamo realmente ora",
+      "Come pensiamo che gli altri ci vedano",
+      "Come eravamo durante l'infanzia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 523,
+    "c": "Appunti",
+    "q": "L'effetto 'Ostracismo' nei consumi può portare a:",
+    "options": [
+      "Acquisti per ristabilire il legame sociale",
+      "Un risparmio forzato di denaro",
+      "L'uso di soli prodotti tecnologici",
+      "Il disinteresse totale verso i marchi"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 524,
+    "c": "Appunti",
+    "q": "Cos'è la 'User Experience' (UX)?",
+    "options": [
+      "L'emozione complessiva dell'utente con l'uso",
+      "La velocità di caricamento di un sito",
+      "Il manuale d'uso di un elettrodomestico",
+      "La riparazione di un prodotto guasto"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 525,
+    "c": "Appunti",
+    "q": "La 'Riancoraggio' (Reframing) serve a:",
+    "options": [
+      "Cambiare prospettiva su un problema",
+      "Aumentare il numero di ancore di prezzo",
+      "Fissare il prezzo al livello più alto",
+      "Ignorare le lamentele dei clienti"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 526,
+    "c": "Appunti",
+    "q": "L'effetto 'Zeigarnik' è usato nei serial per:",
+    "options": [
+      "Creare suspense (cliffhanger)",
+      "Riassumere le puntate precedenti",
+      "Presentare i titoli di coda",
+      "Inserire pubblicità occulta"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 527,
+    "c": "Appunti",
+    "q": "La 'Categorizzazione' aiuta il consumatore a:",
+    "options": [
+      "Semplificare l'ambiente decisionale",
+      "Aumentare il tempo di scelta in negozio",
+      "Eliminare la necessità di memoria",
+      "Comprare sempre il prodotto più caro"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 528,
+    "c": "Appunti",
+    "q": "Il 'Prezzo di Riferimento' è:",
+    "options": [
+      "Lo standard interno usato per il confronto",
+      "Il prezzo più basso mai registrato",
+      "Il prezzo imposto dal governo",
+      "Il costo di produzione del bene"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 529,
+    "c": "Appunti",
+    "q": "Un 'Aisole' (isola) nel layout del negozio serve a:",
+    "options": [
+      "Attirare l'attenzione su promozioni",
+      "Dividere i clienti in base al genere",
+      "Nascondere le uscite di sicurezza",
+      "Pulire il pavimento più facilmente"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 530,
+    "c": "Appunti",
+    "q": "Il 'Co-Branding' avviene quando:",
+    "options": [
+      "Due marchi collaborano per un prodotto",
+      "Un marchio ne acquista un altro",
+      "Un marchio cambia nome e logo",
+      "Un marchio fallisce e chiude"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 531,
+    "c": "Appunti",
+    "q": "L'effetto 'Pygmalion' riguarda:",
+    "options": [
+      "L'influenza delle aspettative sulle prestazioni",
+      "Il timore dei luoghi molto affollati",
+      "La passione per le statue classiche",
+      "L'acquisto di prodotti di taglia piccola"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 532,
+    "c": "Appunti",
+    "q": "La 'Gamification' mira ad aumentare:",
+    "options": [
+      "L'engagement e la partecipazione",
+      "Il numero di ore di sonno degli utenti",
+      "La difficoltà d'uso del sito web",
+      "Il costo degli abbonamenti mensili"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 533,
+    "c": "Appunti",
+    "q": "Il 'Neuromarketing' usa l'EEG per:",
+    "options": [
+      "Misurare le onde cerebrali in tempo reale",
+      "Curare l'epilessia dei consumatori",
+      "Leggere il pensiero conscio esatto",
+      "Analizzare il DNA dei clienti fedeli"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 534,
+    "c": "Appunti",
+    "q": "L'effetto 'Ben Franklin' sostiene che:",
+    "options": [
+      "Chi ci fa un favore ci vorrà più bene",
+      "Il denaro non compra mai la felicità",
+      "Bisogna risparmiare ogni centesimo",
+      "I politici sono i migliori testimonial"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 535,
+    "c": "Appunti",
+    "q": "Il 'Nostalgia Marketing' usa ricordi per:",
+    "options": [
+      "Creare un legame emotivo col passato",
+      "Dimostrare che il futuro è peggiore",
+      "Vendere solo a persone anziane",
+      "Evitare di pagare nuove tasse"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 536,
+    "c": "Appunti",
+    "q": "La 'Social Identity Theory' è stata proposta da:",
+    "options": [
+      "Tajfel",
+      "Freud",
+      "Skinner",
+      "Pavlov"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 537,
+    "c": "Appunti",
+    "q": "Il 'Dark Pattern' è una pratica di design:",
+    "options": [
+      "Manipolatoria",
+      "Etica",
+      "Ecologica",
+      "Invisibile"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 538,
+    "c": "Appunti",
+    "q": "L'effetto 'Veblen' riguarda i beni:",
+    "options": [
+      "Di lusso",
+      "Di scarto",
+      "Alimentari",
+      "Digitali"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 539,
+    "c": "Appunti",
+    "q": "La 'Heuristic' è una scorciatoia:",
+    "options": [
+      "Mentale",
+      "Fisica",
+      "Logistica",
+      "Informatica"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 540,
+    "c": "Appunti",
+    "q": "L'ultima fase del processo d'acquisto è:",
+    "options": [
+      "Valutazione post-acquisto",
+      "Pagamento della merce",
+      "Ricerca delle alternative",
+      "Riconoscimento del bisogno"
     ],
     "correct": 0
   }
